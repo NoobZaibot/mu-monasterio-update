@@ -1,0 +1,2401 @@
+{
+  "version": "1.0.3",
+  "baseUrl": "https://noobzaibot.github.io/mu-monasterio-update/",
+  "files": [
+    {
+      "path": "Data/Custom/Item/AMB01114306201313.ozj",
+      "sha256": "3B5E7818981F0A94F24CA9F2DA87F869544888C95194FF75B0158B3EF27D3A73",
+      "size": 36835
+    },
+    {
+      "path": "Data/Custom/Item/AMB01114306201314.ozj",
+      "sha256": "D3D0AA1D435DF96FB1ED338F4A1F42B981D1CE3BA01BA28A093421E756810B65",
+      "size": 36639
+    },
+    {
+      "path": "Data/Custom/Item/AMB01114306201315.ozj",
+      "sha256": "AF0844C95A864D4CE210CA7D4C3ECF21E83C5C076A78DC20AB2624BD8961ED98",
+      "size": 83966
+    },
+    {
+      "path": "Data/Custom/Item/AMB01114306201316.ozj",
+      "sha256": "410D6F192EBB1669139F8DE7B9F0212A9F4AE5D7DB33D92D7E956DB578283CA7",
+      "size": 97193
+    },
+    {
+      "path": "Data/Custom/Item/AMB01114306201317.ozj",
+      "sha256": "6E736265FE0D08C876F75724B43FF11ACF5E97437368973A2123484CD5F3DC96",
+      "size": 37620
+    },
+    {
+      "path": "Data/Custom/Item/AmbitionShield.bmd",
+      "sha256": "B85BF3FB7F4594FA7DD74B19633D585C55E4B42B29843B0E390F41655E98AE7E",
+      "size": 68150
+    },
+    {
+      "path": "Data/Custom/Item/AmbitionShield.ozj",
+      "sha256": "B396F1EA9DB993509290B046F46ACD4CA8C4B58BF628749AF4FB4F42A96028F3",
+      "size": 77538
+    },
+    {
+      "path": "Data/Custom/Item/AngelicBow.ozj",
+      "sha256": "FA919FAB086184C8D9C35FEB03C89257509335E0F6D64C72DFBB76B6484AF7B4",
+      "size": 103090
+    },
+    {
+      "path": "Data/Custom/Item/angelicboweff_R.ozj",
+      "sha256": "4B4D4F7095AF8BB6BC1A7560E051568AF6F828ED2E593A9F1CDB566B9752EFDD",
+      "size": 28729
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMail_bloody_dragon.bmd",
+      "sha256": "2866155F9C09E5B92686458F7BAEFC0912FC582921B5232D5BE5B85764C6EB9A",
+      "size": 137826
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale105.bmd",
+      "sha256": "052094D10BC3F16D3BB50D2B414B6088535EEF727D2FA8D69E6056E79AC27C66",
+      "size": 91882
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale107.bmd",
+      "sha256": "6C12E6BD5E47C921ED4EB50708864591E7FAF6364A8F40EAA7FB40108B12E8CE",
+      "size": 106420
+    },
+    {
+      "path": "Data/Custom/Item/armormale17.bmd",
+      "sha256": "A86F308774F944FB7D5E7A3567904688367592DD3E476B6E51A4B6E04D45961E",
+      "size": 194176
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale203.bmd",
+      "sha256": "37BAE2A4A8AFAF28263EB4BE4DF1CC6714DE60CC33EA210BA1ABDC8C5BCB270B",
+      "size": 151706
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale55.bmd",
+      "sha256": "C605E331E5933AACFB8D84523313217EC5448B57D961A3E2F3267404582CEDE2",
+      "size": 151664
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale57.bmd",
+      "sha256": "4277CC11562073D924B8C099F32A834465FE3D05444B15FE9842C63865AC4805",
+      "size": 152098
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale59.bmd",
+      "sha256": "BB513D00507B23FBDD41D5D718D57C1D5BC4CC112351D6C5857F83100A9C3A20",
+      "size": 96000
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale75.bmd",
+      "sha256": "CD2B2F633A051C5503E05EFDD0EB5C3A1FAC114BCE950F8219B9D9B8C5D90016",
+      "size": 123874
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale76.bmd",
+      "sha256": "B61BAA4BF937CF656B22165273F53A68488CABE98F05205169BA36BE9251BBAF",
+      "size": 160722
+    },
+    {
+      "path": "Data/Custom/Item/ArmorMale77.bmd",
+      "sha256": "4277CC11562073D924B8C099F32A834465FE3D05444B15FE9842C63865AC4805",
+      "size": 152098
+    },
+    {
+      "path": "Data/Custom/Item/asura.bmd",
+      "sha256": "C0C474C9A2CE66C7DBA9CBFE0A06EE55370FB24E4B3208153D073EAB9434267E",
+      "size": 103614
+    },
+    {
+      "path": "Data/Custom/Item/AsuraSwordA.ozj",
+      "sha256": "FD5CF9CA982D20F7F570316688A5D39DCF6E2EF9BAAB7FD73F891D3FBC07CF3E",
+      "size": 19442
+    },
+    {
+      "path": "Data/Custom/Item/AsuraSwordB_R.ozj",
+      "sha256": "61C16D4199B117B1E7C307DCDABB59FB913145B7D9A24E1F306598B9EBC78111",
+      "size": 29564
+    },
+    {
+      "path": "Data/Custom/Item/balhalla_sword.bmd",
+      "sha256": "079B066E268187BE47C94FF5BBC91583C79BC0E6CE8DD6157F014CCFF81E2570",
+      "size": 29049
+    },
+    {
+      "path": "Data/Custom/Item/basic_alice3.ozj",
+      "sha256": "DBA9081D15883670E6BEC02A8988733725C152F47430F2F96AC2C31F7F78B8C7",
+      "size": 118146
+    },
+    {
+      "path": "Data/Custom/Item/basic_alice3_hair.ozt",
+      "sha256": "452B4B8350C559A55D5FFB9BE36C29B8B8A4F8847CF0CAB3AC4368F4D785D561",
+      "size": 16432
+    },
+    {
+      "path": "Data/Custom/Item/blastbreak.bmd",
+      "sha256": "DAC653AA68F2612A5E253E21C8E223F638F328F826CB7A51D6BD4A9D59B03227",
+      "size": 54569
+    },
+    {
+      "path": "Data/Custom/Item/blastbreak.ozj",
+      "sha256": "034658AA0A3AFEF9287EDD5FEBFE02F4E0790F7B82A48282319E76CC77B49AE9",
+      "size": 35984
+    },
+    {
+      "path": "Data/Custom/Item/blastbreaknal_R.ozj",
+      "sha256": "362D0112BCFE7EBDBB3AD26E5B3462D4E5AB01DA460FA1076DF7CCE7FB988129",
+      "size": 24342
+    },
+    {
+      "path": "Data/Custom/Item/BloodyDragonDetail.ozj",
+      "sha256": "02BD4A81B27B701C99DA27BE6B4DABB3FBDC52801298E52C69FAA69F606B6F22",
+      "size": 9980
+    },
+    {
+      "path": "Data/Custom/Item/BloodyDragonPartBrN.ozj",
+      "sha256": "4E7525D2EB778C3F6AB755E7A9298C54187E37930BDFCBE8D0106FEA75649472",
+      "size": 23214
+    },
+    {
+      "path": "Data/Custom/Item/BloodyDragonPartBTS.ozj",
+      "sha256": "12A7C451E8BC007B1A341E7A0FE655C0F3E24D6595CDBAA0D684FAE78065D588",
+      "size": 24631
+    },
+    {
+      "path": "Data/Custom/Item/BloodyDragonParteTc.ozj",
+      "sha256": "7C85FE42BDDCDFCD42DA518E2C8D92B9178ED4400B487D701907EAAD8052F244",
+      "size": 21747
+    },
+    {
+      "path": "Data/Custom/Item/BloodyDragonPartFrG.ozj",
+      "sha256": "27E7FD1F3B9B606C1466F40F63A4F2B1BC13A7658C338029450C72213CB26183",
+      "size": 27311
+    },
+    {
+      "path": "Data/Custom/Item/BloodyDragonPartNrG.ozj",
+      "sha256": "4FC07C87881A478735683AA98667FB418F578E7055E4926D0162E1C543367714",
+      "size": 59930
+    },
+    {
+      "path": "Data/Custom/Item/Boot.ozj",
+      "sha256": "FEC8F905D3930EB08FA08D5ED031E2C7CBA4AAB731C351067E9C211B507CB790",
+      "size": 35076
+    },
+    {
+      "path": "Data/Custom/Item/BootMail_bloody_dragon.bmd",
+      "sha256": "369777C2A040E4F27D4DCFBCC24494ED645CC4C9941E0926D1EFBEA58F877604",
+      "size": 30096
+    },
+    {
+      "path": "Data/Custom/Item/BootMale105.bmd",
+      "sha256": "42179A48DFF2F0AEA7AABDE1A3D9B26CBE95C7AD30257BB633CB2B182FC71DBE",
+      "size": 56848
+    },
+    {
+      "path": "Data/Custom/Item/BootMale107.bmd",
+      "sha256": "9903C4DDA6CA36A1DBCCDA0C5FFFCC603BBE1309B99C83119A8DDCA97AB982D7",
+      "size": 34872
+    },
+    {
+      "path": "Data/Custom/Item/bootmale17.bmd",
+      "sha256": "A591A812A7762CBFB15593B6F19B4C601E8316A2D3123600D8FCE2AA0E6147E8",
+      "size": 93064
+    },
+    {
+      "path": "Data/Custom/Item/BootMale203.bmd",
+      "sha256": "C58681DBD006ED3008610DF61A68EE050670C748D91B05B6FD94393EBF7ABB8F",
+      "size": 54840
+    },
+    {
+      "path": "Data/Custom/Item/BootMale55.bmd",
+      "sha256": "39ECB0A2873ECC0BA8F753FC7895A885B3F77CCFA2F10231D0988B6C1997772D",
+      "size": 129320
+    },
+    {
+      "path": "Data/Custom/Item/BootMale57.bmd",
+      "sha256": "3607D05C51931C8A6088B6BB2F73C9C0A5A9F7CE3CFEC45BDAB61247F62406C9",
+      "size": 58018
+    },
+    {
+      "path": "Data/Custom/Item/BootMale59.bmd",
+      "sha256": "70FF22E69FB2FB56884C973551068379D3554D6423F324FCCB9532B3370F7B3D",
+      "size": 62680
+    },
+    {
+      "path": "Data/Custom/Item/BootMale75.bmd",
+      "sha256": "A38B3090271759971D1D82EF4745F08800306F84BB1591C38C1EE60D8F959EC5",
+      "size": 110112
+    },
+    {
+      "path": "Data/Custom/Item/BootMale76.bmd",
+      "sha256": "E88B1BE467455FD8867268817F20761BEF0A4963CE072D8967A1CE04451B6985",
+      "size": 47000
+    },
+    {
+      "path": "Data/Custom/Item/BootMale77.bmd",
+      "sha256": "3607D05C51931C8A6088B6BB2F73C9C0A5A9F7CE3CFEC45BDAB61247F62406C9",
+      "size": 58018
+    },
+    {
+      "path": "Data/Custom/Item/bow26.bmd",
+      "sha256": "E26EEECE8ED0A8D0069715BE06AC2BC67AA142A3DE9C6D3AC8BF5CCD1EF58803",
+      "size": 112205
+    },
+    {
+      "path": "Data/Custom/Item/cabo.ozj",
+      "sha256": "F20682B071E2360109D56906E8D9AA201D51D5BBD634F9D41B3FEDB185B722AD",
+      "size": 16535
+    },
+    {
+      "path": "Data/Custom/Item/CrazyWind.bmd",
+      "sha256": "08E3CDA8BC716876DF67B2769B00EB1DDB9DD1F0E4A0028230D026CD9227B711",
+      "size": 36203
+    },
+    {
+      "path": "Data/Custom/Item/CrazyWind.ozj",
+      "sha256": "0A311416FB220A4FA2D76F21A8A432EC21B006C4FE12CF6AC9C9CF46D26135B2",
+      "size": 88441
+    },
+    {
+      "path": "Data/Custom/Item/darkdevilS.bmd",
+      "sha256": "1067B6DCD015580CE6E7D4A0B1AB5AA6FF4D7B0AE2BF3840899F7E4879C0522D",
+      "size": 38750
+    },
+    {
+      "path": "Data/Custom/Item/darkdevilS.ozj",
+      "sha256": "977038F50D72ECE97C77B78623D569A9BCF4046FDC4A3619E598FD150DA0524D",
+      "size": 121536
+    },
+    {
+      "path": "Data/Custom/Item/Dec31170908201214.ozj",
+      "sha256": "38EC72DE532F78B39D2CF285364BD2E47D8E1D776C76B82402DD6661688F20EB",
+      "size": 20817
+    },
+    {
+      "path": "Data/Custom/Item/Dec31170908201215.ozj",
+      "sha256": "2FC200FD185CFAB24EBEB6B64609CB61F62E6733171A8BFF6F9B326439D968D8",
+      "size": 32972
+    },
+    {
+      "path": "Data/Custom/Item/Dec31170908201216.ozj",
+      "sha256": "142C8CC7BA0EAEDC1FCC6693C7B1BD7650BB93B17AC2F901D4A44CBFB0791F32",
+      "size": 20527
+    },
+    {
+      "path": "Data/Custom/Item/Dec31170908201217.ozj",
+      "sha256": "090F88A6CB45D9C4ED6E2C5B219EAE4292D4E0916F28709B32AE9DBCA2FA102F",
+      "size": 23960
+    },
+    {
+      "path": "Data/Custom/Item/Dec31170908201218.ozj",
+      "sha256": "81B453BEBFD8FB8B55154E0AE3AFD2EB6489E4A33CDB2289F0EB425AC8AAD44C",
+      "size": 25742
+    },
+    {
+      "path": "Data/Custom/Item/devilcrossbow.bmd",
+      "sha256": "8C8D695943EB63EB09CA7417F213E6D587C98D038E64C7FE6669E13B28070FDD",
+      "size": 66327
+    },
+    {
+      "path": "Data/Custom/Item/devilcrossbow.ozj",
+      "sha256": "609B7CDCAC0E5A95611A724EEC4DCAAFA569B7BBAFF24EB53E129CCDD47159F0",
+      "size": 47951
+    },
+    {
+      "path": "Data/Custom/Item/devilcrossbowchok.ozj",
+      "sha256": "041E0B8D19B22E555473F886B0AEB01F636DA94F8D2301793C3A201B6C886544",
+      "size": 18273
+    },
+    {
+      "path": "Data/Custom/Item/devilcrossbowfront.ozj",
+      "sha256": "68D2D0A295F496EE0DC06777D1AB6592366AB875F109172E6D457DACB5C5C28C",
+      "size": 14420
+    },
+    {
+      "path": "Data/Custom/Item/flareBlue.ozj",
+      "sha256": "E261B59F57FDF0C514917A388F02AC66B832C2BE9F97A3F90BC36C98D7B2FB32",
+      "size": 10927
+    },
+    {
+      "path": "Data/Custom/Item/flareRed.ozj",
+      "sha256": "FC7B772D1B8685B5B89989838431616D19224E321A1492CC95F9B5369B794A48",
+      "size": 10371
+    },
+    {
+      "path": "Data/Custom/Item/GloveDetailFrG.ozj",
+      "sha256": "39A17CCD4A427CB927DB2B1B7B656AE87847E9072175E18175E1369ADA0BB2A7",
+      "size": 21180
+    },
+    {
+      "path": "Data/Custom/Item/GloveDetailNrG.ozj",
+      "sha256": "A5B1BDE32B9EDE26B1AC42DC7CF0FB3B07B085BBA426F95C6DE7BD9984EDC877",
+      "size": 22633
+    },
+    {
+      "path": "Data/Custom/Item/GloveFrG.ozj",
+      "sha256": "3397DB9511D6782B2C27D32C2128BE24C3852B4593E08B609844F6C7698A79F0",
+      "size": 49398
+    },
+    {
+      "path": "Data/Custom/Item/glovemale17.bmd",
+      "sha256": "3D253639BE94C860DEE3A2CF6CE5F39E68FB9A9624D09932A041D4CE5FF2F2C1",
+      "size": 202644
+    },
+    {
+      "path": "Data/Custom/Item/GloveMale203.bmd",
+      "sha256": "AD09F393D04D2E3E3B967DBC081325F2BE59F609AB58DB1F6C99C4A86776AEF6",
+      "size": 61938
+    },
+    {
+      "path": "Data/Custom/Item/GloveMale55.bmd",
+      "sha256": "2914291E3A1A8941F83520CEC52A8155B641F5776FC3D2A4E03DBFC75F46C7C5",
+      "size": 88986
+    },
+    {
+      "path": "Data/Custom/Item/GloveMale57.bmd",
+      "sha256": "C497E791CE97D2C46CFF0CBC43C9F6DE4BB9E0938D58D8EEF40132E801D44461",
+      "size": 51746
+    },
+    {
+      "path": "Data/Custom/Item/GloveMale59.bmd",
+      "sha256": "723C36546BC01760CAFAF105092C5F2D6053724A36253AA0B3B844B0D60E938C",
+      "size": 50920
+    },
+    {
+      "path": "Data/Custom/Item/GloveMale75.bmd",
+      "sha256": "F5D1D241AC1DF4BD0437736111810A03BD7CB279C73EE50B881046878962D8A9",
+      "size": 82280
+    },
+    {
+      "path": "Data/Custom/Item/GloveMale76.bmd",
+      "sha256": "961DF19D110CABE6896BC767045431C519F20DF71A96C1F1E62BCB8318DEAC2F",
+      "size": 81496
+    },
+    {
+      "path": "Data/Custom/Item/GloveMale77.bmd",
+      "sha256": "C497E791CE97D2C46CFF0CBC43C9F6DE4BB9E0938D58D8EEF40132E801D44461",
+      "size": 51746
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBoxBlue.OZJ",
+      "sha256": "0B04FA51169F13751F91A490B6FF5C5E9C091E6F1DA4F180C0DB2CE47BE762A6",
+      "size": 35069
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBoxGreen.OZJ",
+      "sha256": "161BA2BFB7641AF40A227B681234AD8F3A49B1D4AA1B6FF56503444274F06B4F",
+      "size": 34967
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBoxRed.OZJ",
+      "sha256": "3940CCE58D892501864260FE22995A647403516DC9E0F457749CE500ADAC19BB",
+      "size": 35908
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBoxYellow.OZJ",
+      "sha256": "4FA511776EF6E535AB9F3AF5072669A40E70D86A244F748A491E8F55259AF906",
+      "size": 38152
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBox_Blue.bmd",
+      "sha256": "6F33F80A144E6206BFFEF5C78653EF3BBFD6E3E334EE34E188C67ED19D7CAAB4",
+      "size": 18134
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBox_Green.bmd",
+      "sha256": "0A9C529245E320BF2DFD115C2989C8DE7C40B8551E626F7AA8AD4DAD03821F39",
+      "size": 17894
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBox_Red.bmd",
+      "sha256": "BB3574BED4161618FD1B33572EF074A4FBC7F559E302DF8C498676393FDE8D61",
+      "size": 18134
+    },
+    {
+      "path": "Data/Custom/Item/GoblinBox_Yellow.bmd",
+      "sha256": "1291EF0F551DC15D2A5737EB144B307E8DC74C75A0D2AFD9085FBF1A6B88EA71",
+      "size": 18134
+    },
+    {
+      "path": "Data/Custom/Item/gra.ozj",
+      "sha256": "E7C6D3F1706D3296AB1FF848570A21232C207D4A03AD5E1AC480EC2381EC1E65",
+      "size": 13192
+    },
+    {
+      "path": "Data/Custom/Item/gra1002.ozt",
+      "sha256": "DCE965DFCD35DEC0FFF477DA2344D30AA8650B22574B84A5DBB1ACC9F329619F",
+      "size": 65584
+    },
+    {
+      "path": "Data/Custom/Item/Helmet.ozj",
+      "sha256": "EA4D46B5D1DEDCAB216E696D542BB858F859DE669F5B8855D8F4F460736891B3",
+      "size": 33156
+    },
+    {
+      "path": "Data/Custom/Item/HelmMail_bloody_dragon.bmd",
+      "sha256": "A8268A5F22EA298F85C7704B59F6454970244E310D6C2776A7345CBC423D5ED2",
+      "size": 60818
+    },
+    {
+      "path": "Data/Custom/Item/HelmMale105.bmd",
+      "sha256": "5A6D36EEBAAA0FC6948ADEDBBCCFA58ED6521651148AF3A99A568896603334B2",
+      "size": 50474
+    },
+    {
+      "path": "Data/Custom/Item/HelmMale107.bmd",
+      "sha256": "0FFFE9329E9E59EBB7CAEDB7A5FE82AA4B10F429B724B521AF1A0178A8EC5C81",
+      "size": 38124
+    },
+    {
+      "path": "Data/Custom/Item/helmmale17.bmd",
+      "sha256": "862C271736B97DEC65FA965927A3BE3B1FF641D28B721CFF2FB9BC0C989D3AFB",
+      "size": 261196
+    },
+    {
+      "path": "Data/Custom/Item/HelmMale203.bmd",
+      "sha256": "390589A9A63001427F0E0AEC645D84DAC1CE6E00BD1B1C5FB2F6B2C14DABC344",
+      "size": 70758
+    },
+    {
+      "path": "Data/Custom/Item/HelmMale55.bmd",
+      "sha256": "5E02F4DD069462EC6F6BD7E07FD9C629BFE7B6D88998E91E105A21091EA1C2C8",
+      "size": 138028
+    },
+    {
+      "path": "Data/Custom/Item/HelmMale59.bmd",
+      "sha256": "C73A20A7E3320514494EEE662FB1009245F95CBB405130132F397FDDF8C0E619",
+      "size": 62918
+    },
+    {
+      "path": "Data/Custom/Item/HelmMale75.bmd",
+      "sha256": "72C87706D34FC1EBA7B7001D8D11DE62565A2B02D7682D267CED13443F8B42FB",
+      "size": 49590
+    },
+    {
+      "path": "Data/Custom/Item/HelmMale76.bmd",
+      "sha256": "A27B8935EB2404B109EC4C7C84A39A1CC91E8D5AFBC04F9F2E9611F4C6F73230",
+      "size": 54882
+    },
+    {
+      "path": "Data/Custom/Item/hornbody.ozj",
+      "sha256": "8A42F8C5BA7BBED4BC3E40405C7D82CBD3C12FEDD479EB89D8ED958F62E94E6F",
+      "size": 13309
+    },
+    {
+      "path": "Data/Custom/Item/hornhorn.ozj",
+      "sha256": "1B943F56054EC44E1EE2BCC417090659F5F0B472BCC6D16A93B6C451E93F9713",
+      "size": 18868
+    },
+    {
+      "path": "Data/Custom/Item/hornofsteel.bmd",
+      "sha256": "534F8347FC93B871C0D437F0D432B001EAD2450D9C52EAAE0FF9B8AB15059D68",
+      "size": 49582
+    },
+    {
+      "path": "Data/Custom/Item/HrCaJRt.jpg",
+      "sha256": "60C0CBE2A6243778E419DA4035786325011A5376F5D06EE54ADE1B3C453179E3",
+      "size": 52071
+    },
+    {
+      "path": "Data/Custom/Item/HSTEEL03142009201312.ozj",
+      "sha256": "54D5ADE6CE05166FA7B00A332BB83EFDDB9B3EEF06D1065ADAD3A81EA50B594F",
+      "size": 40185
+    },
+    {
+      "path": "Data/Custom/Item/HSTEEL03142009201313.ozj",
+      "sha256": "A69252E2167B82A3E047AE862B0835882272FD45878997918E4ABEEA71B3B0DC",
+      "size": 17311
+    },
+    {
+      "path": "Data/Custom/Item/item1002_spear.ozj",
+      "sha256": "2B089DF421B0425629EC43958863A55E460B83E5A1222AE540BFC7E54042914D",
+      "size": 38121
+    },
+    {
+      "path": "Data/Custom/Item/Item2003_sward_edge.ozj",
+      "sha256": "17103494ABBD4754D448DA59B195BD51F753BEBAEF375CCAEC0CEEA518E54093",
+      "size": 16133
+    },
+    {
+      "path": "Data/Custom/Item/Item2003_sward_nonspec.ozj",
+      "sha256": "DB6239F2DFF7B6B4AF62EE24B5CDC93F650A207A9660AF00E50086FA155474FD",
+      "size": 41293
+    },
+    {
+      "path": "Data/Custom/Item/Item7105_Armor.ozj",
+      "sha256": "CFCDEE8F15054DDEA67E4097B3A617E9C0E344A999D7BF265412A7EEC9B80DF8",
+      "size": 42955
+    },
+    {
+      "path": "Data/Custom/Item/Item7105_Armor_R.ozj",
+      "sha256": "EE2D57ABA29EC03A7A700D555F04C761B23A0DFE8E52885A551BA5D9C5E6035A",
+      "size": 13932
+    },
+    {
+      "path": "Data/Custom/Item/Item7105_Boot.ozj",
+      "sha256": "CAD0AE2605774431059EB6804D312BE2FBF08A937A6C53011AAF529B24415872",
+      "size": 39111
+    },
+    {
+      "path": "Data/Custom/Item/Item7105_Helm.ozj",
+      "sha256": "EED5A9B037F76AC960D272CB2F9E65130940EAF2B0EDB92AD4F0F35343D1F4D2",
+      "size": 38407
+    },
+    {
+      "path": "Data/Custom/Item/Item7105_Pant.ozj",
+      "sha256": "EB050FDD0F4F646291892A00F851B085BD79464A2AA433265A289DD91C76ABD1",
+      "size": 38795
+    },
+    {
+      "path": "Data/Custom/Item/Item7105_weapon.ozj",
+      "sha256": "2FD88E9441735D90639DE0200EEA9B3C607C65E7E3821E69728694FADB0DC099",
+      "size": 117339
+    },
+    {
+      "path": "Data/Custom/Item/Item7107_Armor.ozj",
+      "sha256": "0580B060980A4F4A967B5D877F5893F5695CA014FC2AE1FB7590189FC29C8B84",
+      "size": 36877
+    },
+    {
+      "path": "Data/Custom/Item/Item7107_Boot.ozj",
+      "sha256": "C1D9E48B96658750859C48728EB98F742A0EADABDAE15BA22074677492BB3CE8",
+      "size": 33498
+    },
+    {
+      "path": "Data/Custom/Item/Item7107_Helm.ozj",
+      "sha256": "6200292F08BDFE46420C0C85CE9BBA755A44CBD120B19482001879FC8FED2804",
+      "size": 33426
+    },
+    {
+      "path": "Data/Custom/Item/Item7107_Pant.ozj",
+      "sha256": "D14945BDF2155643A77C8E8DEFF191E37F61BF23405A59A2E2517E9591BC49F0",
+      "size": 37613
+    },
+    {
+      "path": "Data/Custom/Item/Item7107_weapon.ozj",
+      "sha256": "BB4C623E6649A9223F24E9677E57C713F92AE05D9936589EB790F894F799732D",
+      "size": 53111
+    },
+    {
+      "path": "Data/Custom/Item/Item7107_weapon_effect.ozj",
+      "sha256": "15FE78D0C7AFEFC829845DE4D061F3BD554D49033D554510B6F376E05A991CFB",
+      "size": 25386
+    },
+    {
+      "path": "Data/Custom/Item/kerberos_spear_dark_road.bmd",
+      "sha256": "F59D4D8D40CD0A2410B04E5FE417C04AEDE682A3BDAE98D98ABC6FF673D1D6A0",
+      "size": 69521
+    },
+    {
+      "path": "Data/Custom/Item/lazywing1.ozj",
+      "sha256": "7575F10603D29BD4FA66F5194AD98F72ADDD6EA5E4766E0B555289D7B58C3866",
+      "size": 29729
+    },
+    {
+      "path": "Data/Custom/Item/lazywing2.ozj",
+      "sha256": "A5E931D5ADF4B383D5A02F63DC40D2D19AF36C8370E5331762B2B3B260CAA382",
+      "size": 39372
+    },
+    {
+      "path": "Data/Custom/Item/LazyWing202020.bmd",
+      "sha256": "A1B1F21778D377C1C8A4CD2048552151E8D5A0FB837788748CA6B51C0B807FE9",
+      "size": 57410
+    },
+    {
+      "path": "Data/Custom/Item/LazyWing202021.bmd",
+      "sha256": "980E436CB084940B6C147150FEC49637923C770C834A8058AD80130636067B90",
+      "size": 49656
+    },
+    {
+      "path": "Data/Custom/Item/LazyWing202022.bmd",
+      "sha256": "234019BFE0484E40C277E46E7A8D447C68DCFBB82A05CF69F73C8E2A39445C6C",
+      "size": 38248
+    },
+    {
+      "path": "Data/Custom/Item/LazyWing202023.bmd",
+      "sha256": "F579FFCB1F8F1C17D16401419F082E3FBC0C7C26092F97BFF94D5AF70985499F",
+      "size": 23774
+    },
+    {
+      "path": "Data/Custom/Item/LazyWing202024.bmd",
+      "sha256": "7E04870D09065DCFE2E3B2255C7FC77FDE18568BAA16DC191B8A7F75ACA9061F",
+      "size": 34198
+    },
+    {
+      "path": "Data/Custom/Item/lazywing3.ozj",
+      "sha256": "5A7BD8222EA2E78C978F5476A27B26D9B109B87A3F3C32EBE1015F7C11ECD401",
+      "size": 29950
+    },
+    {
+      "path": "Data/Custom/Item/lazywing4.ozj",
+      "sha256": "025E23EC836AA63FA148086341F1FEB1B69192E15003860B845E6AA89378C7AE",
+      "size": 31284
+    },
+    {
+      "path": "Data/Custom/Item/lazywing5.ozj",
+      "sha256": "CAAD70B9B75AE9EDD541F3A3C0CD3F959321A7D12CD1EC48D5741C3FA68F613C",
+      "size": 101468
+    },
+    {
+      "path": "Data/Custom/Item/lazywing6.ozj",
+      "sha256": "65F091A431162678288C0903380A8B36DDAA9432F9C29CB1E7FE207A684B7F90",
+      "size": 15955
+    },
+    {
+      "path": "Data/Custom/Item/lazywing7.ozj",
+      "sha256": "12380412D60743244318B69E5EED353E3B68C9CC404798B3720D8906DFD1E9B1",
+      "size": 35261
+    },
+    {
+      "path": "Data/Custom/Item/lazywing8.ozj",
+      "sha256": "7575F10603D29BD4FA66F5194AD98F72ADDD6EA5E4766E0B555289D7B58C3866",
+      "size": 29729
+    },
+    {
+      "path": "Data/Custom/Item/LevelClass107.ozj",
+      "sha256": "28D10D0DD23B8BC632EFFED516B9DF4D45265358B11F088853C3C609898195A0",
+      "size": 96558
+    },
+    {
+      "path": "Data/Custom/Item/level_man02.ozj",
+      "sha256": "6BC10D6560CFEE1BCB1BBA7FA08FBED9ABD2BD89090655FF608588B3A95E5E6B",
+      "size": 56618
+    },
+    {
+      "path": "Data/Custom/Item/lightning2.ozj",
+      "sha256": "FF93525D856EF1E266634AE4836EA8DA15F955AFC14ECBBE6F10E3F1A31FECB6",
+      "size": 19384
+    },
+    {
+      "path": "Data/Custom/Item/light_road.bmd",
+      "sha256": "BD4E6FD8592180663B5062EB2044B3D5EFA705936F63F284E7DF8B6F21750FBE",
+      "size": 30436
+    },
+    {
+      "path": "Data/Custom/Item/light_road.ozj",
+      "sha256": "E1F91AE450E710EC6A53DBB6EDCEB547559BC2F350F44BDF0D39312F4ECFD342",
+      "size": 92515
+    },
+    {
+      "path": "Data/Custom/Item/Lower.ozj",
+      "sha256": "DFC3B11E24C9B5F2471969E0551AC1D9E3FA521240C80E3DEC3668E95040A320",
+      "size": 31039
+    },
+    {
+      "path": "Data/Custom/Item/Mace21.bmd",
+      "sha256": "A8D41AD3903CEE33A4F96675E95EA1F6F720100C2BA02075791DB6B03D416D29",
+      "size": 101716
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight11.ozj",
+      "sha256": "2FC200FD185CFAB24EBEB6B64609CB61F62E6733171A8BFF6F9B326439D968D8",
+      "size": 32972
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight22.ozj",
+      "sha256": "81B453BEBFD8FB8B55154E0AE3AFD2EB6489E4A33CDB2289F0EB425AC8AAD44C",
+      "size": 25742
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight33.ozj",
+      "sha256": "38EC72DE532F78B39D2CF285364BD2E47D8E1D776C76B82402DD6661688F20EB",
+      "size": 20817
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight44.ozj",
+      "sha256": "2FC200FD185CFAB24EBEB6B64609CB61F62E6733171A8BFF6F9B326439D968D8",
+      "size": 32972
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight55.ozj",
+      "sha256": "142C8CC7BA0EAEDC1FCC6693C7B1BD7650BB93B17AC2F901D4A44CBFB0791F32",
+      "size": 20527
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight66.ozj",
+      "sha256": "2FC200FD185CFAB24EBEB6B64609CB61F62E6733171A8BFF6F9B326439D968D8",
+      "size": 32972
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight77.ozj",
+      "sha256": "090F88A6CB45D9C4ED6E2C5B219EAE4292D4E0916F28709B32AE9DBCA2FA102F",
+      "size": 23960
+    },
+    {
+      "path": "Data/Custom/Item/MagicKnight88.ozj",
+      "sha256": "2FC200FD185CFAB24EBEB6B64609CB61F62E6733171A8BFF6F9B326439D968D8",
+      "size": 32972
+    },
+    {
+      "path": "Data/Custom/Item/MiracleStaff.bmd",
+      "sha256": "E45A173B34C7EB64DDED51B156A619079954F055EF55448A9B90C22A9261CEAE",
+      "size": 176692
+    },
+    {
+      "path": "Data/Custom/Item/MiracleStaff.ozj",
+      "sha256": "89BCC93693F9177F8F003C1971C3CF1CB433772CEDF07344D881B4ACD9AF3EE2",
+      "size": 112426
+    },
+    {
+      "path": "Data/Custom/Item/MonDec31174812201213.ozj",
+      "sha256": "B9ECA040472BE0AFE3A8EABF3FBC53E0048A87C35882C4C93B0C8553CA3E2816",
+      "size": 27814
+    },
+    {
+      "path": "Data/Custom/Item/MonDec31174812201214.ozj",
+      "sha256": "F6ADDD4CB184AE9F16DDB0E4EF998336D4A51776AD4F873C3E5DDBAF0593FE39",
+      "size": 10992
+    },
+    {
+      "path": "Data/Custom/Item/MonDec31174812201215.ozj",
+      "sha256": "11DCD6074C9A30E95CDC70A93B1B8534B6F9E0716EEE7112E5B81977E4366A8F",
+      "size": 23359
+    },
+    {
+      "path": "Data/Custom/Item/MonDec31174812201216.ozj",
+      "sha256": "C8F1396BB154C564EA37F61329FFF56EBDDF2EF5C6E4B1367CF28A4E9BEC13DF",
+      "size": 28181
+    },
+    {
+      "path": "Data/Custom/Item/MonDec31174812201219.ozj",
+      "sha256": "5A47EC03355B29D328665F91EF794375521D69A0C0B8E99155A086D328210768",
+      "size": 27489
+    },
+    {
+      "path": "Data/Custom/Item/MonDec31174812201221.ozj",
+      "sha256": "9A04DD4FE460A8C5CBD1075C599D1D04F48BD898F05990948F99D002BB17562C",
+      "size": 24429
+    },
+    {
+      "path": "Data/Custom/Item/MSeffects_R.ozj",
+      "sha256": "BF23DAAA0C111233BD0C5D8C635723198CCE42FF8031D2106D9D6064A9B0FFB6",
+      "size": 25770
+    },
+    {
+      "path": "Data/Custom/Item/mu_rgb_lights.ozj",
+      "sha256": "8EF25D6F25001216DAAAF8FF60A0901282D60B6EB9465DEEF238F93315B5993B",
+      "size": 23370
+    },
+    {
+      "path": "Data/Custom/Item/PantMail_bloody_dragon.bmd",
+      "sha256": "CBB1F4E356CDBE806084C3D5CE748D8A0E57BC33D4E71F782AADB69D2F6B8BAE",
+      "size": 57500
+    },
+    {
+      "path": "Data/Custom/Item/PantMale105.bmd",
+      "sha256": "6617DB7A5ECAD5507334ED2A07E83C38E6FB613225429A8F6F35B2FEF5F174E0",
+      "size": 52660
+    },
+    {
+      "path": "Data/Custom/Item/PantMale107.bmd",
+      "sha256": "DBAC221409DAB470D0228C4221AD42E1131A29646A8C5F42827D7BB79B067A7A",
+      "size": 28516
+    },
+    {
+      "path": "Data/Custom/Item/pantmale17.bmd",
+      "sha256": "0701426A99F38D88FD3B1B66F301E252A2A2D54E5631072C5669A7F7D26C5801",
+      "size": 98332
+    },
+    {
+      "path": "Data/Custom/Item/PantMale203.bmd",
+      "sha256": "E462708AF28CAE9D3A7577E2BE0666ADF6116B283699EE496067D23897EB2D16",
+      "size": 75224
+    },
+    {
+      "path": "Data/Custom/Item/PantMale55.bmd",
+      "sha256": "03E09A259841FE329D70DBE236B9A4A3F7C86286FBCB0F52D05F31702A0F0734",
+      "size": 72480
+    },
+    {
+      "path": "Data/Custom/Item/PantMale57.bmd",
+      "sha256": "3F80C7F5F5C51C8DAA75DF62EC188B12DEA9DA3481D5F72CD30F90755556BA8F",
+      "size": 74090
+    },
+    {
+      "path": "Data/Custom/Item/PantMale59.bmd",
+      "sha256": "726BE30C4FC87426758A28D4F5321B6E563669AFDC29100D064AC9C624A660EF",
+      "size": 83890
+    },
+    {
+      "path": "Data/Custom/Item/PantMale75.bmd",
+      "sha256": "4008D9C737A07A2D94CB300B9E14B9AFB148DEFCCB876014D1054E2280108A54",
+      "size": 70954
+    },
+    {
+      "path": "Data/Custom/Item/PantMale76.bmd",
+      "sha256": "2287DB9826184AE2C73A0A665A107C7953A7935DCF192D6E21248FB3A30B8175",
+      "size": 78010
+    },
+    {
+      "path": "Data/Custom/Item/PantMale77.bmd",
+      "sha256": "3F80C7F5F5C51C8DAA75DF62EC188B12DEA9DA3481D5F72CD30F90755556BA8F",
+      "size": 74090
+    },
+    {
+      "path": "Data/Custom/Item/saitamabyeduardogrein.ozt",
+      "sha256": "20E26EB59809B09D11513251B0EE9AB3C19631B675F26D301756FEA5E4A927D5",
+      "size": 524336
+    },
+    {
+      "path": "Data/Custom/Item/Shield23.bmd",
+      "sha256": "1D38F847CC3771C741A2B1F687E3014D75A2A7D6F41FAFAC647FB05176B29BFB",
+      "size": 71098
+    },
+    {
+      "path": "Data/Custom/Item/Shield26.bmd",
+      "sha256": "0D608A1E27F65227C29FC741EE2A2618D129B99853277A938CC8B6167B47337A",
+      "size": 126892
+    },
+    {
+      "path": "Data/Custom/Item/SHSW01043717201315.ozj",
+      "sha256": "F6697EDF93A5DBD7AE4011F6C7AF5B72D5CCE2FBD4660A7E8A879E8823E2B467",
+      "size": 38895
+    },
+    {
+      "path": "Data/Custom/Item/SHSW01043717201315_backup de archivo original.ozj",
+      "sha256": "F6697EDF93A5DBD7AE4011F6C7AF5B72D5CCE2FBD4660A7E8A879E8823E2B467",
+      "size": 38895
+    },
+    {
+      "path": "Data/Custom/Item/SHSW01043717201316.ozj",
+      "sha256": "5729D5DF2389444186DA7CD07B0939890BDB3FCE4A989E37323D6F6369BA4E56",
+      "size": 13700
+    },
+    {
+      "path": "Data/Custom/Item/SHSW01043717201316_backup de archivo original.ozj",
+      "sha256": "5729D5DF2389444186DA7CD07B0939890BDB3FCE4A989E37323D6F6369BA4E56",
+      "size": 13700
+    },
+    {
+      "path": "Data/Custom/Item/SHSW01043717201318BK.ozj",
+      "sha256": "B1F0178567CE348DF97554EE377FC8F7829DD37A38BB25343C19524EB3C8C0C3",
+      "size": 86059
+    },
+    {
+      "path": "Data/Custom/Item/SkinClass301.ozj",
+      "sha256": "CAAD70B9B75AE9EDD541F3A3C0CD3F959321A7D12CD1EC48D5741C3FA68F613C",
+      "size": 101468
+    },
+    {
+      "path": "Data/Custom/Item/SkinClass302.OZJ",
+      "sha256": "F8BC70EE53F37F565C0B7853315BB5CFF1F63DC682993267567E992B49D0E412",
+      "size": 93998
+    },
+    {
+      "path": "Data/Custom/Item/SkinClass303.ozj",
+      "sha256": "A85EE13D744713DD3C65C7E1DA09D430128EF1B0B8553747BA8DA18C6F91C70D",
+      "size": 112347
+    },
+    {
+      "path": "Data/Custom/Item/SM09004250201329.ozj",
+      "sha256": "D772B514B9F9CD022D823F91EC750AD2D4C13071BAD6D2C83F54088BAB9CD8BF",
+      "size": 23632
+    },
+    {
+      "path": "Data/Custom/Item/SM09004250201330.ozj",
+      "sha256": "8C265B4BB8581945AA4C57DCC3D7FEDDD780D707B7BA207F1E3C8DD1D8FED3D6",
+      "size": 25488
+    },
+    {
+      "path": "Data/Custom/Item/SM09004250201332.ozj",
+      "sha256": "48F72B054389DE4AF3151DAE3762A2A8E30514E2CF500D8E615738CB36592049",
+      "size": 31752
+    },
+    {
+      "path": "Data/Custom/Item/SM09004250201333.ozj",
+      "sha256": "E4A5D35B4473CB4D3CE211E09210AB3EB45030EC024731C6F88A3536539C84B6",
+      "size": 25468
+    },
+    {
+      "path": "Data/Custom/Item/SM09004250201334.ozj",
+      "sha256": "C390E082581ED0D5F9C3D6C5AC45BBCE509F1197CCB36E0C1CF28AA423A2CAD8",
+      "size": 29413
+    },
+    {
+      "path": "Data/Custom/Item/SM09004250201335.ozj",
+      "sha256": "A7811BB8618B43E93FBD0A8614AEED0A7149D33BAD137E931B05C72C0E4A9B68",
+      "size": 12958
+    },
+    {
+      "path": "Data/Custom/Item/Staff105.bmd",
+      "sha256": "F56D69EF34322922B8E3B33E29AD57DD28DA22590A0992BF30E6336962BF04A2",
+      "size": 101876
+    },
+    {
+      "path": "Data/Custom/Item/Staff36.bmd",
+      "sha256": "C0B1D9DA72B76CA3E525063E30C0BB09A7EF2A475D63FAB973BF6F21286809D9",
+      "size": 324722
+    },
+    {
+      "path": "Data/Custom/Item/Stick.ozj",
+      "sha256": "35FE2C3DABC4972710B30D17F32513E643EFD7E3A698D2B5F582D3C0E4DA06B0",
+      "size": 31875
+    },
+    {
+      "path": "Data/Custom/Item/sticshild_effect.ozj",
+      "sha256": "54EE43F8D560B29C564C5F22344F45CDA46E493FBC6229F773E7CBA5C7A28AF7",
+      "size": 27919
+    },
+    {
+      "path": "Data/Custom/Item/SWING01043643201311.ozj",
+      "sha256": "5A7BD8222EA2E78C978F5476A27B26D9B109B87A3F3C32EBE1015F7C11ECD401",
+      "size": 29950
+    },
+    {
+      "path": "Data/Custom/Item/SWING01043643201312.ozj",
+      "sha256": "025E23EC836AA63FA148086341F1FEB1B69192E15003860B845E6AA89378C7AE",
+      "size": 31284
+    },
+    {
+      "path": "Data/Custom/Item/SWING01043643201313.ozj",
+      "sha256": "12380412D60743244318B69E5EED353E3B68C9CC404798B3720D8906DFD1E9B1",
+      "size": 35261
+    },
+    {
+      "path": "Data/Custom/Item/SWING01043643201314.ozj",
+      "sha256": "7575F10603D29BD4FA66F5194AD98F72ADDD6EA5E4766E0B555289D7B58C3866",
+      "size": 29729
+    },
+    {
+      "path": "Data/Custom/Item/SWING01043643201315.ozj",
+      "sha256": "A5E931D5ADF4B383D5A02F63DC40D2D19AF36C8370E5331762B2B3B260CAA382",
+      "size": 39372
+    },
+    {
+      "path": "Data/Custom/Item/SWING01043643201317.ozj",
+      "sha256": "65F091A431162678288C0903380A8B36DDAA9432F9C29CB1E7FE207A684B7F90",
+      "size": 15955
+    },
+    {
+      "path": "Data/Custom/Item/sword15_2_R.ozj",
+      "sha256": "1EAAEEB4FC78A388C57744FD130D432DF46F59461B2A1D4760CA11D671FA471E",
+      "size": 10406
+    },
+    {
+      "path": "Data/Custom/Item/Sword33.bmd",
+      "sha256": "70223C53172C71E2F5E70B80A0ABF3AB99D43EDAE5E463D84C2807D5F6AF438C",
+      "size": 77786
+    },
+    {
+      "path": "Data/Custom/Item/Sword37.bmd",
+      "sha256": "099A68B8C63F67F1463C350C2EC073073AAC09E597D2712EF77F9086FF2D59B0",
+      "size": 69837
+    },
+    {
+      "path": "Data/Custom/Item/Sword37_L.bmd",
+      "sha256": "A6E381762D4B1E1ADC19910D49F57670ABD9E6C4A8792CFE3C383DB66229F837",
+      "size": 72380
+    },
+    {
+      "path": "Data/Custom/Item/Sword37_R.bmd",
+      "sha256": "07FE71A4F104DE4D12730C622C6718042EF2D8A88D690736ACAFCE5E554FF0A0",
+      "size": 72380
+    },
+    {
+      "path": "Data/Custom/Item/Sword38.bmd",
+      "sha256": "D89B37DA6A4455AA5A28C11CAED513F4630822C3ABE1293CE55FCB15D928E4D4",
+      "size": 27185
+    },
+    {
+      "path": "Data/Custom/Item/sword38_L.bmd",
+      "sha256": "A8DDFC0201D0557E14AD31732FC578E9341A656FB47DE3F346F5574F2549EF89",
+      "size": 29806
+    },
+    {
+      "path": "Data/Custom/Item/Sword38_R.bmd",
+      "sha256": "981DE6BF45C0DAECDD5453B713FEDFF98DF7125C49649E2C3902065DDB770101",
+      "size": 29806
+    },
+    {
+      "path": "Data/Custom/Item/SwordL33.bmd",
+      "sha256": "178083F7492C31D8EC2FFCA7356E6070CC2139E88BD5E54C1FA7A2F29FCBBDF8",
+      "size": 80388
+    },
+    {
+      "path": "Data/Custom/Item/SwordR33.bmd",
+      "sha256": "1B86AF5E6506522C8BC3AD471E732A0D245834ABD27A604441A7B03D4E7B3DDD",
+      "size": 80388
+    },
+    {
+      "path": "Data/Custom/Item/TDbolta.ozj",
+      "sha256": "1027197514DB2E5D684060FC5A570E76B43720D2A7364FDE65244A496F53F135",
+      "size": 61677
+    },
+    {
+      "path": "Data/Custom/Item/TDhole_R.ozj",
+      "sha256": "01A8B92665F07213D6C5807AC6CA038AB5257A9A1C395A86EFB8113DF92B42F0",
+      "size": 13866
+    },
+    {
+      "path": "Data/Custom/Item/thunder_bolt.bmd",
+      "sha256": "EA73A62A83C3FE593F1CCF1D83D4D6CA66064515963E26E57EF5B1623B0C9BC3",
+      "size": 42896
+    },
+    {
+      "path": "Data/Custom/Item/TJ01003721201355.ozj",
+      "sha256": "596BAF256F9EFA4AF201F7B817990CA52343B37794ED8618761E3E997D25A021",
+      "size": 96391
+    },
+    {
+      "path": "Data/Custom/Item/TJ01003721201356.ozj",
+      "sha256": "EF1598D4F37F69A5F000B8BEA1EA67C178EF43F283C5E6C0BD3644B39F8923F8",
+      "size": 11071
+    },
+    {
+      "path": "Data/Custom/Item/TKnightA.ozj",
+      "sha256": "FCC2BF51DC442070FE9936E45C653C584B44253474F03E37B51891629890A889",
+      "size": 96376
+    },
+    {
+      "path": "Data/Custom/Item/Tuan01032943201317.ozj",
+      "sha256": "B372A3F4AFDA6E03EF1AC854793AEA92987F109FB98148F986CAA9ABC8AFC71B",
+      "size": 113506
+    },
+    {
+      "path": "Data/Custom/Item/UPER01131400201313.ozj",
+      "sha256": "0D7BEA47CE114EE86455FC5917A75F6D32C0DB4E5702A1691BD2582C838628D6",
+      "size": 31956
+    },
+    {
+      "path": "Data/Custom/Item/UPER01131400201314.ozj",
+      "sha256": "4B0A93E898DBE15B603C84F530C3B7DB136A676B71D7E937348F0DC11B33A661",
+      "size": 40801
+    },
+    {
+      "path": "Data/Custom/Item/UPER01131400201315.ozj",
+      "sha256": "F9FB5D20CEDF44F9DBB109432D98EE2A58D935FA9A53A0957E3D31B4B79BB5F1",
+      "size": 30278
+    },
+    {
+      "path": "Data/Custom/Item/UPER01131400201316.ozj",
+      "sha256": "6F4B26B1DD7AFB4FA574A21EDA2AB17EAFC427F127E2F378ABFCAEEBB632EAE5",
+      "size": 41669
+    },
+    {
+      "path": "Data/Custom/Item/UPER01131400201317.ozj",
+      "sha256": "88C0F9503EB1C854B4E0C922AEE59BBDAB0C458184CD6C63F49F6264A9BBD729",
+      "size": 44469
+    },
+    {
+      "path": "Data/Custom/Item/UPER01131400201320.ozj",
+      "sha256": "5F7CBADEA8F61A2BA204C7420C2055B56F2A2DC00F324AF720F3CFF46A5989EE",
+      "size": 17361
+    },
+    {
+      "path": "Data/Custom/Item/Upper.ozj",
+      "sha256": "4A1575B74E73C566E2305D9F477B0EF5589A77FAFB4E4B44C676B6D068FC8A63",
+      "size": 38432
+    },
+    {
+      "path": "Data/Custom/Maps/102.ozt",
+      "sha256": "77CB6C4F1A3CE4CBD856C98C73A8C77AD17AA70E0791CBD6DF9473880CBEE9C6",
+      "size": 1048598
+    },
+    {
+      "path": "Data/Custom/Maps/103.ozt",
+      "sha256": "77CB6C4F1A3CE4CBD856C98C73A8C77AD17AA70E0791CBD6DF9473880CBEE9C6",
+      "size": 1048598
+    },
+    {
+      "path": "Data/Custom/Monster/anqueliosbody.ozj",
+      "sha256": "F877A49B3F1527D1A868AC1E8E78B02777CF01BFBC910E77988C733E0DC93C5D",
+      "size": 50850
+    },
+    {
+      "path": "Data/Custom/Monster/anquelioswings.ozj",
+      "sha256": "A395A6777D00C9A5E0131FC5F69D6852895866ABF47489397A1CCFAFBFB5A6A6",
+      "size": 51658
+    },
+    {
+      "path": "Data/Custom/Monster/balrogboss.bmd",
+      "sha256": "E5ABFB5771CDC2F7CEAC75F547CC2C24E16E2C3DF0E35B16D57294ECB85BA82D",
+      "size": 230057
+    },
+    {
+      "path": "Data/Custom/Monster/boss.ozj",
+      "sha256": "D703359B80C0D51543167088C7E656AA78113D565D40308A6F1CB51F732B6D0C",
+      "size": 120423
+    },
+    {
+      "path": "Data/Custom/Monster/boss_eye.ozj",
+      "sha256": "B162AA03ACC46143F40787469AE340D6C6A57CB0895F9DF966A77310F1AB9951",
+      "size": 11571
+    },
+    {
+      "path": "Data/Custom/Monster/ChaosGoblin.OZJ",
+      "sha256": "51197E8AB8701CC21B1629B3DAC916562BA3985E854724777CDEAB51A86A665A",
+      "size": 84531
+    },
+    {
+      "path": "Data/Custom/Monster/daimerIQ.ozj",
+      "sha256": "2E2B0E47994267D810F53CF03A772DF91AF83A87D91AAC18B2B1DDF2EE9AC09D",
+      "size": 254094
+    },
+    {
+      "path": "Data/Custom/Monster/daimerIQ1.ozt",
+      "sha256": "244DE876319711D242C079FF09A5B05E382AD2965C344CF4D599B32A7A797409",
+      "size": 65584
+    },
+    {
+      "path": "Data/Custom/Monster/drt00_renew.OZJ",
+      "sha256": "7B557980D4D9308790D50E2A9C1F6D5C3530BB0050281B1073286A67F6535A6C",
+      "size": 8689
+    },
+    {
+      "path": "Data/Custom/Monster/drt01_renew.OZJ",
+      "sha256": "5A776D3579F0EE00E53E26049A44314EB8DCF992D8E77AEFB5D9053FD171A26F",
+      "size": 83433
+    },
+    {
+      "path": "Data/Custom/Monster/drt02_renew.OZJ",
+      "sha256": "ACFD7110072897231765301499E9A08DA9BB74DEB39AEADD402C589CA7F61C28",
+      "size": 57940
+    },
+    {
+      "path": "Data/Custom/Monster/drt03_renew.OZT",
+      "sha256": "B64D6AA62343B40A2740E47B53CFC2B9B792EA2B38D2124B313DBB76A96A6805",
+      "size": 16432
+    },
+    {
+      "path": "Data/Custom/Monster/drt05.OZJ",
+      "sha256": "F583DE6E6A3C0DD9B0F1451EC1C17901D74F3C2FBA4B785D333AA982DA9EF84C",
+      "size": 5429
+    },
+    {
+      "path": "Data/Custom/Monster/GoblinBoxBlue.OZJ",
+      "sha256": "0B04FA51169F13751F91A490B6FF5C5E9C091E6F1DA4F180C0DB2CE47BE762A6",
+      "size": 35069
+    },
+    {
+      "path": "Data/Custom/Monster/GoblinBoxGreen.OZJ",
+      "sha256": "161BA2BFB7641AF40A227B681234AD8F3A49B1D4AA1B6FF56503444274F06B4F",
+      "size": 34967
+    },
+    {
+      "path": "Data/Custom/Monster/GoblinBoxRed.OZJ",
+      "sha256": "3940CCE58D892501864260FE22995A647403516DC9E0F457749CE500ADAC19BB",
+      "size": 35908
+    },
+    {
+      "path": "Data/Custom/Monster/GoblinBoxYellow.OZJ",
+      "sha256": "4FA511776EF6E535AB9F3AF5072669A40E70D86A244F748A491E8F55259AF906",
+      "size": 38152
+    },
+    {
+      "path": "Data/Custom/Monster/gorgonboss.bmd",
+      "sha256": "E2B31221516DD12D59990041BD9D8D52EB9CC7871F991C743BCA9085BB5BBD1F",
+      "size": 155144
+    },
+    {
+      "path": "Data/Custom/Monster/ho9_11.ozj",
+      "sha256": "EDA8BE473E035EF59EA5CD61B2F9DBF7DEB34CC09627784F135EED2D71F304A8",
+      "size": 152767
+    },
+    {
+      "path": "Data/Custom/Monster/ho9_2.ozj",
+      "sha256": "AD3C708DBB1F202B1776641EBFCD2E4AFBB44EC7F70FF7ECEFC3999785BBEDA0",
+      "size": 11323
+    },
+    {
+      "path": "Data/Custom/Monster/iui01_renew01.OZT",
+      "sha256": "11767CA82D1AB7E2F1E28FA7FC82E2562D2AC7245EE01AE0F2146BFB565EFF32",
+      "size": 262192
+    },
+    {
+      "path": "Data/Custom/Monster/iui01_renew02.OZT",
+      "sha256": "45DE97A6A736672C91C39F83A078CA078900DCE35EFC38CA179DAA551A42EE71",
+      "size": 262192
+    },
+    {
+      "path": "Data/Custom/Monster/iui02_renew01.OZJ",
+      "sha256": "B7E6E4EAFF206088E856B484E8706045EF16E19F765FECBF6922B91748F6137E",
+      "size": 19420
+    },
+    {
+      "path": "Data/Custom/Monster/iui02_renew02.OZJ",
+      "sha256": "02257546EE432B816B68D88EFECDF70B061236BA3D4FAE91DCA7D545E3EB6309",
+      "size": 19833
+    },
+    {
+      "path": "Data/Custom/Monster/KMUA_NPC_421.ozj",
+      "sha256": "06BC4A59C5B89CF15BAAF62D636E9A040C8009C08D46EB6A5E172FCD1BA29774",
+      "size": 69987
+    },
+    {
+      "path": "Data/Custom/Monster/KMUA_NPC_421.ozt",
+      "sha256": "53D6B6D108BE12176D9E32C062122F7133E070F24006B27321F716E713727BD4",
+      "size": 65584
+    },
+    {
+      "path": "Data/Custom/Monster/kuo00_renew01.OZJ",
+      "sha256": "E734895AD7B9EF0ADF8DE31C22FC898E9396CE38F675215B502E136F3950712C",
+      "size": 79206
+    },
+    {
+      "path": "Data/Custom/Monster/kuo01_renew01.OZJ",
+      "sha256": "B818688401C3E12AA310D8C010A996215B7767485591249E47FFE4661CA6C8A0",
+      "size": 23227
+    },
+    {
+      "path": "Data/Custom/Monster/kuo02_renew01.OZJ",
+      "sha256": "86E96B75FB111E7EEEE7F7EC02665870E41AA3577C1092DAF74AA025E92705C9",
+      "size": 39190
+    },
+    {
+      "path": "Data/Custom/Monster/lpo01_renew.OZT",
+      "sha256": "79225C2F3E86115C67167E97DAC8FE9A5C1A6D6E23693893DA4B28D4B402E8DA",
+      "size": 262192
+    },
+    {
+      "path": "Data/Custom/Monster/Monster26.bmd",
+      "sha256": "BAD0FFBAE2ECEB9F614BFC1DF9E25CB94A36F1C7F2ADD31D804ACCCD7145A4E7",
+      "size": 968601
+    },
+    {
+      "path": "Data/Custom/Monster/Monster365.bmd",
+      "sha256": "6B1350B7E7335F6934D5706258930D295E5649501E2748C31A3A525037FD48A3",
+      "size": 144700
+    },
+    {
+      "path": "Data/Custom/Monster/Monster366.bmd",
+      "sha256": "757C5ACBD8A0638FCE7B61D2708715374E5B3BC231CDB716CD20DA76955880A2",
+      "size": 140130
+    },
+    {
+      "path": "Data/Custom/Monster/Monster367.bmd",
+      "sha256": "C94129A220949485FBFF8A3B3EFAAC379D0D3508DD0C06E78A459CAD8FFAB3AB",
+      "size": 142070
+    },
+    {
+      "path": "Data/Custom/Monster/Monster368.bmd",
+      "sha256": "53849181D2E65A71150C1E971786999A8A64F2A5C8A12D6215397312BD4EAFDF",
+      "size": 140130
+    },
+    {
+      "path": "Data/Custom/Monster/Monster369.bmd",
+      "sha256": "861B3483909AC42FD7B31E0A27C443762A74A6CFD80C3BB4E4843483BD0F8922",
+      "size": 179584
+    },
+    {
+      "path": "Data/Custom/Monster/Monster370.bmd",
+      "sha256": "EE0CAFC08EA99DBFC7908D45764D8B2BCBA5AA847D69EC14F9634ABF17BB3A6C",
+      "size": 268890
+    },
+    {
+      "path": "Data/Custom/Monster/Monster371.bmd",
+      "sha256": "99781DAE0FE6900061E9A6CCF966EA646B99E92B53774F30C90EED576751DAE2",
+      "size": 180200
+    },
+    {
+      "path": "Data/Custom/Monster/monster797.bmd",
+      "sha256": "F46895B663BD3DF7B5510F99ACDD0CB8C51B2FF52884A96EA37D211F718D079E",
+      "size": 500141
+    },
+    {
+      "path": "Data/Custom/Monster/monster926.bmd",
+      "sha256": "2FD1F6D8738E9656CFAFE37DAF316B470EAA9AC669E5E81B9188C8EEB7FD05FE",
+      "size": 223351
+    },
+    {
+      "path": "Data/Custom/Monster/monster927.bmd",
+      "sha256": "7FD4FC5EB39851CC08D9DB44C52D21A28E8512A5E486C22775AB6E3D63C4E4A1",
+      "size": 223351
+    },
+    {
+      "path": "Data/Custom/Monster/monster928.bmd",
+      "sha256": "67020DECE3DCBFF22694795DB2568E020638272A537D4A9245FC1D24AB5882F5",
+      "size": 223351
+    },
+    {
+      "path": "Data/Custom/Monster/monster929.bmd",
+      "sha256": "6468838734BE8B894E1FFE6B82D4E8F4BC4244565AB38ADAAB575D63B6E9DB85",
+      "size": 223351
+    },
+    {
+      "path": "Data/Custom/Monster/NPC_421.bmd",
+      "sha256": "73AAB414DA04BBE869231B49272582CA6BD352CA99525FEC09FC37D9A1329A88",
+      "size": 224998
+    },
+    {
+      "path": "Data/Custom/Monster/Pnix_renew.OZJ",
+      "sha256": "B6C64DACCDE54E008488057A675D1208AB0108DDC0525DAF7A13618627629ACA",
+      "size": 155527
+    },
+    {
+      "path": "Data/Custom/Monster/starp00_renew.OZJ",
+      "sha256": "4EEB67503BAD7EEC869EC7BDD4C07FE4BCA8896D1D7749A6D7AE4223D93BBAF0",
+      "size": 76126
+    },
+    {
+      "path": "Data/Local/backupMix.bmd",
+      "sha256": "EDCC90B7925E8B1538FEF1A9E87FB040751A4E6CDC2034E03A7EC105B73B045B",
+      "size": 87304
+    },
+    {
+      "path": "Data/Local/CAnimationItem.bmd",
+      "sha256": "F66A42BFFD4418AC6B04B8AEEEC60BCBA186FB9F3FFFF4BB51AD66D713305E34",
+      "size": 660
+    },
+    {
+      "path": "Data/Local/CEffect.bmd",
+      "sha256": "CAE1D9F0FA680ABF41054D0C3CBAD9456099A9534C4DA952B8FA0AD9F21B4778",
+      "size": 9206
+    },
+    {
+      "path": "Data/Local/CEffectRenderMesh.bmd",
+      "sha256": "A7063ED35D686AA1A947F4025794FD0D308941F67AA66FE1019B89F703B2EBDA",
+      "size": 1619
+    },
+    {
+      "path": "Data/Local/CMapEffect.bmd",
+      "sha256": "5094EB9FC666963FEA4CA2D7406A9386691CB85633EC756A2513B2A90AB5C835",
+      "size": 923
+    },
+    {
+      "path": "Data/Local/CMapEX.bmd",
+      "sha256": "CAD16AAF4C8543FDAEA2A35677A9B48C17E7B33DB1626D1793ACA67D695E01E4",
+      "size": 2052
+    },
+    {
+      "path": "Data/Local/CMapRenderMesh.bmd",
+      "sha256": "105870EC981EC545257F5E2D930FFB4CF1E51D87519823FBA2F03C83795B37EA",
+      "size": 782
+    },
+    {
+      "path": "Data/Local/CPetEffect.bmd",
+      "sha256": "F8ADCDDE98D147E68361F2F6B3F214B1B0A90FFDE17A4B9D2C8A772563B3E9F4",
+      "size": 7714
+    },
+    {
+      "path": "Data/Local/CPetRenderMesh.bmd",
+      "sha256": "F68780DAB083945AAB3F2E455E51E95BC162ADAC86912589CD7778A8432648A7",
+      "size": 625
+    },
+    {
+      "path": "Data/Local/Credit.bmd",
+      "sha256": "35ACF4F01751D0BA12AC34BC451EE249AD37DB88A4349CC9B12806E442829FA3",
+      "size": 13200
+    },
+    {
+      "path": "Data/Local/CRFTextureName.txt",
+      "sha256": "B1A6F90212A13A1010E0E206D98725284EB89534CDF35A5F32E1E1B9F14448EE",
+      "size": 114
+    },
+    {
+      "path": "Data/Local/CSetEffect.bmd",
+      "sha256": "16CC7D001553F31A5A59282EA48BA2E65E2CBD133129635F179DF07D007DDADA",
+      "size": 976
+    },
+    {
+      "path": "Data/Local/Eng/ImgsMapName/Map102.OZT",
+      "sha256": "919C1DED74E78BDB2412E54F2698AB64D4FC2B3A4158E24776E923D2262E5B55",
+      "size": 59782
+    },
+    {
+      "path": "Data/Local/Eng/itemsettype.bmd",
+      "sha256": "CC5F659BAA37D750E4A9197BB4EF0E3BF5C5FF3C5A0E026BDD3C0E802CF68C52",
+      "size": 32772
+    },
+    {
+      "path": "Data/Local/Eng/itemtooltiptext_eng.bmd",
+      "sha256": "E9276DE53EFEC15FC70971C4FB77A13C0858FF8E04064347FDCE32EA286E8C4F",
+      "size": 133124
+    },
+    {
+      "path": "Data/Local/Eng/itemtooltip_eng.bmd",
+      "sha256": "4DBC6B122FBFE88C780B8B337BCAE4B9D6DADEEFCBB5A92794338B4BEB0F0A55",
+      "size": 1015812
+    },
+    {
+      "path": "Data/Local/Eng/item_eng.bmd",
+      "sha256": "5270471AEEDFDCD5F7F9E2AE6C0B000D63BB67BA2F18DD1FAC31659C5A3FFA0D",
+      "size": 688132
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World11_eng.bmd",
+      "sha256": "25830BB79E19328CBCF817A99E22940172A65B1405D38B26566BF3E70C3757F3",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World1_eng.bmd",
+      "sha256": "68D2584BCA61C24A8475492A22C531B616454FC7CDDF028E580592BCA51B236D",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World2_eng.bmd",
+      "sha256": "098231BD3D740DB88223AFAF2A32E5918A40DB8037B5AD44FEBAF2C33DD31BA3",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World32_eng.bmd",
+      "sha256": "90BD7F8B564BDE460BF2EBA230730AA529DF00F512F2B0B9E41FDF64099938B1",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World34_eng.bmd",
+      "sha256": "B1A4FD7C4775709A15327B8D5E4D2D4ABDED8FC71E941ED33D0FB79EB8035341",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World35_eng.bmd",
+      "sha256": "D0503605E23459C11F5D4BE215A9F199891721F40E0CBAA1EAADA3289E3CAB61",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World38_eng.bmd",
+      "sha256": "1A784801CEAAEF456CB02A90FD70F8D7279CE8B751395D0FB3C919353426B528",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World39_eng.bmd",
+      "sha256": "1E51341CEC504FE1CE50ED9AC1696D5C82957A622E56FAB5D76244CEE9418DFE",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World3_eng.bmd",
+      "sha256": "00D6956641F7C916F0E5773793F844942BA91A2D7271FEC41102BC1BAE31A084",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World42_eng.bmd",
+      "sha256": "CA92D3E1693F445762973355B57A46F60AD6D6FE4D3E8137508F77342EA6BB41",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World4_eng.bmd",
+      "sha256": "B710A07EC9AA37B615F507F000A8EA669C4FB75A075437E14DA057D243E9EBD5",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World52_eng.bmd",
+      "sha256": "92CA9670B91D730D4A17D8864F6B340B34D90D94A16DC26C38CC036F70BC6B73",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World57_eng.bmd",
+      "sha256": "A9C302CFA39BD0B3A1EFC0F48AB5106AC8D019DB23C1F099C1432F52ACC9ACEF",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World58_eng.bmd",
+      "sha256": "D9A44648EB5A35D69E6D0A4955CD521F7FF9C8DAC36857B37272027A96157BBD",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World5_eng.bmd",
+      "sha256": "61A829C15F2B127F0A9318B0F81830B42BAA7BD6CB4094FAC32A1B6705084BFF",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World64_eng.bmd",
+      "sha256": "D9022EB5C0F21F3E753250B661C1F305B5C7518F184CEFFD9A8F36FD8B0E7879",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World81_eng.bmd",
+      "sha256": "8B9F66B041D44EF547E953D2BC4A33FD9B3A79A5490290B23AFFB3E5186B026F",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World82_eng.bmd",
+      "sha256": "925B156D88E10E1C7BD9C1C273E06E439A809C70F3562D4F7607F3FCD3745DB5",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World8_eng.bmd",
+      "sha256": "7CAB8BC14CD159CAC88DCA5B532F028D50DDBD96EDCFA083951B49264B77514F",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/Minimap/Minimap_World9_eng.bmd",
+      "sha256": "9C746CBE32E713DCB8B53A8B924B0D9B6156B7E789D2DC665BB3CCDDD992975B",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Eng/movereq_eng.bmd",
+      "sha256": "7A6AEBEF7B0B4ECB60D42BB9C97C0C9D90B6B7BF839CEFC3A944A4302EF8918E",
+      "size": 3364
+    },
+    {
+      "path": "Data/Local/Eng/socketitem_eng.bmd",
+      "sha256": "5B995194FF399E91F4C50D751523F2E7BCEB26FCBE775C99B0FF2D58C4B474E6",
+      "size": 15600
+    },
+    {
+      "path": "Data/Local/Eng/Text_eng.bmd",
+      "sha256": "F11ED182401DF80F10EE53D994E57B3522E73D41DC24EAE6BDCD3D613EBB561B",
+      "size": 125443
+    },
+    {
+      "path": "Data/Local/Filter.bmd",
+      "sha256": "97AD6D51AD26F8EA4D441F35B4740D07365785374E95CC8C354401DBEDD58672",
+      "size": 20004
+    },
+    {
+      "path": "Data/Local/FilterName.bmd",
+      "sha256": "98E16086567DE82D1EE5730A1F42B3CA3868AF40E296E5DFB0542C80457FCF39",
+      "size": 10004
+    },
+    {
+      "path": "Data/Local/ItemAddOption.bmd",
+      "sha256": "3DA4F006E765DBEA478868CEAA0C56D4BADCFE05ADE2EDE2378F3DB73D3B875F",
+      "size": 131072
+    },
+    {
+      "path": "Data/Local/ItemSetOption_MSPro.bmd",
+      "sha256": "B35DAA113AF7890AE35AA52791A1943E2EE4943FCC4A141CBA8FFA7453CAEC15",
+      "size": 56324
+    },
+    {
+      "path": "Data/Local/ItemSettype.bmd",
+      "sha256": "CC5F659BAA37D750E4A9197BB4EF0E3BF5C5FF3C5A0E026BDD3C0E802CF68C52",
+      "size": 32772
+    },
+    {
+      "path": "Data/Local/MapCharacters.bmd",
+      "sha256": "778EAA2F38D06DEACE6A67CCADBE03D55FD7E067037681626C71BC222DC0D736",
+      "size": 3100
+    },
+    {
+      "path": "Data/Local/MasterSkillTreeData.bmd",
+      "sha256": "C78420CD70C6EEE546CD3B03E342E1CF60B59643516EEA6B099B1F820907D86E",
+      "size": 12292
+    },
+    {
+      "path": "Data/Local/Mix.bmd",
+      "sha256": "FCD75B48636E0FF45B855A0E2C3E4B5756C39B977027E9A2F2F56B58C62C1C80",
+      "size": 87304
+    },
+    {
+      "path": "Data/Local/MonsterSkill.bmd",
+      "sha256": "46A8112E550531B1AB18D7FC61379B50E2DBE4A2C57E5DE3F8DA1F4A4C977E1A",
+      "size": 2692
+    },
+    {
+      "path": "Data/Local/NPCDialogue.bmd",
+      "sha256": "9B7DBDC700DA0B9886F6707047C613968D58AECAB8FD8DF62D137ADF8CD1BA92",
+      "size": 5104
+    },
+    {
+      "path": "Data/Local/Pet.bmd",
+      "sha256": "942ADEF5B76CDFB7ACFC317F6334F8311DAF2CCD352BD58403222B726F1F73FF",
+      "size": 2512
+    },
+    {
+      "path": "Data/Local/PetData.bmd",
+      "sha256": "77035D36C31EAAA066744BCD7DC6B2248F5052ED81C2F7328A7336992A5CC969",
+      "size": 1540
+    },
+    {
+      "path": "Data/Local/Por/ImgsMapName/Map102.ozt",
+      "sha256": "919C1DED74E78BDB2412E54F2698AB64D4FC2B3A4158E24776E923D2262E5B55",
+      "size": 59782
+    },
+    {
+      "path": "Data/Local/Por/itemtooltiptext_por.bmd",
+      "sha256": "E9276DE53EFEC15FC70971C4FB77A13C0858FF8E04064347FDCE32EA286E8C4F",
+      "size": 133124
+    },
+    {
+      "path": "Data/Local/Por/itemtooltip_por.bmd",
+      "sha256": "4DBC6B122FBFE88C780B8B337BCAE4B9D6DADEEFCBB5A92794338B4BEB0F0A55",
+      "size": 1015812
+    },
+    {
+      "path": "Data/Local/Por/item_por.bmd",
+      "sha256": "5270471AEEDFDCD5F7F9E2AE6C0B000D63BB67BA2F18DD1FAC31659C5A3FFA0D",
+      "size": 688132
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World11_por.bmd",
+      "sha256": "25830BB79E19328CBCF817A99E22940172A65B1405D38B26566BF3E70C3757F3",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World1_por.bmd",
+      "sha256": "68D2584BCA61C24A8475492A22C531B616454FC7CDDF028E580592BCA51B236D",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World2_por.bmd",
+      "sha256": "7DFF25AC680693AB149578EFA22939DBEDC8671356AC2B6065113F6A011DA5F4",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World32_por.bmd",
+      "sha256": "2FE1471C458280C0AEE056C49343AB5216D7FE9DBFFD9006EF67B90394EAC823",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World34_por.bmd",
+      "sha256": "B1A4FD7C4775709A15327B8D5E4D2D4ABDED8FC71E941ED33D0FB79EB8035341",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World35_por.bmd",
+      "sha256": "D0503605E23459C11F5D4BE215A9F199891721F40E0CBAA1EAADA3289E3CAB61",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World38_por.bmd",
+      "sha256": "1A784801CEAAEF456CB02A90FD70F8D7279CE8B751395D0FB3C919353426B528",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World39_por.bmd",
+      "sha256": "1E51341CEC504FE1CE50ED9AC1696D5C82957A622E56FAB5D76244CEE9418DFE",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World3_por.bmd",
+      "sha256": "00D6956641F7C916F0E5773793F844942BA91A2D7271FEC41102BC1BAE31A084",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World42_por.bmd",
+      "sha256": "CA92D3E1693F445762973355B57A46F60AD6D6FE4D3E8137508F77342EA6BB41",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World4_por.bmd",
+      "sha256": "B710A07EC9AA37B615F507F000A8EA669C4FB75A075437E14DA057D243E9EBD5",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World52_por.bmd",
+      "sha256": "92CA9670B91D730D4A17D8864F6B340B34D90D94A16DC26C38CC036F70BC6B73",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World57_por.bmd",
+      "sha256": "A9C302CFA39BD0B3A1EFC0F48AB5106AC8D019DB23C1F099C1432F52ACC9ACEF",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World58_por.bmd",
+      "sha256": "D9A44648EB5A35D69E6D0A4955CD521F7FF9C8DAC36857B37272027A96157BBD",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World5_por.bmd",
+      "sha256": "61A829C15F2B127F0A9318B0F81830B42BAA7BD6CB4094FAC32A1B6705084BFF",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World64_por.bmd",
+      "sha256": "D9022EB5C0F21F3E753250B661C1F305B5C7518F184CEFFD9A8F36FD8B0E7879",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World81_por.bmd",
+      "sha256": "8B9F66B041D44EF547E953D2BC4A33FD9B3A79A5490290B23AFFB3E5186B026F",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World82_por.bmd",
+      "sha256": "B2546026DB6C85F115B71B89D7453398C8F170568E4255973CF4F1AE4DFA4472",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World8_por.bmd",
+      "sha256": "7CAB8BC14CD159CAC88DCA5B532F028D50DDBD96EDCFA083951B49264B77514F",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/Minimap/Minimap_World9_por.bmd",
+      "sha256": "9C746CBE32E713DCB8B53A8B924B0D9B6156B7E789D2DC665BB3CCDDD992975B",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Por/movereq_por.bmd",
+      "sha256": "7A6AEBEF7B0B4ECB60D42BB9C97C0C9D90B6B7BF839CEFC3A944A4302EF8918E",
+      "size": 3364
+    },
+    {
+      "path": "Data/Local/Por/Text_por.bmd",
+      "sha256": "F11ED182401DF80F10EE53D994E57B3522E73D41DC24EAE6BDCD3D613EBB561B",
+      "size": 125443
+    },
+    {
+      "path": "Data/Local/QuestProgress.bmd",
+      "sha256": "7A06127781FFFAC83D993D1CDC1F7D1F63A320C790702CF6181165771D82BE52",
+      "size": 37515
+    },
+    {
+      "path": "Data/Local/ServerList.bmd",
+      "sha256": "9183DC8210B2E29908EB8D12992E0EFF478DAFD346BA55F3177E0118558F56CE",
+      "size": 165
+    },
+    {
+      "path": "Data/Local/Spn/ImgsMapName/Map102.ozt",
+      "sha256": "919C1DED74E78BDB2412E54F2698AB64D4FC2B3A4158E24776E923D2262E5B55",
+      "size": 59782
+    },
+    {
+      "path": "Data/Local/Spn/ImgsMapName/Map89.tga",
+      "sha256": "845AD0367398C516296D857960CD232B03658DAFB2970F325E31B9F77178767F",
+      "size": 59804
+    },
+    {
+      "path": "Data/Local/Spn/itemtooltiptext_spn.bmd",
+      "sha256": "E9276DE53EFEC15FC70971C4FB77A13C0858FF8E04064347FDCE32EA286E8C4F",
+      "size": 133124
+    },
+    {
+      "path": "Data/Local/Spn/itemtooltip_spn.bmd",
+      "sha256": "4DBC6B122FBFE88C780B8B337BCAE4B9D6DADEEFCBB5A92794338B4BEB0F0A55",
+      "size": 1015812
+    },
+    {
+      "path": "Data/Local/Spn/item_spn.bmd",
+      "sha256": "5270471AEEDFDCD5F7F9E2AE6C0B000D63BB67BA2F18DD1FAC31659C5A3FFA0D",
+      "size": 688132
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World11_spn.bmd",
+      "sha256": "25830BB79E19328CBCF817A99E22940172A65B1405D38B26566BF3E70C3757F3",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World1_spn.bmd",
+      "sha256": "68D2584BCA61C24A8475492A22C531B616454FC7CDDF028E580592BCA51B236D",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World2_spn.bmd",
+      "sha256": "7DFF25AC680693AB149578EFA22939DBEDC8671356AC2B6065113F6A011DA5F4",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World32_spn.bmd",
+      "sha256": "72A4063D38384825B22CC196BF501E746B0922200A9BA18E4C50AF200B552181",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World34_spn.bmd",
+      "sha256": "B1A4FD7C4775709A15327B8D5E4D2D4ABDED8FC71E941ED33D0FB79EB8035341",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World35_spn.bmd",
+      "sha256": "D0503605E23459C11F5D4BE215A9F199891721F40E0CBAA1EAADA3289E3CAB61",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World38_spn.bmd",
+      "sha256": "1A784801CEAAEF456CB02A90FD70F8D7279CE8B751395D0FB3C919353426B528",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World39_spn.bmd",
+      "sha256": "1E51341CEC504FE1CE50ED9AC1696D5C82957A622E56FAB5D76244CEE9418DFE",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World3_spn.bmd",
+      "sha256": "00D6956641F7C916F0E5773793F844942BA91A2D7271FEC41102BC1BAE31A084",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World42_spn.bmd",
+      "sha256": "CA92D3E1693F445762973355B57A46F60AD6D6FE4D3E8137508F77342EA6BB41",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World4_spn.bmd",
+      "sha256": "B710A07EC9AA37B615F507F000A8EA669C4FB75A075437E14DA057D243E9EBD5",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World52_spn.bmd",
+      "sha256": "92CA9670B91D730D4A17D8864F6B340B34D90D94A16DC26C38CC036F70BC6B73",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World57_spn.bmd",
+      "sha256": "A9C302CFA39BD0B3A1EFC0F48AB5106AC8D019DB23C1F099C1432F52ACC9ACEF",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World58_spn.bmd",
+      "sha256": "D9A44648EB5A35D69E6D0A4955CD521F7FF9C8DAC36857B37272027A96157BBD",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World5_spn.bmd",
+      "sha256": "61A829C15F2B127F0A9318B0F81830B42BAA7BD6CB4094FAC32A1B6705084BFF",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World64_spn.bmd",
+      "sha256": "D9022EB5C0F21F3E753250B661C1F305B5C7518F184CEFFD9A8F36FD8B0E7879",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World81_spn.bmd",
+      "sha256": "8B9F66B041D44EF547E953D2BC4A33FD9B3A79A5490290B23AFFB3E5186B026F",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World82_spn.bmd",
+      "sha256": "B2546026DB6C85F115B71B89D7453398C8F170568E4255973CF4F1AE4DFA4472",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World8_spn.bmd",
+      "sha256": "7CAB8BC14CD159CAC88DCA5B532F028D50DDBD96EDCFA083951B49264B77514F",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/Minimap/Minimap_World9_spn.bmd",
+      "sha256": "9C746CBE32E713DCB8B53A8B924B0D9B6156B7E789D2DC665BB3CCDDD992975B",
+      "size": 11649
+    },
+    {
+      "path": "Data/Local/Spn/movereq_spn.bmd",
+      "sha256": "7A6AEBEF7B0B4ECB60D42BB9C97C0C9D90B6B7BF839CEFC3A944A4302EF8918E",
+      "size": 3364
+    },
+    {
+      "path": "Data/Local/Spn/Text_spn.bmd",
+      "sha256": "F11ED182401DF80F10EE53D994E57B3522E73D41DC24EAE6BDCD3D613EBB561B",
+      "size": 125443
+    },
+    {
+      "path": "Data/Local/WebZenlogo.ozj",
+      "sha256": "9526AAA1C600F182CBE89074F5841655814BC37D7E77829C31E016E469B66E01",
+      "size": 46842
+    },
+    {
+      "path": "Data/Object103/cloud.bmd",
+      "sha256": "422DAAD8880717E88EBE963F7FD1CD09114E1E55F9FF5B02652F81CA60B10B4D",
+      "size": 2814
+    },
+    {
+      "path": "Data/Object103/cloud.OZJ",
+      "sha256": "F3ED8CCF52C3DC8C70DBB7FAD0D4EFE2536FF7BD470BD2136A64650A5A8D820C",
+      "size": 9264
+    },
+    {
+      "path": "Data/Object103/hscastleA01_R.OZJ",
+      "sha256": "9B5C48FA9DD58C0A84F6215A619241E652C18B42D02808E35FB9243707591EA1",
+      "size": 272245
+    },
+    {
+      "path": "Data/Object103/hsguardian01_R.OZJ",
+      "sha256": "41896766151F686F9928182954E7995E8D32F75920B447ACF0CB879B765B1D5E",
+      "size": 130502
+    },
+    {
+      "path": "Data/Object103/hsguardian02_R.OZJ",
+      "sha256": "0374FB283E85339C7FE503A81A673843639AB68F0B33443DDCDAC05239B11B17",
+      "size": 65783
+    },
+    {
+      "path": "Data/Object103/hsguardian03_R.OZJ",
+      "sha256": "8EDB84C2E91298EC477C81477683D1DB01F644C29B0C25ECF124084333FA7E51",
+      "size": 431064
+    },
+    {
+      "path": "Data/Object103/hspillarA01_R.OZJ",
+      "sha256": "C36EF1B774C7CA843F24413FE2253FAB3F2C04FDAB608B22F8700AB9A9D2AC1C",
+      "size": 38787
+    },
+    {
+      "path": "Data/Object103/hspillarA02_R.OZJ",
+      "sha256": "A25E907F181E72B5A0203F563D941D3CDFADD86F353A11B49FF7BC015469FCE9",
+      "size": 98099
+    },
+    {
+      "path": "Data/Object103/Object01.bmd",
+      "sha256": "B198EC6A2B14B721AB820514DE27BA45226A926DF058E643AF58B2746785B540",
+      "size": 1198
+    },
+    {
+      "path": "Data/Object103/Object02.bmd",
+      "sha256": "1F5C0FB0E5C37271DC2F676759B460D5500559AD6A5DAA2BC81478DAA9B7F812",
+      "size": 1198
+    },
+    {
+      "path": "Data/Object103/Object03.bmd",
+      "sha256": "DE872B9ED0D4A1317F23F3B7D36AA79D9014D2F285644D49AEE6486D61C525D8",
+      "size": 1198
+    },
+    {
+      "path": "Data/Object103/Object04.bmd",
+      "sha256": "43033148FA4610A061A423856DFC23CFF5EF980CDEEAB1BDA3BB037C4B17246A",
+      "size": 1198
+    },
+    {
+      "path": "Data/Object103/Object05.bmd",
+      "sha256": "9288A2E955D2274A2AF2B30A65D8958339170C49B30344F77182C4C2ECE56C0D",
+      "size": 1198
+    },
+    {
+      "path": "Data/Object103/Object06.bmd",
+      "sha256": "980C7648AA78C1E395AD1BA8A567079F2439BF4D3CD6F74F6A381F4FE3E51B10",
+      "size": 1198
+    },
+    {
+      "path": "Data/Object103/Object07.bmd",
+      "sha256": "E02ECFD513476E4E23FB4A420E8D26969A4C5EA990FF56DD2AD58205B81E7ADA",
+      "size": 1082
+    },
+    {
+      "path": "Data/Object103/Object08.bmd",
+      "sha256": "6FDDFE4FEE8C5BA3718417DAF206DE91C6DC818C92734BFF235F9992A0A117B9",
+      "size": 5000
+    },
+    {
+      "path": "Data/Object103/Object09.bmd",
+      "sha256": "74BA6553E1B088FCD8A591B703F31FBD600B734FCAE4537B199938A31DEE84A6",
+      "size": 5864
+    },
+    {
+      "path": "Data/Object103/Object10.bmd",
+      "sha256": "1AFFD0E47857ACEE2BBC1B455413252A1CCD0D6BE2F3440F5447D8435113CA82",
+      "size": 5864
+    },
+    {
+      "path": "Data/Object103/Object11.bmd",
+      "sha256": "1E9DECD0C10DA24B1EEA2E91A8FFA02191D49FB5CBF1DE2A885CFC461EE908BB",
+      "size": 4208
+    },
+    {
+      "path": "Data/Object103/Object13.bmd",
+      "sha256": "F1185C60BF4E25F7C2E28447DFC20B913FE855B46B4980D2765B9694668EECDF",
+      "size": 34638
+    },
+    {
+      "path": "Data/Object103/Object14.bmd",
+      "sha256": "6C79114FB8E569CDA14862E787F1899C48F79C7EEFD51B67DD55431F1E8EB1E1",
+      "size": 9638
+    },
+    {
+      "path": "Data/Object103/Object15.bmd",
+      "sha256": "7EC8216941B44508B0DD4FAD1BB4908996F413E4AFBF5A0958D8F8F23074D130",
+      "size": 49331
+    },
+    {
+      "path": "Data/Object103/Object16.bmd",
+      "sha256": "7319ACFFA9B3985751A6BB5A12BB626444CC5DD9C2A5331B0DD8A5E58D748675",
+      "size": 1082
+    },
+    {
+      "path": "Data/Object103/Object17.bmd",
+      "sha256": "6502E39491B64979C354E40C26653482563C79F7AA68B98740797485AD6A64AD",
+      "size": 69840
+    },
+    {
+      "path": "Data/Object103/Object18.bmd",
+      "sha256": "11B6272CEC71882FF99F71B8511187F0E5E1771072D76284846C6A0EDF1E3781",
+      "size": 40278
+    },
+    {
+      "path": "Data/Object103/Object19.bmd",
+      "sha256": "3B0C1CF0133CA1126C06EC098E7F7EE0A95A27416F0DB64293A65746B8EB36BC",
+      "size": 44606
+    },
+    {
+      "path": "Data/Object103/Object20.bmd",
+      "sha256": "6789218BA352AD921DA3D4662D6FA50D73A92CEB14583B396B545918F54AA7C9",
+      "size": 44606
+    },
+    {
+      "path": "Data/Object103/Object21.bmd",
+      "sha256": "C55532168544843DBBEE334ADB36698747A55E0C1D8B6228A57BB798E21FFF99",
+      "size": 44606
+    },
+    {
+      "path": "Data/Object103/Object22.bmd",
+      "sha256": "0811622795467A78AB6ADB7E7CB7764EFE1F57FA691262DA91B50192DD3757E2",
+      "size": 44606
+    },
+    {
+      "path": "Data/Object103/Object23.bmd",
+      "sha256": "8E87CA28C91FD43EECE00E93AA1E1A7B7B2B6638B70F0DE41CD7670B238C9EB1",
+      "size": 44606
+    },
+    {
+      "path": "Data/Object103/Object29.bmd",
+      "sha256": "F3C673283BEA14E4638ADF5F1E0B694E8926040269E65FBE1B837DEC0D9DDE10",
+      "size": 197593
+    },
+    {
+      "path": "Data/Object103/Object30.bmd",
+      "sha256": "E8D3ED8371D18EEB835CCEF906F4D4E9DEFCBA328A716C63462A9297A5611DDA",
+      "size": 3949
+    },
+    {
+      "path": "Data/Object103/Object31.bmd",
+      "sha256": "326633D8619BBDF89813087569C4AE28250CBE01D221CDA83C66BCC9CC9BDACF",
+      "size": 394
+    },
+    {
+      "path": "Data/Object103/Object32.bmd",
+      "sha256": "5169F92847BA08655B4D72CD52452A69F26D18950BB98DCBD664C4534406E9D8",
+      "size": 24369
+    },
+    {
+      "path": "Data/Object103/Object33.bmd",
+      "sha256": "62989349190CF9FE6C22E4EDBDE933A6C3A98C436EE20055301AD1974C49ECD3",
+      "size": 24350
+    },
+    {
+      "path": "Data/Object103/Object34.bmd",
+      "sha256": "2C44BEF0F2DE57079A44A4ACCC074EAFD28ABB02D1FFAF7F43AE23C7732271C5",
+      "size": 25253
+    },
+    {
+      "path": "Data/Object103/Object35.bmd",
+      "sha256": "DBD1416D6BADFD08042759A601750D0004A33E98E7BF1953A7610E605B72B844",
+      "size": 22564
+    },
+    {
+      "path": "Data/Object103/Object36.bmd",
+      "sha256": "EB4209087CC9E199C2DC78BC726DEBA6FE37EEA32210A89A5720135F5ACF4CB4",
+      "size": 22544
+    },
+    {
+      "path": "Data/Object103/Object37.bmd",
+      "sha256": "5951DDFC2F2DBA20A9D591CFC2B934E07417AD5358E672C8B021DDC52EA727F2",
+      "size": 4338
+    },
+    {
+      "path": "Data/Object103/Object38.bmd",
+      "sha256": "4C7763746BDB3FC16AAC9BDB4DD3477B3A96B9EB361D34036A8E2FC2DA252391",
+      "size": 20209
+    },
+    {
+      "path": "Data/Object103/Object39.bmd",
+      "sha256": "8DD34FCD250F3D363C03C01152F9248BEE6248A71B5D35554E879738324D575B",
+      "size": 21553
+    },
+    {
+      "path": "Data/Object103/Object40.bmd",
+      "sha256": "34791C8F69FDDCE1EEBAA1BDA5545C1180AD89ECD6A4E3B13D4EC2EF1556C472",
+      "size": 21553
+    },
+    {
+      "path": "Data/Object103/Object41.bmd",
+      "sha256": "A48738F11D4F2239E1E5038567048FC893FD5086A2392803E979192944B58606",
+      "size": 63158
+    },
+    {
+      "path": "Data/Object103/Object42.bmd",
+      "sha256": "BD194B9BAF8AE60173BED4C57207105CC29CD710BF28517B8A3C68DEC1ADE446",
+      "size": 12690
+    },
+    {
+      "path": "Data/Object103/Object43.bmd",
+      "sha256": "B1094BEDF69E1052C6A4049AE9993F8DD6A3D6126D7843D39E7DC67C107BDE9E",
+      "size": 24182
+    },
+    {
+      "path": "Data/Object103/Object44.bmd",
+      "sha256": "3E7F247FDEE194B2BBF6DE981FD39FD5A5C5B7BF2DADEE1C63D65FEF10653C38",
+      "size": 8542
+    },
+    {
+      "path": "Data/Object103/Object48.bmd",
+      "sha256": "CE66F3F6FFA5A9A55CDA77D658EF075B109E939EC1939AB627A1F100507344FA",
+      "size": 3229
+    },
+    {
+      "path": "Data/Object103/Object49.bmd",
+      "sha256": "A09AFF385ACA64D98EEEA8B75A07BA866013C423CF7F18CEAF616698ECB41CDA",
+      "size": 84095
+    },
+    {
+      "path": "Data/Object103/Object50.bmd",
+      "sha256": "814BC02FC0DCC1E25B3E680CCBFCB17CBA74198789C0A5E566AE1B532C60A2A3",
+      "size": 3949
+    },
+    {
+      "path": "Data/Object103/Object51.bmd",
+      "sha256": "0A64E95FE2D316FDAF661AE1BADB5032E320CCC854EC307791C8204CA81BE031",
+      "size": 20209
+    },
+    {
+      "path": "Data/Object103/Object52.bmd",
+      "sha256": "7DFEE5B6B48068CD990ABBEC15F9CB2787D8BCBBB64F92053DE66F0FD0213ECB",
+      "size": 11875
+    },
+    {
+      "path": "Data/Object103/Object53.bmd",
+      "sha256": "966EE2090E198CAEB3ADD60FF763AAE9BC52791C4A5A1643B21C8E2707F93CD1",
+      "size": 10128
+    },
+    {
+      "path": "Data/Object103/Object54.bmd",
+      "sha256": "3BC02AC4EE8A4F4CF07EA74AAEDEC1A00010EA8DF189A7AAF0FD602EC9765982",
+      "size": 14988
+    },
+    {
+      "path": "Data/Object103/Object55.bmd",
+      "sha256": "D8B07DB7A8CDF6B6BADF6DE7FDEE71381CE46316544C9EB1DBE62F8E9844E381",
+      "size": 28139
+    },
+    {
+      "path": "Data/Object103/Object56.bmd",
+      "sha256": "F2E740E65737DA622E8B3B9A237B895AAEC5063B61376CA76F796C6EC212DBF2",
+      "size": 24150
+    },
+    {
+      "path": "Data/Object103/Object57.bmd",
+      "sha256": "1DB7C4499AABF6AA769CAE24749CFE065CF7E2795DE3BEC9384533648A77BFD6",
+      "size": 136980
+    },
+    {
+      "path": "Data/Object103/Object58.bmd",
+      "sha256": "A0B0A11F712A74048EEA10F991E307DAAC0C6AC57DBDD215655C2C56F49CE390",
+      "size": 69775
+    },
+    {
+      "path": "Data/Object103/Object59.bmd",
+      "sha256": "1EF03D30EEB69EE39CF1C0A5D1A6CA0292C84D775A5F18485CCA208DC7E86CBD",
+      "size": 9622
+    },
+    {
+      "path": "Data/Object103/Object60.bmd",
+      "sha256": "E893AFAFF5B56CE5DCA7182608A7BC0175E4B87F12424D473407F2CAF0B8D7DB",
+      "size": 1102
+    },
+    {
+      "path": "Data/Object103/Object61.bmd",
+      "sha256": "11B81806A821A8DAC4CFE460430B0DF864E94FD69A7C0283EB3EB2E791855B42",
+      "size": 1122
+    },
+    {
+      "path": "Data/Object103/sdikob01A_R.OZJ",
+      "sha256": "6F8F37F899C2FF5BF7DD7B31148E2D51BF9CB6282E9CDBBCE4CCF4CA222A52BD",
+      "size": 34302
+    },
+    {
+      "path": "Data/Object103/sdikob02A_R.OZJ",
+      "sha256": "5B0FCA645F4920DF435028B954D2123085E7503094C9D343FD746C0F9C80DD03",
+      "size": 97255
+    },
+    {
+      "path": "Data/Object103/sdikob03A_R.OZJ",
+      "sha256": "F55200E0823B0A965DC664491918C68B70B04F0BF872E4BA46039E2EF0F291BE",
+      "size": 69883
+    },
+    {
+      "path": "Data/Object103/sdikob03B_R.OZJ",
+      "sha256": "E4A5F6AD746795848B3595AC2C980AD9345652DEC2D0514460BAF30B5C572F8C",
+      "size": 72006
+    },
+    {
+      "path": "Data/Object103/sdikob04A_R.OZJ",
+      "sha256": "C91CE69057FA3EDEBA02797C7026A72EB439A359FB0FE6D61340B3A37DEFDCEE",
+      "size": 74026
+    },
+    {
+      "path": "Data/Object103/sdikob05A_R.OZJ",
+      "sha256": "E88F177D667DB9B962D4E9D383F087D0C57B23F15B157AEBEB0D68337E503080",
+      "size": 31327
+    },
+    {
+      "path": "Data/Object103/sdikob06A_R.OZJ",
+      "sha256": "8426626DE6DEDB3F14547B9C8ECC3FF1A0C045B4C6CB449423801B81E7D56D98",
+      "size": 74906
+    },
+    {
+      "path": "Data/Object103/sdikob06B01_R.OZJ",
+      "sha256": "D13066D5FAFF7DF42FB01AD38CEDF0F354F0B97202A7BD31392478345450387C",
+      "size": 46197
+    },
+    {
+      "path": "Data/Object103/sdikob06B02_R.OZJ",
+      "sha256": "7A711A643E9258A5706B1CAA0474F457E68F2E32C43A78E95EB2092DC136E791",
+      "size": 44767
+    },
+    {
+      "path": "Data/Object103/sdikob06B03_R.OZJ",
+      "sha256": "C8B727E24ED112F78636B0370A58A343ACBA747249307C3C7B8EB94D7511626A",
+      "size": 47757
+    },
+    {
+      "path": "Data/Object103/sdikob06B04_R.OZJ",
+      "sha256": "ED812DE05A849C603595B83C2FFC66A3D9991872CF9F9CC4589F26C4847D04AD",
+      "size": 47225
+    },
+    {
+      "path": "Data/Object103/sdikob06B05_R.OZJ",
+      "sha256": "5338289885C06496767A421DAAD15D2848838E67DA6B2BAE88377C70326B611B",
+      "size": 48018
+    },
+    {
+      "path": "Data/Object103/sdikob06C_R.OZJ",
+      "sha256": "87AC37C9DCB8EC9D1B151420D69E888710871AA100228F36C30C759E2E676382",
+      "size": 33119
+    },
+    {
+      "path": "Data/Object103/so_backgr01.OZJ",
+      "sha256": "8B8479D0FC0A3CD4C7F34C781D76CB5D1B4D71DB97E9CABBB7C193EB4EEB90A5",
+      "size": 342577
+    },
+    {
+      "path": "Data/Object103/test12_H.OZJ",
+      "sha256": "B0A415A7A8EF89CFCD2A72A5CF298B29101EB9488F235680E7F63893E514C0B3",
+      "size": 1916
+    },
+    {
+      "path": "Data/Object103/top02_b.OZJ",
+      "sha256": "A8CBD66EA4FA9EAE30E08CD824005292B0998CE271E8A8D538A147E7FFD635C0",
+      "size": 23007
+    },
+    {
+      "path": "Data/Object103/top02_R.OZJ",
+      "sha256": "07346C1C5A25CCD3B4716FCBBC38DE09520A855B4381B2481FF8B1E791F1DAE2",
+      "size": 31705
+    },
+    {
+      "path": "Data/Object103/top03_R.OZJ",
+      "sha256": "E9F2CF6DC70293940D323C48B83893719F400A050374F470294EAFD372FE4483",
+      "size": 11367
+    },
+    {
+      "path": "Data/Object103/top04_R.OZJ",
+      "sha256": "5BA904CABF6A070A50142ADD8F850335839589E72AC3D84681ACDDF3CEAB8B42",
+      "size": 12005
+    },
+    {
+      "path": "Data/World103/103.ozt",
+      "sha256": "77CB6C4F1A3CE4CBD856C98C73A8C77AD17AA70E0791CBD6DF9473880CBEE9C6",
+      "size": 1048598
+    },
+    {
+      "path": "Data/World103/AlphaTile01.OZT",
+      "sha256": "A1347ACA387A9C9EE90610D7FCEF8BE5E28DEE4B3986F8A0269AA1D4A205DA0B",
+      "size": 262192
+    },
+    {
+      "path": "Data/World103/Camera_Angle_Position.bmd.txt",
+      "sha256": "8E8AFF3D89B85D546CD6B816BB481EB844A9E749A942B1FDB93DEF7AE0A66A23",
+      "size": 397
+    },
+    {
+      "path": "Data/World103/EncTerrain103.att",
+      "sha256": "B8ADACCC25A17B612DC9F358D07A2E4F366609765F26934D08ED18D342C30AE7",
+      "size": 131076
+    },
+    {
+      "path": "Data/World103/EncTerrain103.map",
+      "sha256": "4B12E25C0ACF0226B35534D352185B16FBD111DBD5022F0F4926F00EC415BDCB",
+      "size": 196610
+    },
+    {
+      "path": "Data/World103/EncTerrain103.obj",
+      "sha256": "6FBFDC9434FCE2F300303163CCE3AE004D68EDFE1D55AE7A257D4855A3356B6D",
+      "size": 62794
+    },
+    {
+      "path": "Data/World103/EncTerrain103.obj.txt",
+      "sha256": "4AA8C667D964857C17E0F45F27099B44D480FA52A0BC6B71E631E3819BB25005",
+      "size": 118852
+    },
+    {
+      "path": "Data/World103/leaf01.OZT",
+      "sha256": "BD5F1729D2EF79E6BA37F95368E0532876DEF38867A0C202BC042AE65502A56B",
+      "size": 1072
+    },
+    {
+      "path": "Data/World103/leaf02.OZJ",
+      "sha256": "482397CD34E1FD9FF9028753E626BBB85E2617F64AE0DAC4B078D0808F68CDEA",
+      "size": 4445
+    },
+    {
+      "path": "Data/World103/mini_map.ozt",
+      "sha256": "A20174A2EEA24D0A3A4E2AF10D554DF17F1612C0A2C9FF6DBEE4DB200ABBED2B",
+      "size": 1048598
+    },
+    {
+      "path": "Data/World103/mini_map.tga",
+      "sha256": "8EEAA9E87AEBCE678D44C9886E66BFB00A4B76D791D1E6B05AABDABD34F70F59",
+      "size": 1048594
+    },
+    {
+      "path": "Data/World103/rain01.OZT",
+      "sha256": "C226DA807AEC48CD365853A045332496BC498D607ACFAEAE126DDED8CCC6BF84",
+      "size": 560
+    },
+    {
+      "path": "Data/World103/TerrainHeight.OZB",
+      "sha256": "616C0AF3853726B226F3517FBF78C6AB7FCE47214A4F77EDA2015E6EE0375FE2",
+      "size": 66620
+    },
+    {
+      "path": "Data/World103/TerrainLight.OZB",
+      "sha256": "FF636C92CA6A87E4B2C1DA3D06B9F1A76E6BFD89B090BE0705D91A488D4E2FC1",
+      "size": 196666
+    },
+    {
+      "path": "Data/World103/TerrainLight.ozj",
+      "sha256": "A54E1B466852DFE1EB7F8E16C80BE71A1BB623B8746929757DABF4CCF2020370",
+      "size": 19414
+    },
+    {
+      "path": "Data/World103/TileGrass01.OZJ",
+      "sha256": "C62CFB90F07E6F778CCE2325483985243D87230B1054B1C57D4CE53F166D536D",
+      "size": 111398
+    },
+    {
+      "path": "Data/World103/TileGrass01.OZT",
+      "sha256": "94A44B3139AA478F7866CD115B33AE6A5F91F73D9EDCE0E098105F0E8C622F6E",
+      "size": 65584
+    },
+    {
+      "path": "Data/World103/TileGrass02.OZJ",
+      "sha256": "A2D144F9A431ACAB4424F0FDB0C7F2EEA279A8326FC25F6102FA6B047F0E9316",
+      "size": 118022
+    },
+    {
+      "path": "Data/World103/TileGrass03.OZT",
+      "sha256": "4E8DF0D1FE9342AD4CA541FFDF4918ED73492EBFC3FB44A52102224D141C526A",
+      "size": 131120
+    },
+    {
+      "path": "Data/World103/TileGround02.OZJ",
+      "sha256": "E415B93413962C33547FE0C3264A6A1D740562904DFD7BC746907AC474502042",
+      "size": 120813
+    },
+    {
+      "path": "Data/World103/TileGround03.OZJ",
+      "sha256": "4537E988334D0554F6766CC5EBF465F0AFFEAB43A3C1A4C7CFEAB01CEA97168C",
+      "size": 32366
+    },
+    {
+      "path": "Data/World103/TileRock01.OZJ",
+      "sha256": "A3019594ABF340AAB2A76AEA04C92817A6D2CC9791937F55C18C65A602446FB0",
+      "size": 112199
+    },
+    {
+      "path": "Data/World103/TileRock02.OZJ",
+      "sha256": "1B6EB42AC0CA0793CC7115BBCEAA9DDBBE2076C7849FB849C60FC2D32538B352",
+      "size": 83749
+    },
+    {
+      "path": "Data/World103/TileRock03.OZJ",
+      "sha256": "36D03F9D56232A0683D663F5C069776D3443A32694DA826173C36451C177AAEF",
+      "size": 33276
+    },
+    {
+      "path": "Data/World103/TileRock04.OZJ",
+      "sha256": "57065AE5E4D15254F391EE5B3D8EE5DFBC9990759BDE73C8AFB7E49FB4E16500",
+      "size": 116532
+    },
+    {
+      "path": "Data/World103/TileWater01.OZJ",
+      "sha256": "EBEE568613C52D0612407C7D76787431A879BE4969033E75D0E3243B3D7EAF7F",
+      "size": 60279
+    },
+    {
+      "path": "Data/World103/TileWood01.OZJ",
+      "sha256": "0D03162E61D33DEF3196423D75E60FAFC236ABEB5A5BA1B2B9AEE433A087ED80",
+      "size": 36888
+    }
+  ]
+}
