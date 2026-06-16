@@ -1,7 +1,12 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "baseUrl": "https://noobzaibot.github.io/mu-monasterio-update/",
   "files": [
+    {
+      "path": "Data/Custom/Data/MSPro.zip",
+      "sha256": "6458C6FD1B313A5439DF601624B406E96FA5921D2F791378560FBB4376C8B171",
+      "size": 1623540
+    },
     {
       "path": "Data/Custom/Item/AMB01114306201313.ozj",
       "sha256": "3B5E7818981F0A94F24CA9F2DA87F869544888C95194FF75B0158B3EF27D3A73",
