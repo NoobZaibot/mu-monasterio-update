@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "baseUrl": "https://noobzaibot.github.io/mu-monasterio-update/",
   "files": [
     {
       "path": "Data/Custom/Data/MSPro.zip",
-      "sha256": "1ED40CB70BF99D20E06281D7B75C3CFA5AAC5F0A223E5995805E9B7DCADFDEC7",
+      "sha256": "009288DEB91D6C6F55F7E78A9011AE1E4C2AC23FF1A45F9269804C7FA737081F",
       "size": 1623604
     },
     {
@@ -2291,6 +2291,5751 @@
       "path": "Data/Object103/top04_R.OZJ",
       "sha256": "5BA904CABF6A070A50142ADD8F850335839589E72AC3D84681ACDDF3CEAB8B42",
       "size": 12005
+    },
+    {
+      "path": "Data/Player/AMB01114306201313.ozj",
+      "sha256": "3B5E7818981F0A94F24CA9F2DA87F869544888C95194FF75B0158B3EF27D3A73",
+      "size": 36835
+    },
+    {
+      "path": "Data/Player/AMB01114306201314.ozj",
+      "sha256": "D3D0AA1D435DF96FB1ED338F4A1F42B981D1CE3BA01BA28A093421E756810B65",
+      "size": 36639
+    },
+    {
+      "path": "Data/Player/AMB01114306201315.ozj",
+      "sha256": "AF0844C95A864D4CE210CA7D4C3ECF21E83C5C076A78DC20AB2624BD8961ED98",
+      "size": 83966
+    },
+    {
+      "path": "Data/Player/AMB01114306201316.ozj",
+      "sha256": "410D6F192EBB1669139F8DE7B9F0212A9F4AE5D7DB33D92D7E956DB578283CA7",
+      "size": 97193
+    },
+    {
+      "path": "Data/Player/AMB01114306201317.ozj",
+      "sha256": "6E736265FE0D08C876F75724B43FF11ACF5E97437368973A2123484CD5F3DC96",
+      "size": 37620
+    },
+    {
+      "path": "Data/Player/Angel.bmd",
+      "sha256": "89606597D20FD90BA162878472142B0572213A5F5A96C6500F2B931BC9B6B240",
+      "size": 67246
+    },
+    {
+      "path": "Data/Player/ArmorClass01.bmd",
+      "sha256": "B66CE9D64731130059045F41AAEA453D5959601EAFFEC8B53820BC2ABA23CC7A",
+      "size": 16763
+    },
+    {
+      "path": "Data/Player/ArmorClass02.bmd",
+      "sha256": "19C56A837ECA39132A77608BCFFEF30ECFC4CCC39A19883181190F45FCD228DD",
+      "size": 13763
+    },
+    {
+      "path": "Data/Player/ArmorClass03.bmd",
+      "sha256": "DAA11BC586320ED1480C1A5C7F588D272A53AA90ABC7B53A5E9CCF33C430429D",
+      "size": 13763
+    },
+    {
+      "path": "Data/Player/ArmorClass04.bmd",
+      "sha256": "18447D8629A8F689382BF43EA65138C204F5BA2AE98CA7ABB7784851A667CB44",
+      "size": 16763
+    },
+    {
+      "path": "Data/Player/ArmorClass05.bmd",
+      "sha256": "2116751A16871B90A9202C83E805EE62C4934DE7C1384933AFDAE96F86B59037",
+      "size": 28540
+    },
+    {
+      "path": "Data/Player/ArmorClass06.bmd",
+      "sha256": "6F5DF095B9247AA6696A69B94BE57064189AE4FE81A6B2EE7619718022D12DE9",
+      "size": 38636
+    },
+    {
+      "path": "Data/Player/ArmorClass07.bmd",
+      "sha256": "02A68C1C79577D547F2D7C5363D3985FCD740737438E40C58557C1A8596DD873",
+      "size": 20176
+    },
+    {
+      "path": "Data/Player/ArmorClass201.bmd",
+      "sha256": "12C2DFE9AC67944B40BC7A4160236D60B9D2565A793F6414E25D4266A6348290",
+      "size": 16700
+    },
+    {
+      "path": "Data/Player/ArmorClass202.bmd",
+      "sha256": "A44C92AA65FA00E880B50FE7D6D99A55D82769DDE91435253656396E4E82F826",
+      "size": 13700
+    },
+    {
+      "path": "Data/Player/ArmorClass203.bmd",
+      "sha256": "5B9F30EBA711E08EFCEC4BDC634298327A0948717C57CC6D02E192D7E2062588",
+      "size": 13372
+    },
+    {
+      "path": "Data/Player/ArmorClass206.bmd",
+      "sha256": "D220BD2B23195CA23D31231A0F4DB96AF3AD50A26CC6F4F0AEC01E4C729DC54D",
+      "size": 51484
+    },
+    {
+      "path": "Data/Player/ArmorClass301.bmd",
+      "sha256": "77CC0DE443E15DC68820CE7FC89A1C196F77BCC5640CD70B73C4FDFE1AA54380",
+      "size": 16392
+    },
+    {
+      "path": "Data/Player/ArmorClass302.bmd",
+      "sha256": "F0C1758C9757711545195B59F292432FC343FE1E193D461B5F488C85D64D714B",
+      "size": 13704
+    },
+    {
+      "path": "Data/Player/ArmorClass303.bmd",
+      "sha256": "63EBFCF6771E88306B9A9DE115F95A6E3470279A6B78E67F55EE31CAF8AFA2CA",
+      "size": 13376
+    },
+    {
+      "path": "Data/Player/ArmorClass304.bmd",
+      "sha256": "6CAF8C7C42E9304B319899855091C73F734655B4399E4F2B49F82F13A6421A11",
+      "size": 23144
+    },
+    {
+      "path": "Data/Player/ArmorClass305.bmd",
+      "sha256": "965044CCDFB1015369D9153835E9CEE735EA5EBBFA1F6F5829539EB3C9590936",
+      "size": 27176
+    },
+    {
+      "path": "Data/Player/ArmorClass306.bmd",
+      "sha256": "77A8DF7CE92AC4D7EC2FD898D0601ABED60D51EEADEDB0F92150DF9434931ADC",
+      "size": 49236
+    },
+    {
+      "path": "Data/Player/ArmorClass307.bmd",
+      "sha256": "1AFBE4DA4E17EB12F9CBC3EA7BBD6ED5CE2CC5BF52A05FCF2D9968142980F8D8",
+      "size": 32090
+    },
+    {
+      "path": "Data/Player/ArmorElf01.bmd",
+      "sha256": "4EC7058878F5E8A17F87AD1F670A1F065C44F3F9F42EB6F54992F1B6E7A2F13A",
+      "size": 18479
+    },
+    {
+      "path": "Data/Player/ArmorElf02.bmd",
+      "sha256": "FB59496F1E19D3D38E567B698E64FDF6E89CA1750F960D92908EECC6331C9AC1",
+      "size": 18047
+    },
+    {
+      "path": "Data/Player/ArmorElf03.bmd",
+      "sha256": "8C2747CE08EF628088EAC4F68A1818238F4E6A0F697294D6454FC0CD6946F1BB",
+      "size": 25119
+    },
+    {
+      "path": "Data/Player/ArmorElf04.bmd",
+      "sha256": "12F713FA7B56300DD19A46745F36494E30578F9CF3481D44FEE32EFBD7413D3E",
+      "size": 20937
+    },
+    {
+      "path": "Data/Player/ArmorElf05.bmd",
+      "sha256": "DB81571D430EE4AA9862A85CDF0813BF1A394247BCB464347956C7ABE7BB33BE",
+      "size": 25655
+    },
+    {
+      "path": "Data/Player/ArmorElfC01.bmd",
+      "sha256": "4745C3A47393F74D7D564B47E3DC465201F1A10D502074BDFECBDE7BD5AC3C16",
+      "size": 33668
+    },
+    {
+      "path": "Data/Player/ArmorElfC02.bmd",
+      "sha256": "3A74BA5B21E9C6F2D453EA29C88865978BD1EE98BF11BD1F81E325F734022E4A",
+      "size": 35124
+    },
+    {
+      "path": "Data/Player/ArmorMale01.bmd",
+      "sha256": "4C1F0ED23B4FE0DB0671154F8FB83AD64C57FA08320A519F48DAD9079ECF8C9D",
+      "size": 18725
+    },
+    {
+      "path": "Data/Player/ArmorMale02.bmd",
+      "sha256": "2DCF617CE7FBBD67F54B671CACB371C4FEF76AEA42C899ED312B01C00EEEFB70",
+      "size": 27615
+    },
+    {
+      "path": "Data/Player/ArmorMale03.bmd",
+      "sha256": "1412B9E338FDCA3F29EA8FB09F0E90C68260ABCA2806BBE3FB85E64BC0B76CC2",
+      "size": 17719
+    },
+    {
+      "path": "Data/Player/ArmorMale04.bmd",
+      "sha256": "82309E6117D5F0DCEA2B36FBF578431A6D408288452293731905F7FDCD61A3A0",
+      "size": 18913
+    },
+    {
+      "path": "Data/Player/ArmorMale05.bmd",
+      "sha256": "9FA3F86A3E001FAF473441C2A5FD92FA6380793F4F52D06FBADB934707E0FD6A",
+      "size": 19873
+    },
+    {
+      "path": "Data/Player/ArmorMale06.bmd",
+      "sha256": "7516AF9450840F65500E7745DA52EC81D51B4C6EBEA463917B5C769BB8E79212",
+      "size": 20621
+    },
+    {
+      "path": "Data/Player/ArmorMale07.bmd",
+      "sha256": "66BC4F1FF4C4E3E33220C797EB6A01939CAA31CD2DE5A4224268AB0D37B3198A",
+      "size": 20093
+    },
+    {
+      "path": "Data/Player/ArmorMale08.bmd",
+      "sha256": "858090EA97030BD07BC179D723471FEF66056BF2B92395F2C5D60963745F7FB6",
+      "size": 26135
+    },
+    {
+      "path": "Data/Player/ArmorMale09.bmd",
+      "sha256": "1A930136E3E43AEF2D249B071712344290D1BC490B927287B05E62FE251E1290",
+      "size": 19951
+    },
+    {
+      "path": "Data/Player/ArmorMale10.bmd",
+      "sha256": "5A13776380590564843209432610420AFDD9A72B88ACCF68654D894F920A59F0",
+      "size": 22413
+    },
+    {
+      "path": "Data/Player/ArmorMale101.bmd",
+      "sha256": "7D86ED3CC1E231C71D3373A3F61102AE394DB6E49221026081E3E2F7AC04F687",
+      "size": 160680
+    },
+    {
+      "path": "Data/Player/ArmorMale102.bmd",
+      "sha256": "CD2B2F633A051C5503E05EFDD0EB5C3A1FAC114BCE950F8219B9D9B8C5D90016",
+      "size": 123874
+    },
+    {
+      "path": "Data/Player/ArmorMale103.bmd",
+      "sha256": "37BAE2A4A8AFAF28263EB4BE4DF1CC6714DE60CC33EA210BA1ABDC8C5BCB270B",
+      "size": 151706
+    },
+    {
+      "path": "Data/Player/ArmorMale104.bmd",
+      "sha256": "5EB9FB5CAA0D2069BADDB38F86D21B9BE1CAE7D19C0401156DC5D47AF43A0D33",
+      "size": 158370
+    },
+    {
+      "path": "Data/Player/ArmorMale105.bmd",
+      "sha256": "171B52358D1BF8F0F05DE59934E59DEEA2BA581265529AE5FE6A890B197864AA",
+      "size": 159196
+    },
+    {
+      "path": "Data/Player/ArmorMale106.bmd",
+      "sha256": "BB513D00507B23FBDD41D5D718D57C1D5BC4CC112351D6C5857F83100A9C3A20",
+      "size": 96000
+    },
+    {
+      "path": "Data/Player/ArmorMale107.bmd",
+      "sha256": "CD2B2F633A051C5503E05EFDD0EB5C3A1FAC114BCE950F8219B9D9B8C5D90016",
+      "size": 123874
+    },
+    {
+      "path": "Data/Player/ArmorMale108.bmd",
+      "sha256": "5D0ED02D9CEF3283E96993F1E78A36FCDA3E5037BF7E191FD085AF2D11D612A1",
+      "size": 158370
+    },
+    {
+      "path": "Data/Player/ArmorMale109.bmd",
+      "sha256": "171B52358D1BF8F0F05DE59934E59DEEA2BA581265529AE5FE6A890B197864AA",
+      "size": 159196
+    },
+    {
+      "path": "Data/Player/Armormale110.bmd",
+      "sha256": "9EE3F66E218AFD47BBC5C2D51FCC1BB1006E491A4FAE8D61D65F9157E43B4676",
+      "size": 309724
+    },
+    {
+      "path": "Data/Player/ArmorMale16.bmd",
+      "sha256": "C9E26930875BA301DCBCD65DC409820BC85ED2795F6148F9F5D22E91F47F91D5",
+      "size": 25045
+    },
+    {
+      "path": "Data/Player/ArmorMale17.bmd",
+      "sha256": "F07915298F23E817EAD688A5C05F4C639CCF7EE4BB9B969FAB39860507DC5C6F",
+      "size": 27275
+    },
+    {
+      "path": "Data/Player/ArmorMale18.bmd",
+      "sha256": "3B823D3B9CBED738E2279281B4057CDD1CA7A53E28F39B6DAB81F0BA32398043",
+      "size": 40323
+    },
+    {
+      "path": "Data/Player/ArmorMale19.bmd",
+      "sha256": "1F588302A73CC4CB6EE48D241F7ED472D2700FBA4D7367FA5690F52B7CC1C311",
+      "size": 20801
+    },
+    {
+      "path": "Data/Player/ArmorMale20.bmd",
+      "sha256": "5D5E19A616BCB0C810941C7D287A26D550BBEAF5BA3114CF8AA9DEC9BCD169FE",
+      "size": 29599
+    },
+    {
+      "path": "Data/Player/ArmorMale21.bmd",
+      "sha256": "E9DA95468983A32EF0724C26BEB1DA722DB94B5A10A5CB56E71D8D0EAD7FDDCD",
+      "size": 38006
+    },
+    {
+      "path": "Data/Player/ArmorMale22.bmd",
+      "sha256": "208549312EDEAA86A1577A6397186EB9263ADDFC6B2F6A39DBB70BCFACB5D9AD",
+      "size": 39374
+    },
+    {
+      "path": "Data/Player/ArmorMale23.bmd",
+      "sha256": "2839B0312468C3F12C007482EB57B2CA38D629A7CE1BE9627595AB8884CE248F",
+      "size": 27984
+    },
+    {
+      "path": "Data/Player/ArmorMale24.bmd",
+      "sha256": "B5426566D6DE0AB976121275D3B23EFA444C1531C7178040A48FBD77F741B1BD",
+      "size": 43470
+    },
+    {
+      "path": "Data/Player/ArmorMale25.bmd",
+      "sha256": "47504A4D16D355B9223DF2ABD94574CB7B99E1AFC8E3D7F998A04D612E8DC52B",
+      "size": 44490
+    },
+    {
+      "path": "Data/Player/ArmorMale26.bmd",
+      "sha256": "75CB0342A41F68C2F3B49957520D2D39ECC096F4886B511004DAE45FBAFB9E7E",
+      "size": 30658
+    },
+    {
+      "path": "Data/Player/ArmorMale27.bmd",
+      "sha256": "48494B61E522A82451AA97C563865E5F5A3CB69CAD1588C82035F8D3EB983E75",
+      "size": 46280
+    },
+    {
+      "path": "Data/Player/ArmorMale28.bmd",
+      "sha256": "2E961F866D68324B0F72C05A67F50B98FB00D3C7E1D759DBFF591A7F59D090EC",
+      "size": 36496
+    },
+    {
+      "path": "Data/Player/ArmorMale29.bmd",
+      "sha256": "3B5CA73C02955659AADA85CFC6C597CD38E285866D4D206D72D03A09EEEC46D6",
+      "size": 54040
+    },
+    {
+      "path": "Data/Player/ArmorMale40.bmd",
+      "sha256": "8B208D7C6C64F0F214AA833CAE5663578988F6BA9904AAD111312DBC4887FC20",
+      "size": 47412
+    },
+    {
+      "path": "Data/Player/ArmorMale41.bmd",
+      "sha256": "BC8042EBB0747B61D04EBAC542F2D197953DD31068AAAC164EC022B08314F211",
+      "size": 63228
+    },
+    {
+      "path": "Data/Player/ArmorMale42.bmd",
+      "sha256": "9D30F9FD75A4D055FDC049C79466162F401126C62816CF4F25C5772F28150354",
+      "size": 61100
+    },
+    {
+      "path": "Data/Player/ArmorMale43.bmd",
+      "sha256": "1277A3B659D02F946472931B251CA019D66A5720FA444322704954933367AAC4",
+      "size": 59324
+    },
+    {
+      "path": "Data/Player/ArmorMale44.bmd",
+      "sha256": "295596D0A82CCBD0E4C411F59FEA06FE0ED3117BAAD06D4B886F42F0EFEAAE24",
+      "size": 57892
+    },
+    {
+      "path": "Data/Player/ArmorMale45.bmd",
+      "sha256": "CA2C172AD42B87E85DB34524BF3E9940D2E6859DBA6DC20415413CF190FAA4C6",
+      "size": 52986
+    },
+    {
+      "path": "Data/Player/ArmorMale46.bmd",
+      "sha256": "FEF773E41A8DB46B8EAEB6F18557B9754FCC3B7504C64B1C256422113634F940",
+      "size": 63844
+    },
+    {
+      "path": "Data/Player/ArmorMale47.bmd",
+      "sha256": "D92C1457119AEEAD5771121A44B5A60ECBC3ED790CCCE546FA8D8C28C021DED2",
+      "size": 70826
+    },
+    {
+      "path": "Data/Player/ArmorMale48.bmd",
+      "sha256": "B395BFD8DE35C60689832F7B045A5967EFB71D3980CB86838564BA04D2A39A64",
+      "size": 67922
+    },
+    {
+      "path": "Data/Player/ArmorMale49.bmd",
+      "sha256": "36B9B3F0C365E2402FDEAC23F58125AE0A6CFE82386BB300764E59D7136A9DA0",
+      "size": 72440
+    },
+    {
+      "path": "Data/Player/ArmorMale50.bmd",
+      "sha256": "0AE12ED6A250AF1F40B1E1A7F8672BD7722513D13E16118AFEF0DF7F4E38084B",
+      "size": 59056
+    },
+    {
+      "path": "Data/Player/ArmorMale51.bmd",
+      "sha256": "4891EBAE5D93F16DC53CDD917CB2F057C761DD391F7A728A8CE20C1315EF606F",
+      "size": 58132
+    },
+    {
+      "path": "Data/Player/ArmorMale52.bmd",
+      "sha256": "A4E43C08118A8F9F6A47FCD3B86F1A00B7893AED780E878BA962838DDA173516",
+      "size": 48796
+    },
+    {
+      "path": "Data/Player/ArmorMale53.bmd",
+      "sha256": "AAF37B667FF6B10B7B30F07F5CDEF74D68C30174AE8BD0E6F3EFE4E7A2ADC6C5",
+      "size": 59644
+    },
+    {
+      "path": "Data/Player/ArmorMale54.bmd",
+      "sha256": "3EEA718841E17796224BD85324DC8C12C27E98AD9B6D764F27C4E82048565485",
+      "size": 63112
+    },
+    {
+      "path": "Data/Player/ArmorMale60.bmd",
+      "sha256": "57346060CFFAFFE2561A207DF15DDDE8CBCDF9B9F4090C8BDF6BECFD06AB6397",
+      "size": 70818
+    },
+    {
+      "path": "Data/Player/ArmorMale61.bmd",
+      "sha256": "933F2023C01338378B4D82B2EAC51C9C1128EA2167196163F540B3297BA531DC",
+      "size": 91622
+    },
+    {
+      "path": "Data/Player/ArmorMale61_inventory.bmd",
+      "sha256": "A03FA8C67BDEC50580F2B5CD90AA092D67C63DE4D7B995D113B1B0563A804869",
+      "size": 87720
+    },
+    {
+      "path": "Data/Player/ArmorMale62.bmd",
+      "sha256": "D51CAB0B954764FCF5D9E3DA172F96D3B3EFB2F2F593884AD3793A1BD355781C",
+      "size": 97606
+    },
+    {
+      "path": "Data/Player/ArmorMale62_inventory.bmd",
+      "sha256": "A1C7F2DCF0A5C3F2C82FE749CB80030740D18D4768863243D26A6BBBB0F50D01",
+      "size": 92350
+    },
+    {
+      "path": "Data/Player/ArmorMale74.bmd",
+      "sha256": "A3942B1630C09255CEA9BE18EB22825B55F9E410831FAB9AA9510FE32A544AC3",
+      "size": 129160
+    },
+    {
+      "path": "Data/Player/ArmorMale74_inven.bmd",
+      "sha256": "382609A79BD038D45C1E32CD310CD76A52C6BCF49568A3F6F4452EDBDDFFAF3C",
+      "size": 123674
+    },
+    {
+      "path": "Data/Player/ArmorMaleTest20.bmd",
+      "sha256": "165510689C4EE8F810E08116697403876B8033220488FA9A41971B65682E8532",
+      "size": 38055
+    },
+    {
+      "path": "Data/Player/ArmorMonk01.bmd",
+      "sha256": "616C342D2DBB1FA8664CAB49FCFB08D8E03249872C394ECC0403EB798E8065A3",
+      "size": 25050
+    },
+    {
+      "path": "Data/Player/ArmorMonk02.bmd",
+      "sha256": "12B2EE9795B230F8FB1527141ABB05E2C12F95863F27BA05C2617C69F9D27337",
+      "size": 25438
+    },
+    {
+      "path": "Data/Player/ArmorMonk03.bmd",
+      "sha256": "2C3DAF748758058ECAD13035B335852A6AF7E01C9F48FC488845EE76CFBDE4E6",
+      "size": 24816
+    },
+    {
+      "path": "Data/Player/ArmorMonk04.bmd",
+      "sha256": "FFF8F79B277549FC2634E469691DBA66C863EB101FF25CBBDDA21032F11DB30C",
+      "size": 27514
+    },
+    {
+      "path": "Data/Player/armor_arm.OZJ",
+      "sha256": "D986C97214122C730DD6658C336C8BE91C320A93645E1991DE9EC1E31633E526",
+      "size": 16465
+    },
+    {
+      "path": "Data/Player/armor_helmet.OZJ",
+      "sha256": "C70B341B0D61BE159FFBC26E36163AB63B6F55CF4D77F8FF387C61877EDE2335",
+      "size": 17991
+    },
+    {
+      "path": "Data/Player/Armor_inventory60.bmd",
+      "sha256": "BAE9F555C328108B1F0DCAD100ABE7ACE5A99FD966DCE39CDB8EDFA8C1DA848E",
+      "size": 87328
+    },
+    {
+      "path": "Data/Player/armor_legs.OZJ",
+      "sha256": "0AD5A671D1C7E3B434B28BD4D92A75562A85BA64A4A8D198FE0D7C987E5F0202",
+      "size": 18202
+    },
+    {
+      "path": "Data/Player/armor_skirt.OZJ",
+      "sha256": "E52651221D4E5BEE19D70D4A5F238164661F0DF5C156A044BEDF5555C62F9174",
+      "size": 14357
+    },
+    {
+      "path": "Data/Player/armor_upper.OZJ",
+      "sha256": "38ED2400A1727F5C613391E94C17E67CA0174D6E2D5F3DB4177CF33CBC134F37",
+      "size": 56278
+    },
+    {
+      "path": "Data/Player/basic_alice3.OZJ",
+      "sha256": "DBA9081D15883670E6BEC02A8988733725C152F47430F2F96AC2C31F7F78B8C7",
+      "size": 118146
+    },
+    {
+      "path": "Data/Player/basic_alice3_hair.OZT",
+      "sha256": "452B4B8350C559A55D5FFB9BE36C29B8B8A4F8847CF0CAB3AC4368F4D785D561",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/BK09085516201359.ozj",
+      "sha256": "C4F6EE648BE7F78773657EBA69A04A6D6DA0837DC8D0218B321DEDDA7446F5CE",
+      "size": 22247
+    },
+    {
+      "path": "Data/Player/BK09085516201362.ozj",
+      "sha256": "9A59EFD41E11A6A13AA42437E71070316F1090E5D7F5ACD0F2AD51BAF016CD8D",
+      "size": 13208
+    },
+    {
+      "path": "Data/Player/blackdrager_boots.OZJ",
+      "sha256": "D0C9B297F001CB8946E44C9642BAF064A2C621E8643C381B038906B7745A4593",
+      "size": 16060
+    },
+    {
+      "path": "Data/Player/blackdrager_gloves.OZJ",
+      "sha256": "D44E6072DB102B577FEBA96783231E0D849FE062C6B10734CBE1504012754CC3",
+      "size": 35143
+    },
+    {
+      "path": "Data/Player/blackdrager_head.OZJ",
+      "sha256": "3C6DEF2B139B1D8FCFCAA05F333DEF721FC3EEBDFA67820704CDB50AB18715EA",
+      "size": 18291
+    },
+    {
+      "path": "Data/Player/blackdrager_lower.OZJ",
+      "sha256": "B96F713833D36CA2714D792E8AEA3CE31AECD801D5165BA3171763F36910B8F9",
+      "size": 27142
+    },
+    {
+      "path": "Data/Player/blackdrager_upper.OZJ",
+      "sha256": "53E3D58ACF192F110E07595EBC1DBACA88BE0C94700C7AB9A19B70C975F18079",
+      "size": 39441
+    },
+    {
+      "path": "Data/Player/BloodyDragonDetail.ozj",
+      "sha256": "02BD4A81B27B701C99DA27BE6B4DABB3FBDC52801298E52C69FAA69F606B6F22",
+      "size": 9980
+    },
+    {
+      "path": "Data/Player/BloodyDragonGlovesL.bmd",
+      "sha256": "0B3D2A1AD91850B8C2C56AE3221BCCDAA7D3BA0FA454E984B8486A42DA781167",
+      "size": 172318
+    },
+    {
+      "path": "Data/Player/BloodyDragonGlovesO.bmd",
+      "sha256": "545B951D5D0C54E544C34BA5A42D7EE3C278D08E7860FCFAAB754D9B90B667F3",
+      "size": 172318
+    },
+    {
+      "path": "Data/Player/BloodyDragonGlovesR.bmd",
+      "sha256": "545B951D5D0C54E544C34BA5A42D7EE3C278D08E7860FCFAAB754D9B90B667F3",
+      "size": 172318
+    },
+    {
+      "path": "Data/Player/BloodyDragonPartBrN.ozj",
+      "sha256": "4E7525D2EB778C3F6AB755E7A9298C54187E37930BDFCBE8D0106FEA75649472",
+      "size": 23214
+    },
+    {
+      "path": "Data/Player/BloodyDragonPartBTS.ozj",
+      "sha256": "12A7C451E8BC007B1A341E7A0FE655C0F3E24D6595CDBAA0D684FAE78065D588",
+      "size": 24631
+    },
+    {
+      "path": "Data/Player/BloodyDragonParteTc.ozj",
+      "sha256": "7C85FE42BDDCDFCD42DA518E2C8D92B9178ED4400B487D701907EAAD8052F244",
+      "size": 21747
+    },
+    {
+      "path": "Data/Player/BloodyDragonPartFrG.ozj",
+      "sha256": "27E7FD1F3B9B606C1466F40F63A4F2B1BC13A7658C338029450C72213CB26183",
+      "size": 27311
+    },
+    {
+      "path": "Data/Player/BloodyDragonPartNrG.ozj",
+      "sha256": "4FC07C87881A478735683AA98667FB418F578E7055E4926D0162E1C543367714",
+      "size": 59930
+    },
+    {
+      "path": "Data/Player/Boot74.OZJ",
+      "sha256": "C2AC061E1DE2A0E265D86804E7FE967B456AC586EBF39B27D078696D353AFFED",
+      "size": 34505
+    },
+    {
+      "path": "Data/Player/BootClass01.bmd",
+      "sha256": "92ACD4F0F1E4DFE49D99A5F08C354D26C3B0C055C22508E389AA386E80CDAB80",
+      "size": 13803
+    },
+    {
+      "path": "Data/Player/BootClass02.bmd",
+      "sha256": "5914C5FBA6BB50910A8D536DDF6129D12B21F18A478225E3E4D0B4E9AB3C6558",
+      "size": 13803
+    },
+    {
+      "path": "Data/Player/BootClass03.bmd",
+      "sha256": "DD7E037DB38D1CC663AEA1D1F764524EC1D88F74BE348A92DD829A98C6BF4F4F",
+      "size": 12155
+    },
+    {
+      "path": "Data/Player/BootClass04.bmd",
+      "sha256": "288AA6DCFEABAD1B40EA8ABAC72F8EF077E2E4B68D44178DE0024BE992C6C8A9",
+      "size": 14715
+    },
+    {
+      "path": "Data/Player/BootClass05.bmd",
+      "sha256": "47DDAA592441FF46F0AABCAA36D8C8F3F697B2C0EE964FBFDADABD6711B2C747",
+      "size": 17652
+    },
+    {
+      "path": "Data/Player/BootClass06.bmd",
+      "sha256": "D7ED67B82D8116E5BE0CD3DB8335E76DD3998FD307B9C582AC145A04015AA734",
+      "size": 19224
+    },
+    {
+      "path": "Data/Player/BootClass07.bmd",
+      "sha256": "28C2EDC8FEDE4C48B82701C9EC12A65199C96B43C8163275EB13615E1CEA3BF3",
+      "size": 16048
+    },
+    {
+      "path": "Data/Player/BootClass201.bmd",
+      "sha256": "1625CC66A61B6F88792EF447A031F522007C1937003421A6880AEC2995632CFB",
+      "size": 20172
+    },
+    {
+      "path": "Data/Player/BootClass202.bmd",
+      "sha256": "FEBEDD9523414CF3395E13BBA872265BAC0A1B6016061AEAE16C31B731D7739B",
+      "size": 12972
+    },
+    {
+      "path": "Data/Player/BootClass203.bmd",
+      "sha256": "6CA272ADC5DACA355B00ACDADCAD1DEB45B53356CC11B2A83192BAAEE2C28522",
+      "size": 14204
+    },
+    {
+      "path": "Data/Player/BootClass206.bmd",
+      "sha256": "6C68C0F880EE7679580DBA4BDBBD4F916BC8EC8BA6801CD857125573F453D898",
+      "size": 30888
+    },
+    {
+      "path": "Data/Player/BootClass301.bmd",
+      "sha256": "C9E3415A44070DF2A72504F49C2BFCF511E23A5C4E4A9F3F373FE1C90B8F5680",
+      "size": 14048
+    },
+    {
+      "path": "Data/Player/BootClass302.bmd",
+      "sha256": "FB988C883AE9C7D9E18974F4C718852755CCBC27640C21501936B0C7B3096539",
+      "size": 13744
+    },
+    {
+      "path": "Data/Player/BootClass303.bmd",
+      "sha256": "8E0F8FE3A545C30BA209D00E05CE32662CC3F379EAF62983776E333ADFE0306A",
+      "size": 14208
+    },
+    {
+      "path": "Data/Player/BootClass304.bmd",
+      "sha256": "A834C7688CA694403D91A6209DD7B6F0477C03B51C96B383A9D562971E96589C",
+      "size": 20880
+    },
+    {
+      "path": "Data/Player/BootClass305.bmd",
+      "sha256": "3BC5D7D4D2571B5B9F2BB284BFC7BF06D74A9659812EDF84D6F28278FB158112",
+      "size": 25668
+    },
+    {
+      "path": "Data/Player/BootClass306.bmd",
+      "sha256": "309A12A5DC1388D35426B0DF94BB7814CE7241C53D509D1539A69BDD3E3031BE",
+      "size": 23152
+    },
+    {
+      "path": "Data/Player/BootClass307.bmd",
+      "sha256": "43354D439C7A8BDC3F844ABAE043680FD3EC474CBCBEF53EA9E3950231C2F568",
+      "size": 34486
+    },
+    {
+      "path": "Data/Player/BootElf01.bmd",
+      "sha256": "B1E1C5D16EC68028022A95B9106900B8B85E40D5B07A949E6D6325D4F3E1FFE8",
+      "size": 14615
+    },
+    {
+      "path": "Data/Player/BootElf02.bmd",
+      "sha256": "65C71E0DF48587104A5EDEAB52AF6D8ED4B0FB686954872A2C754CDD19EDFE4A",
+      "size": 14037
+    },
+    {
+      "path": "Data/Player/BootElf03.bmd",
+      "sha256": "A1BF6EDC9DB9E7D5F9A44EB69995400DAD78148C0035C65778E4937BB32B35B9",
+      "size": 13685
+    },
+    {
+      "path": "Data/Player/BootElf04.bmd",
+      "sha256": "48D06157B49250C22A0C25E7D410CC81A30D2E67779A852023C7A55017ACB51B",
+      "size": 16175
+    },
+    {
+      "path": "Data/Player/BootElf05.bmd",
+      "sha256": "727A1C6194320F4DD9E523FB48E3792B460A9AF471FC5EE7FB50CB4C2722759E",
+      "size": 15915
+    },
+    {
+      "path": "Data/Player/BootElfC01.bmd",
+      "sha256": "DD7AFBD7C159112B0755273B4E0E827F7DA3B5409A5496DC555C315EAD174C38",
+      "size": 15384
+    },
+    {
+      "path": "Data/Player/BootElfC02.bmd",
+      "sha256": "A44B70528DAB728BBAC940CEF7BED8E6E71BF704A435D66D3708B44DD230814C",
+      "size": 14890
+    },
+    {
+      "path": "Data/Player/BootMale01.bmd",
+      "sha256": "E60C1433A5CC51EC9E48FC67611C40FD9CFFD3A4DC566BE74457196A23E5BC56",
+      "size": 17747
+    },
+    {
+      "path": "Data/Player/BootMale02.bmd",
+      "sha256": "C61FB8AB48D3AF66C4C4834F65AF5E96D6364A0D589889EAA194015EEFA6B96A",
+      "size": 15883
+    },
+    {
+      "path": "Data/Player/BootMale03.bmd",
+      "sha256": "6E758D670CC3EE5DBB6F6DCF2E7675B57CED5A95684A5655FE0AB6FF62B0EDB8",
+      "size": 15007
+    },
+    {
+      "path": "Data/Player/BootMale04.bmd",
+      "sha256": "C4184D71695118EE8D111A14B9DED149B4F8A4758F18A1BEDFA4C26AB197897C",
+      "size": 14825
+    },
+    {
+      "path": "Data/Player/BootMale05.bmd",
+      "sha256": "B8E6EAB914AD3A9E60652A1067D8B18C348539EA9F06AEDD38D3936C6F5031A6",
+      "size": 13989
+    },
+    {
+      "path": "Data/Player/BootMale06.bmd",
+      "sha256": "38BBA8B19F420C6C92D5A30AB943D58176C1726B9C5431F9AAD792BF14DF1DBD",
+      "size": 14021
+    },
+    {
+      "path": "Data/Player/BootMale07.bmd",
+      "sha256": "CAEA24D6CEBAC18CD73875074D457E49B9C6E72EC602EBC1FEE25CAA787EB3D0",
+      "size": 16213
+    },
+    {
+      "path": "Data/Player/BootMale08.bmd",
+      "sha256": "E2449D3F3CA72724BEFA242D65E3A076927AEBDF0E6B5633980A591F250A0346",
+      "size": 13629
+    },
+    {
+      "path": "Data/Player/BootMale09.bmd",
+      "sha256": "08ED8A75BD264C35DBBC87CFE1851EBD827E0257F8BEB831D1E75A72C9F0B981",
+      "size": 15813
+    },
+    {
+      "path": "Data/Player/BootMale10.bmd",
+      "sha256": "3FF1ECC29ACE424151FE30178460A2A248EF7C03C97B1A78829F2D8DAE8D0F38",
+      "size": 19371
+    },
+    {
+      "path": "Data/Player/BootMale101.bmd",
+      "sha256": "A61B6ACB6B3971FBCC84789C918536D656D49C557BF78448369381A8A28C9518",
+      "size": 129320
+    },
+    {
+      "path": "Data/Player/BootMale102.bmd",
+      "sha256": "A38B3090271759971D1D82EF4745F08800306F84BB1591C38C1EE60D8F959EC5",
+      "size": 110112
+    },
+    {
+      "path": "Data/Player/BootMale103.bmd",
+      "sha256": "C58681DBD006ED3008610DF61A68EE050670C748D91B05B6FD94393EBF7ABB8F",
+      "size": 54840
+    },
+    {
+      "path": "Data/Player/BootMale104.bmd",
+      "sha256": "317F90F8C252331EE7991FACEE9682BCAEC4261FF7EF9A22A886EF834EF65974",
+      "size": 47000
+    },
+    {
+      "path": "Data/Player/BootMale105.bmd",
+      "sha256": "6DE7E9E74EE9DCB7A985C156AEF0B6F504C14CF471657330CE4D98B63D332885",
+      "size": 58018
+    },
+    {
+      "path": "Data/Player/BootMale106.bmd",
+      "sha256": "70FF22E69FB2FB56884C973551068379D3554D6423F324FCCB9532B3370F7B3D",
+      "size": 62680
+    },
+    {
+      "path": "Data/Player/BootMale107.bmd",
+      "sha256": "A38B3090271759971D1D82EF4745F08800306F84BB1591C38C1EE60D8F959EC5",
+      "size": 110112
+    },
+    {
+      "path": "Data/Player/BootMale108.bmd",
+      "sha256": "D3CC36A2FE5A71AAE1F4D46C7FBD219813A7C014ECCD4CA8CE128878A644C73C",
+      "size": 47000
+    },
+    {
+      "path": "Data/Player/BootMale109.bmd",
+      "sha256": "6DE7E9E74EE9DCB7A985C156AEF0B6F504C14CF471657330CE4D98B63D332885",
+      "size": 58018
+    },
+    {
+      "path": "Data/Player/BootMale110.bmd",
+      "sha256": "72A2845E5EFE7D8231B179DAC451C795B8BF40D43FAE9D9AD80C63E14A8F4EDF",
+      "size": 65032
+    },
+    {
+      "path": "Data/Player/BootMale16.bmd",
+      "sha256": "33ED1D0739FE0D57C323B328D077D2A37EEBF0924280E7BB9B693698D8EB593F",
+      "size": 17783
+    },
+    {
+      "path": "Data/Player/BootMale17.bmd",
+      "sha256": "8502BEFB96B44B65B44A4EBD7901C0A3936629FC7A4032A83EFED1136F727902",
+      "size": 18415
+    },
+    {
+      "path": "Data/Player/BootMale18.bmd",
+      "sha256": "17AF3320F3DA9D1229D8D275894CCEB25F68311BC0DF1DCF3B68AB6DA3F0A5AC",
+      "size": 21141
+    },
+    {
+      "path": "Data/Player/BootMale19.bmd",
+      "sha256": "F0E5F111F93AE39B94BA47958B25D962AA2403E428DBA7E0134E5A91C7D33CF1",
+      "size": 16425
+    },
+    {
+      "path": "Data/Player/BootMale20.bmd",
+      "sha256": "5AC602841CC6F7A8AE21B2825B1B5B3AECAADF04619BC6BB9FEA3D3F596E902D",
+      "size": 19124
+    },
+    {
+      "path": "Data/Player/BootMale21.bmd",
+      "sha256": "8E4F1F35A01AAE99022BB4D64FCB5068E4B83F9EAF141DAE01F28B75DEB71183",
+      "size": 20866
+    },
+    {
+      "path": "Data/Player/BootMale22.bmd",
+      "sha256": "294818E99E20E30E3865EA3D3745DC58404B45CE5F43A5362DBBA57F013BE6E1",
+      "size": 28312
+    },
+    {
+      "path": "Data/Player/BootMale23.bmd",
+      "sha256": "FAECEBD854E7E1363DD9EAB6033C959D70A18371BE2ED3EB3643E842841CABBB",
+      "size": 17792
+    },
+    {
+      "path": "Data/Player/BootMale24.bmd",
+      "sha256": "12CBCED9CC36187EAD361F3FB3B60938AE1F70D2501B06769812B0E6FC8DC6D5",
+      "size": 22048
+    },
+    {
+      "path": "Data/Player/BootMale25.bmd",
+      "sha256": "F65CDB327A2160857316CBC7794CC1F569B233C6FB55FAEB4C46DBB45FEA1A76",
+      "size": 21466
+    },
+    {
+      "path": "Data/Player/BootMale26.bmd",
+      "sha256": "82D05068F5A062C0E6228F7E822338C7692AA2CF30A58A2059136DC144B4E71C",
+      "size": 15672
+    },
+    {
+      "path": "Data/Player/BootMale27.bmd",
+      "sha256": "FBF89B48CE12DE5D445D84049D90C3B69340EC755155FE0B0BCBAA21D471FBCA",
+      "size": 27920
+    },
+    {
+      "path": "Data/Player/BootMale28.bmd",
+      "sha256": "F3CFFD3B10663F79B4F72D584D76B34395944A2D77C717A56DD8422688C3CAC0",
+      "size": 23358
+    },
+    {
+      "path": "Data/Player/BootMale29.bmd",
+      "sha256": "B1C3C80BA9214B749A68EC9D377A066E4559F10F6E06CD759C7436ED5D6EA43F",
+      "size": 24832
+    },
+    {
+      "path": "Data/Player/BootMale40.bmd",
+      "sha256": "17365219DD2F5596BB49592F5541ED6B40CCFCB026EEFECD1BF484B1922E50F5",
+      "size": 29552
+    },
+    {
+      "path": "Data/Player/BootMale41.bmd",
+      "sha256": "C77DD99099FF79589DB5D186D270CF9C75BD71EAD9CD0344F1C8C6E679ACB1AF",
+      "size": 29444
+    },
+    {
+      "path": "Data/Player/BootMale42.bmd",
+      "sha256": "EF6F22BD2A1F5DC438C55E868AE039987BBEB35B27A51E863C11BB2CC4BB3670",
+      "size": 30360
+    },
+    {
+      "path": "Data/Player/BootMale43.bmd",
+      "sha256": "9A7D1DE4EE524F5D59F8435FD2E40F3166D7FB5AA6E5A090D0F041EC93C83F19",
+      "size": 30064
+    },
+    {
+      "path": "Data/Player/BootMale44.bmd",
+      "sha256": "8C8DBB311265BC82F3DD66DE524C33B5045EE90F1BBFAE4853256B7D92198082",
+      "size": 44676
+    },
+    {
+      "path": "Data/Player/BootMale45.bmd",
+      "sha256": "52005AB3ED27FAF2C514955111BD2EFA96EC4905AD8FF4D090C43F2CE955D562",
+      "size": 34940
+    },
+    {
+      "path": "Data/Player/BootMale46.bmd",
+      "sha256": "0DE54162168E6A61519D75E98848B58035CD2370C85DD2D114E0884E8999E0CD",
+      "size": 32036
+    },
+    {
+      "path": "Data/Player/BootMale47.bmd",
+      "sha256": "4C8F0BD989859B0D1BBDC55CBF4DE76630C2F382B528CA46A856FDB8335AA0E8",
+      "size": 47406
+    },
+    {
+      "path": "Data/Player/BootMale48.bmd",
+      "sha256": "4B66003B28E14EAA71489282B154AEC9E9026F68EB8D626685C2E0C6182BA663",
+      "size": 35238
+    },
+    {
+      "path": "Data/Player/BootMale49.bmd",
+      "sha256": "963E2D6A8DB079A1215E92B3A5EDC95F7C21856E191CEBBC52C4FCF6D3B05117",
+      "size": 41976
+    },
+    {
+      "path": "Data/Player/BootMale50.bmd",
+      "sha256": "EEA7FDEEE55CB8E0BA49F08E5D5D96A3216D0D883E93E675DE47E16B423F0F73",
+      "size": 39248
+    },
+    {
+      "path": "Data/Player/BootMale51.bmd",
+      "sha256": "F7C0211CA21E1444A7BBC95AF1D6401BB137206B2F9094F3708B725C848D0695",
+      "size": 28780
+    },
+    {
+      "path": "Data/Player/BootMale52.bmd",
+      "sha256": "1939FD3B594A5F232EBC36D5B33051F8E7962919CF8BBBC1F1965F3232AD3A20",
+      "size": 24480
+    },
+    {
+      "path": "Data/Player/BootMale53.bmd",
+      "sha256": "CA72D471C1F3ED99081463FAF30A3CC7E1DE89A13EBFFC3DEAB0D552B7B294D4",
+      "size": 38980
+    },
+    {
+      "path": "Data/Player/BootMale54.bmd",
+      "sha256": "54E2D1FA22FA167969E1D55C8257ED6D0199D40A63C13E20832692B370B0474A",
+      "size": 24488
+    },
+    {
+      "path": "Data/Player/BootMale60.bmd",
+      "sha256": "8330B82C55B59C4E706E120F8CCDD2AE7C7AA87D15F09F7F1397E59075D01B7B",
+      "size": 35090
+    },
+    {
+      "path": "Data/Player/BootMale61.bmd",
+      "sha256": "C0E991F23065E036737152BDBF8A5FCBB35A52314D4F134F4675D9AF1189E604",
+      "size": 36462
+    },
+    {
+      "path": "Data/Player/BootMale62.bmd",
+      "sha256": "BAA040FF0241DBE60E3E6725AD5A111AC91B064E36CB1328A811CA4CC83C81AF",
+      "size": 25456
+    },
+    {
+      "path": "Data/Player/BootMale74.bmd",
+      "sha256": "CB024FBD8FA9E5F2C8C3A284C4CB7FC85AC5CBB47F70BDDCA158A8EEF7C33DB3",
+      "size": 58498
+    },
+    {
+      "path": "Data/Player/BootMaleTest20.bmd",
+      "sha256": "17641DB4742752318F2DF4B444BB2037693D02566BE3EDF23EBC82102204210F",
+      "size": 26871
+    },
+    {
+      "path": "Data/Player/BootMonk01.bmd",
+      "sha256": "2BD3B0B150DFCCA6C77F928DBB0DC24DED2FB76D659827ABD59B8F40B70F8F42",
+      "size": 14538
+    },
+    {
+      "path": "Data/Player/BootMonk02.bmd",
+      "sha256": "A0DBB67CACE78107EBAAFBCBC8AFA080F6EA0B5FA1CAF05D919BBA05925274B2",
+      "size": 16746
+    },
+    {
+      "path": "Data/Player/BootMonk03.bmd",
+      "sha256": "6B9BB3E193C788E5D310AC0A5731B9F811D9325467894BB4E4F58414FE0593AE",
+      "size": 16346
+    },
+    {
+      "path": "Data/Player/BootMonk04.bmd",
+      "sha256": "27B4E7FB787CA1E57813FEAB67F8A59A81B159F782C67DB3A101EAA73540B1BB",
+      "size": 19696
+    },
+    {
+      "path": "Data/Player/boots.OZJ",
+      "sha256": "14B3469561E331F763254F47FC83723306E272C217BA8B3CDDC5D4FF37F4CAA0",
+      "size": 19086
+    },
+    {
+      "path": "Data/Player/boots22.OZJ",
+      "sha256": "14B3469561E331F763254F47FC83723306E272C217BA8B3CDDC5D4FF37F4CAA0",
+      "size": 19086
+    },
+    {
+      "path": "Data/Player/boots_02.ozj",
+      "sha256": "CF56ED6781C078FEC4251D0C9DC84FB4147CB91FA2ABFFD76C7B9BFA087E08E1",
+      "size": 12042
+    },
+    {
+      "path": "Data/Player/boots_03.OZJ",
+      "sha256": "1D2B75A424F85FE2FD8D1F5F8FBFCC38357C0F61B01442DCE8CE4871BBB041A1",
+      "size": 14018
+    },
+    {
+      "path": "Data/Player/boots_03b.OZJ",
+      "sha256": "3E7B817B6D82D89C2BCD77AE8E77879E65CD95CB049E3E49EC9C31ACE49B1894",
+      "size": 14837
+    },
+    {
+      "path": "Data/Player/boots_04.OZJ",
+      "sha256": "42FEB0F03F69F183FBFBAE0447483253DAD8D447746FB20B3D73E328A905A7F3",
+      "size": 11426
+    },
+    {
+      "path": "Data/Player/boots_04b.ozt",
+      "sha256": "5D724A3AEF783FC3C89431298F4D917ADB4326AD0C932E0666CF8AD6CAA29103",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/boots_04c.OZJ",
+      "sha256": "B30C7E0F57160AED447F8A478AB7BE525D9C020729E569C0CA1C0738074288A7",
+      "size": 10765
+    },
+    {
+      "path": "Data/Player/boots_06.OZJ",
+      "sha256": "2BC1E287E1C85BE4B77227DCDF12D1C4364849FF3567E27BC23F6B60112C90A6",
+      "size": 9475
+    },
+    {
+      "path": "Data/Player/boots_07.OZJ",
+      "sha256": "F301F989753E64B58C8F5D3BC72B7E6386EC7DA634D4197F7775CFD3A2E8C3EC",
+      "size": 9491
+    },
+    {
+      "path": "Data/Player/boots_08.OZJ",
+      "sha256": "1C54E7A47A206611B9904098524010D9F47DA4C53556A31586951C73F94166F8",
+      "size": 11834
+    },
+    {
+      "path": "Data/Player/boots_09.OZJ",
+      "sha256": "CF89FB22D891C61145FB12FC99AFDA0BF0D7981A5F8B978D7EC36C20F8567395",
+      "size": 10257
+    },
+    {
+      "path": "Data/Player/boots_09c.OZJ",
+      "sha256": "8EC587687CFE394CAA90E25953D3CDD57BD4CB7A6910715B635296C86B8C1922",
+      "size": 12109
+    },
+    {
+      "path": "Data/Player/boots_10.OZJ",
+      "sha256": "2A1FFD4B8E28965F8F5A46277CA553BE421E6010C017DD5B78ECA7AD7C6E744C",
+      "size": 12838
+    },
+    {
+      "path": "Data/Player/boots_10b.ozt",
+      "sha256": "3D9752A2BDCB0BA8F7712B2569B09FAF19F674B6D740727109BB0922AAD6EAF9",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/boots_11.OZJ",
+      "sha256": "56D2A9E078C573C1007D0EFFF5A38C6B87429CF2733031B29CB8180F466632BC",
+      "size": 11092
+    },
+    {
+      "path": "Data/Player/boots_12.OZJ",
+      "sha256": "3909BDAFC13A9A489F85B89C187FF5C78B4B9658DC7F7B28BFB6F33CE457A187",
+      "size": 10578
+    },
+    {
+      "path": "Data/Player/boots_13m.OZJ",
+      "sha256": "A8CFA54F87F3AC2AF527FFD9591085FA4AF879032F516D0BEDFF02A554325A3D",
+      "size": 11973
+    },
+    {
+      "path": "Data/Player/boots_14.OZT",
+      "sha256": "E54A2780E092BD3CA5A2E247299BF65867729C4F36EB6C8650066CC5FE970449",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/boots_14m.OZJ",
+      "sha256": "B96C9B2D9220AF5270E89CBFEDD7362F014754E965E5E82560D7FAEDD7518FC5",
+      "size": 10362
+    },
+    {
+      "path": "Data/Player/boots_15.OZT",
+      "sha256": "869069A12AD789C3A72DA00E6B634F94E088DAA1F48556E6E198EBCAFDCA5413",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/boots_15m.OZJ",
+      "sha256": "0B8424E079A050C2A860221B493BE80BCF1E0F85C3DFD50F5F2DD09B0E872EDF",
+      "size": 13980
+    },
+    {
+      "path": "Data/Player/boots_17.OZJ",
+      "sha256": "7956EBD5919000D225AD68DEA57B806FD2ACDEE3F887F70C008BE6C2F4869764",
+      "size": 11246
+    },
+    {
+      "path": "Data/Player/boots_18.OZJ",
+      "sha256": "442703E72D1F682C1ACD7CE1F2A0BAADAFAAECE508301F6762322B3237D86341",
+      "size": 8530
+    },
+    {
+      "path": "Data/Player/boots_bd.OZJ",
+      "sha256": "E94A3E09EFB70B3DDB0305E5929A50DBB3CB1DB55FB3261461AEF0B97EEA20F5",
+      "size": 11921
+    },
+    {
+      "path": "Data/Player/boots_bld.OZJ",
+      "sha256": "BB54A33BF1E274B0970C92DD24119F219504527B7762E4BF6CA6BFE9A64EAA21",
+      "size": 9198
+    },
+    {
+      "path": "Data/Player/boots_c07.OZJ",
+      "sha256": "0F51C3B53FB25374C1B13DD885889246D7EAF0323BE1EF64605082218045A9C9",
+      "size": 11237
+    },
+    {
+      "path": "Data/Player/boots_E1.OZJ",
+      "sha256": "0FE54D83EED1BFEF751FB73E4244EE8134544A3FBC86FC1F11C8F75E27B1576E",
+      "size": 10294
+    },
+    {
+      "path": "Data/Player/boots_E1Test.OZJ",
+      "sha256": "E79E877DE7F7C47A1B534A377186DD05C22DF297E07BD77B9DD52E8350862FA4",
+      "size": 16781
+    },
+    {
+      "path": "Data/Player/boots_s.OZJ",
+      "sha256": "A05BE12914CA4785ABA07C2ABC39441C9A147B2791C58F5EC8434F6A2D3B3857",
+      "size": 32149
+    },
+    {
+      "path": "Data/Player/boot_10c.OZJ",
+      "sha256": "C0D4698748B51A874BFFFB0157A2A7CBAD02C1E0A27D90975BB46FAA49E166D2",
+      "size": 13503
+    },
+    {
+      "path": "Data/Player/cape_death.bmd",
+      "sha256": "352BEDE42F85221D25E597461D56D7CC0DF308EDCB6B85A5CD9E4184D46ADD82",
+      "size": 9428
+    },
+    {
+      "path": "Data/Player/cape_of_death.bmd",
+      "sha256": "352BEDE42F85221D25E597461D56D7CC0DF308EDCB6B85A5CD9E4184D46ADD82",
+      "size": 9428
+    },
+    {
+      "path": "Data/Player/Cepter.OZJ",
+      "sha256": "17B0A9255075BBE7E252EF23C9B187FC2A60F3FA10121DAA9E3DF91B597B076E",
+      "size": 37560
+    },
+    {
+      "path": "Data/Player/cggg.OZJ",
+      "sha256": "04BF27B5103F92D1D0127967232F865B159F7EE0F282F9ECE6033771262E6CDD",
+      "size": 2829
+    },
+    {
+      "path": "Data/Player/cobraset_boots_s.OZJ",
+      "sha256": "BD349469366F542295AB6B0D0D9EEE63569622A056CA62F26F0800D6B93044FC",
+      "size": 40795
+    },
+    {
+      "path": "Data/Player/cobraset_glove_s.OZJ",
+      "sha256": "F9F8EEAEB9BB6CB5D1F3BAE3607076EEFF2B78C6C3FBB6888CE3CA9E2AB6D2D0",
+      "size": 28373
+    },
+    {
+      "path": "Data/Player/cobraset_hair.OZT",
+      "sha256": "0B35DE4370C350AD537BCC9CBCCE6A8C2CF2B33BFFE17A29A67B784515B39C76",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/cobraset_head_s.OZJ",
+      "sha256": "4DBE5BE633580ECA2C696EC37D7E5F0D401E6F84919CCA43BE6FF11FA81C2A4E",
+      "size": 18036
+    },
+    {
+      "path": "Data/Player/cobraset_lower_s.OZJ",
+      "sha256": "412AEFFFAA9961EB4548ABCD6D42D6E0FF9E76DD5617B62FAA7416BEB8927B35",
+      "size": 33952
+    },
+    {
+      "path": "Data/Player/cobraset_upper_s.OZJ",
+      "sha256": "5EADA4905FDA3BA2ADDABD91377B0DCFDA97C1F443643401563EAAE545C8FBC7",
+      "size": 86893
+    },
+    {
+      "path": "Data/Player/CW_ArmorMale01.bmd",
+      "sha256": "4BA658C3C37E50CF47E0BA025B2D609BCA3A3C1418DC1B312D46367BBE8AD14E",
+      "size": 52934
+    },
+    {
+      "path": "Data/Player/CW_ArmorMale02.bmd",
+      "sha256": "957BBB94EB0D03AB453AD28EAA57241120B9433EB240C711ECCC6043455FDE94",
+      "size": 58680
+    },
+    {
+      "path": "Data/Player/CW_ArmorMale03.bmd",
+      "sha256": "710004F2CA45CA8C9BD63218228DF70DC515F6934737AC9BA4578841AE967584",
+      "size": 49328
+    },
+    {
+      "path": "Data/Player/CW_ArmorMale04.bmd",
+      "sha256": "25708477B6A44585C73BCED51FD4138D43FEF23A469324FA98C0609CC92291B3",
+      "size": 44630
+    },
+    {
+      "path": "Data/Player/CW_ArmorMale05.bmd",
+      "sha256": "0518AC5FD12C9A39D6A21C00A6AA1D53D4AADC3E4064D18DB72882FDF59EE38F",
+      "size": 39068
+    },
+    {
+      "path": "Data/Player/CW_BootMale01.bmd",
+      "sha256": "1B6C7EAFD3DECFAC10B8971768543856D45AB74E4C84ADF4B2136CE5B01903A6",
+      "size": 20296
+    },
+    {
+      "path": "Data/Player/CW_BootMale02.bmd",
+      "sha256": "5B723C1CFDFF8502CB490AB9B35D11B645CE711B24EF94D2BE82845DEA9C9955",
+      "size": 22136
+    },
+    {
+      "path": "Data/Player/CW_BootMale03.bmd",
+      "sha256": "4E99749A611517DC5EB1B9233841F2AE0AA828E617324FEC799C7A7DDE13F926",
+      "size": 27746
+    },
+    {
+      "path": "Data/Player/CW_BootMale04.bmd",
+      "sha256": "65CF42773B382C98CAFE83B598F0E90DB3FD15EDBFD8A97F2098039995277C02",
+      "size": 23432
+    },
+    {
+      "path": "Data/Player/CW_BootMale05.bmd",
+      "sha256": "150517B6E2A64F64C375E94F2EFDE08B8E82173A864E70D8B8B44BA2338A7809",
+      "size": 26444
+    },
+    {
+      "path": "Data/Player/CW_GloveMale01.bmd",
+      "sha256": "CFD4D503B1EA0B21162DB57AC2ED260ED191F6ABBF6CA23AC5AABE6688203626",
+      "size": 24344
+    },
+    {
+      "path": "Data/Player/CW_GloveMale02.bmd",
+      "sha256": "B787BBE1C3E572C3026B015D3CDFC1B779D474F73E57D026D22D4DBF5F6FC1EB",
+      "size": 20320
+    },
+    {
+      "path": "Data/Player/CW_GloveMale03.bmd",
+      "sha256": "61A5B9DD713F20224E85133291EE2A235736239A2AE5793454919FACB62892C9",
+      "size": 30698
+    },
+    {
+      "path": "Data/Player/CW_GloveMale04.bmd",
+      "sha256": "40D03FB23EC7E9C192F65A84657142841B91B9AA35259100A10EB6368E1C3A22",
+      "size": 23064
+    },
+    {
+      "path": "Data/Player/CW_GloveMale05.bmd",
+      "sha256": "BF6D86B6297A337C523EB6217FA7ED082B7B3A4C77D1776CD7BF1FD482171933",
+      "size": 25480
+    },
+    {
+      "path": "Data/Player/CW_HelmMale01.bmd",
+      "sha256": "80D17BC8CAD4CD6586544EE8B5307FC644278D055E12AAEDB63CFF3562C890B9",
+      "size": 19126
+    },
+    {
+      "path": "Data/Player/CW_HelmMale02.bmd",
+      "sha256": "BB6A42F0A6F86C1CEA8CC2731E069E4E942A2BCC55E2AFEBA949DCF807C3DC44",
+      "size": 23100
+    },
+    {
+      "path": "Data/Player/CW_HelmMale03.bmd",
+      "sha256": "236EFC5FE268C0A6DFFDFB39A22E3BC3CE812DBE2A162D3D3285845179DF331B",
+      "size": 22726
+    },
+    {
+      "path": "Data/Player/CW_HelmMale05.bmd",
+      "sha256": "A18A088800460D6EFAB3EB62B80E24943749EAE93CA11EC1FDAE7275778B9455",
+      "size": 31804
+    },
+    {
+      "path": "Data/Player/CW_PantMale01.bmd",
+      "sha256": "EECDA0E661A848CC93BA25955127D20764F7960ADA634A0C20B2AB6AF949978B",
+      "size": 13008
+    },
+    {
+      "path": "Data/Player/CW_PantMale02.bmd",
+      "sha256": "1CC1714CCA7E1189C8A2AD63255459CFB37709C65826C4DFCB2726C3FC069CB8",
+      "size": 23252
+    },
+    {
+      "path": "Data/Player/CW_PantMale03.bmd",
+      "sha256": "A60FB2BCD1A49F46AB41A6CBF8B74BCE0176E5FEA5745292C0F322F0835A877E",
+      "size": 20086
+    },
+    {
+      "path": "Data/Player/CW_PantMale04.bmd",
+      "sha256": "BBB14C89A83EF78D451004885E1C157B4FCDAB118DE6749CFCE372E92EAAFCBD",
+      "size": 28620
+    },
+    {
+      "path": "Data/Player/CW_PantMale05.bmd",
+      "sha256": "A6CABF73DB72A7F1A53A56C08729C2276A248AD19088D133C2ED049CE568D727",
+      "size": 27480
+    },
+    {
+      "path": "Data/Player/dark350boots.OZJ",
+      "sha256": "8FEB2E856568A2895FE3BE40F6D68D08847478BD3ECB70D86BA319028990F36F",
+      "size": 18514
+    },
+    {
+      "path": "Data/Player/dark350cape.OZJ",
+      "sha256": "70C757767D93249D5A6D8BD03CAD82F52E9DDA49E91F11DEF2CA4DCF934CECA9",
+      "size": 30549
+    },
+    {
+      "path": "Data/Player/dark350gloves.OZJ",
+      "sha256": "998676AA310C83B4C3F4B5F5E148E770E580E85498019B525FAEE32DA2B8EDC0",
+      "size": 19113
+    },
+    {
+      "path": "Data/Player/dark350helmet.OZJ",
+      "sha256": "B42F621BE18B0F875F699D7D024CE8CE17B488B3F15D5BE34876C5BC4AAE273B",
+      "size": 17883
+    },
+    {
+      "path": "Data/Player/dark350lower.OZJ",
+      "sha256": "45D1A4DEF828D34DFC1A8986494F5CB9741B81A5EE8BE8EF43AD224EED4D237F",
+      "size": 39546
+    },
+    {
+      "path": "Data/Player/dark350upper.OZJ",
+      "sha256": "BF596AC89FB5D92679DA18B3B23F69AC65AE545B3428CB91B20DA8CCD5EF45E0",
+      "size": 39916
+    },
+    {
+      "path": "Data/Player/dark3chima3.OZT",
+      "sha256": "F86DEE324B1A7800F37FD6F8D4AA1E8F394AD66ECEC1AC773DB79F012DE55334",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/dark400_boots.OZJ",
+      "sha256": "00EF99BD3B16C930DEB4F6061F59DFBD3113304E725CBF9AA271CE5A5629B3E0",
+      "size": 19567
+    },
+    {
+      "path": "Data/Player/dark400_gloves.OZJ",
+      "sha256": "BC77D5BF8B7376266ED90D91D99A459F475A5B4549B516F5AE0E6C0CE37382E4",
+      "size": 19237
+    },
+    {
+      "path": "Data/Player/dark400_helmet.OZJ",
+      "sha256": "D58FDAE28D7750B2B8C396030566F10677F0A1366BA2682D428D6C0801724DB3",
+      "size": 20169
+    },
+    {
+      "path": "Data/Player/dark400_lower.OZJ",
+      "sha256": "AFE0442671D070F3B99B08286D26F5B57C1EADC289191CC84BDCB4E61C743D3B",
+      "size": 36946
+    },
+    {
+      "path": "Data/Player/dark400_upper.OZJ",
+      "sha256": "3ACC192748EBDE24C349E549BDE8D1C3EC559D73D2785B1C78AE87EBC1E90680",
+      "size": 40700
+    },
+    {
+      "path": "Data/Player/DarklordRobe.OZT",
+      "sha256": "5EC98CE168AE84F024429EECECEB45138AE6968E435DC8C5C0E497528BC51746",
+      "size": 131120
+    },
+    {
+      "path": "Data/Player/darknight_boots.OZJ",
+      "sha256": "DDD693C88E64151495E4911B73726605D33ADE86DCF22066682547586FFB1630",
+      "size": 15877
+    },
+    {
+      "path": "Data/Player/darknight_face.OZJ",
+      "sha256": "C89CA8082940BCF9A411AF8F48D09374D4C2B048C49E8145DF8920DC1FCD5B85",
+      "size": 10969
+    },
+    {
+      "path": "Data/Player/darknight_gloves.OZJ",
+      "sha256": "97CF1A3733405735B658820BEAF280AE626450C5141FA3F9A3FC6FC7130BB964",
+      "size": 29718
+    },
+    {
+      "path": "Data/Player/darknight_head.OZJ",
+      "sha256": "02325F10F3FABDBD3D121AC54DF2721FE39976BECB46A97870251CCF816649A4",
+      "size": 15553
+    },
+    {
+      "path": "Data/Player/darknight_lower.OZJ",
+      "sha256": "8A8701F944612A03C389B202FB1E8925302A6BA66DE0C4A465B0DEF7925245A2",
+      "size": 30439
+    },
+    {
+      "path": "Data/Player/darknight_upper.OZJ",
+      "sha256": "E0EFB19C384EE8CDFB59FDF6D283221158C8187CBAED634C697A609CE787962D",
+      "size": 71930
+    },
+    {
+      "path": "Data/Player/devil_wing.ozt",
+      "sha256": "0A77A55223E6AC9DBE029DB18FAF3C1354E7DAD7FA1A52B5D2E71FC3702CD22F",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/elfin_wing.OZJ",
+      "sha256": "471F83D3B2B7E15D9E6CC4A048E0D2E2BC481772E0B4195587A4E28BE4E820CF",
+      "size": 9682
+    },
+    {
+      "path": "Data/Player/EYE08211838201366.ozj",
+      "sha256": "ECBF4574DB9168B2F0869574E91FB41EB43C12779E1E2EFE35E762792A2A0048",
+      "size": 9748
+    },
+    {
+      "path": "Data/Player/E_head.OZT",
+      "sha256": "E18E8738AE1B929EA15BDCEA0B933A28ACBEA3F852D166C9B0A0C5FF80420A47",
+      "size": 8240
+    },
+    {
+      "path": "Data/Player/FArmor.OZJ",
+      "sha256": "1FDC1BDCA0562077B229FCDEB334A4BA80E58C580A32C546C4422B6EF10159A4",
+      "size": 42338
+    },
+    {
+      "path": "Data/Player/FBoots.OZJ",
+      "sha256": "88C9023BD01673E6AAE12BCF90553FD888F29653C545D5C65F224A8482EEDD3C",
+      "size": 16804
+    },
+    {
+      "path": "Data/Player/FGlove.OZJ",
+      "sha256": "06445A8BE549D03CDD8F208382ED925AD1FE7DE970B640353345E74BBD0FD5DD",
+      "size": 17180
+    },
+    {
+      "path": "Data/Player/FHelm.OZJ",
+      "sha256": "22E9A9B42E34ABB82961762A105C59F31B22531AA320470DB2A83A26C152391B",
+      "size": 18794
+    },
+    {
+      "path": "Data/Player/flamset_boots.OZJ",
+      "sha256": "CE03D934B79E5CAD03D8C3EC61A99256C1C72A8D08A4386BA592EC86714D2FC3",
+      "size": 17900
+    },
+    {
+      "path": "Data/Player/flamset_glove.OZJ",
+      "sha256": "D4DE1767CF2B06DAAEDF43DBB065C8F24D1E4F7DED6915724381431157E45DC2",
+      "size": 18549
+    },
+    {
+      "path": "Data/Player/flamset_head.OZJ",
+      "sha256": "9950A56EB26BD373C8771EC3676B1EDC073D195F6E8BBC63A947E026AD97F219",
+      "size": 16216
+    },
+    {
+      "path": "Data/Player/flamset_lower.OZJ",
+      "sha256": "04FE69EF10CDE023C21BF7C64B4BDA217A2664E78E40C144ACCB8E7B74BC7FEE",
+      "size": 35543
+    },
+    {
+      "path": "Data/Player/flamset_upper.OZJ",
+      "sha256": "46BA7A49AD3F14F37E165AF2416BA00C7994C134677D30E0FD8FCDA67FDCC4E3",
+      "size": 94401
+    },
+    {
+      "path": "Data/Player/flamset_wing.OZJ",
+      "sha256": "992E9A582C94D9001741AD13A5E672AB489DC64B0DC9D982C6B1202494F4953B",
+      "size": 14791
+    },
+    {
+      "path": "Data/Player/forest_b1.OZJ",
+      "sha256": "B71BA0E4087C5EC1E5EE4320D891E616C882B26CD85A2D05968AC644A007B8BC",
+      "size": 17800
+    },
+    {
+      "path": "Data/Player/forest_b2.OZJ",
+      "sha256": "D473720BC8F3BA381E9F8DD8EADFAEEB1B696C8C07AD13742F4D36F612CCD2B0",
+      "size": 17003
+    },
+    {
+      "path": "Data/Player/forest_h1.OZJ",
+      "sha256": "B1B0C2A6A81FA25512E9283499AD4BDAA07F3330DAD10A9646FD649D42434FB5",
+      "size": 4799
+    },
+    {
+      "path": "Data/Player/forest_legs.OZJ",
+      "sha256": "3EBC44591CD74BAB2D3E2F53164791E95DC5B05C9296B1BF69417C05114463FD",
+      "size": 1480
+    },
+    {
+      "path": "Data/Player/FPants01.OZJ",
+      "sha256": "E4F8EE90E35837ADC16844DD2D161FF9B9D9CF1EE9AB3618B2FD1F899BDDE4D9",
+      "size": 23984
+    },
+    {
+      "path": "Data/Player/FPants02.OZJ",
+      "sha256": "35AECD1EFB1D21B75339059E79C447FED915AFBC686E6C06371713CD3321A450",
+      "size": 24388
+    },
+    {
+      "path": "Data/Player/FShoots.OZT",
+      "sha256": "5F3EA620FEB1EF40F2958303B3D47A25CC66C6067DBAE48C17A8EDF574E82046",
+      "size": 8240
+    },
+    {
+      "path": "Data/Player/FShoots02.OZT",
+      "sha256": "94B8EB65FD3A0CD21DA5A43656A91D506F38C43D1A01BA3DEEFA6092C8B76D13",
+      "size": 8240
+    },
+    {
+      "path": "Data/Player/FShoots_R.OZJ",
+      "sha256": "F18A9FD1C386AA7DD6577CC5552ED029CFBE3CAC4731719853E4B1B39E2A317E",
+      "size": 10561
+    },
+    {
+      "path": "Data/Player/glove.OZJ",
+      "sha256": "59F5BA0A03D680DC507C5C9B821E918F2CF81BC31272355CEEBD0DF94D4CABE0",
+      "size": 16845
+    },
+    {
+      "path": "Data/Player/glove22.OZJ",
+      "sha256": "59F5BA0A03D680DC507C5C9B821E918F2CF81BC31272355CEEBD0DF94D4CABE0",
+      "size": 16845
+    },
+    {
+      "path": "Data/Player/GloveClass01.bmd",
+      "sha256": "D57D083DC860E7DE67B49B3A1FB57628F953F9AFF8B094D4C4EA0FC848007119",
+      "size": 14179
+    },
+    {
+      "path": "Data/Player/GloveClass02.bmd",
+      "sha256": "43AE296B8802266C2E7805AB239DE5DEF85FFF11CC8232273DABA9C9AF3F3C30",
+      "size": 14179
+    },
+    {
+      "path": "Data/Player/GloveClass03.bmd",
+      "sha256": "DD5EEB3A3C8A8BA8C1C884BDA412EDB79133FF206B19CB1E33CD6F82CD1A315F",
+      "size": 14147
+    },
+    {
+      "path": "Data/Player/GloveClass04.bmd",
+      "sha256": "E739E4D72E6D95567A5108A04BA036AF56E9574293DBC7377D52BFC7E4A1F5C0",
+      "size": 14179
+    },
+    {
+      "path": "Data/Player/GloveClass05.bmd",
+      "sha256": "AAD244608F3ABA739E8C9049006C122E6D09E143EA79AFD7517CF8BA2CBEB8C1",
+      "size": 19056
+    },
+    {
+      "path": "Data/Player/GloveClass06.bmd",
+      "sha256": "D328A0F68A713C0417F4092382A1CA39393E6762B1846887972AE5F6C337CE50",
+      "size": 35256
+    },
+    {
+      "path": "Data/Player/GloveClass07.bmd",
+      "sha256": "0226FB5B264315C88622DD41D54C862BBEEEAAA3ACB01EE3A6A2D20EEFC06EC9",
+      "size": 14064
+    },
+    {
+      "path": "Data/Player/GloveClass201.bmd",
+      "sha256": "B0295DD93CB0803BEE24E9D470B3841DD0A2EDDE42A3A9354FD85CF30C7AD799",
+      "size": 14116
+    },
+    {
+      "path": "Data/Player/GloveClass202.bmd",
+      "sha256": "75B877638A206A4D00B679D01CA082649512626A9E4EB69E6F42CE89C6E8DA48",
+      "size": 14116
+    },
+    {
+      "path": "Data/Player/GloveClass203.bmd",
+      "sha256": "7CD278CF9B65BE3E5134703E661AECE29C42718401BB5A990722E3259BCAF047",
+      "size": 14084
+    },
+    {
+      "path": "Data/Player/GloveClass206.bmd",
+      "sha256": "835F5446C81530A745889295F33A3CD3C151E80BE664B20A66375D90919A08A8",
+      "size": 22826
+    },
+    {
+      "path": "Data/Player/GloveClass301.bmd",
+      "sha256": "82DBDCA8AEE47C58E514E7487922B2CA7C6FA876DC8F48221150E6196AD8E73C",
+      "size": 14104
+    },
+    {
+      "path": "Data/Player/GloveClass302.bmd",
+      "sha256": "108E79CE48ACD73092DF63DA17CE16F8C62D9500223FD01A11EF9E6689C4D4E0",
+      "size": 14120
+    },
+    {
+      "path": "Data/Player/GloveClass303.bmd",
+      "sha256": "54FE8662D4183C2B6048C914A42200FEAFD4E591E945BDF33D7B6AF731A21EBD",
+      "size": 14088
+    },
+    {
+      "path": "Data/Player/GloveClass304.bmd",
+      "sha256": "76B95E1063E13D802AB6B9E4F4FE68B14337E3CA6C52A076D9AB1F7F94CB8C1B",
+      "size": 21864
+    },
+    {
+      "path": "Data/Player/GloveClass305.bmd",
+      "sha256": "7AA48E8C953CD806DEAE6978F73992AF1F1473C78F42EFB71772EB458C7C74B2",
+      "size": 18552
+    },
+    {
+      "path": "Data/Player/GloveClass306.bmd",
+      "sha256": "151700FD07BD6E2B765215D5F1E200D37D71B47FAAFD25D8C518D217F4E71CC3",
+      "size": 31316
+    },
+    {
+      "path": "Data/Player/GloveClass307.bmd",
+      "sha256": "5E15C16AC3F7ACDCD7482F7592E3A1D28CB0682010EBD368F8C3EDEC8E5BB5BD",
+      "size": 41890
+    },
+    {
+      "path": "Data/Player/GloveDetailFrG.ozj",
+      "sha256": "39A17CCD4A427CB927DB2B1B7B656AE87847E9072175E18175E1369ADA0BB2A7",
+      "size": 21180
+    },
+    {
+      "path": "Data/Player/GloveDetailNrG.ozj",
+      "sha256": "A5B1BDE32B9EDE26B1AC42DC7CF0FB3B07B085BBA426F95C6DE7BD9984EDC877",
+      "size": 22633
+    },
+    {
+      "path": "Data/Player/GloveElf01.bmd",
+      "sha256": "B5917D96B93E0CDC00B720F3D282D5E9CF49CAC6DC09E79813B51F0933E4BFA8",
+      "size": 16469
+    },
+    {
+      "path": "Data/Player/GloveElf02.bmd",
+      "sha256": "7002195C7FC8349DDCB44D11C1CDBF580B34F3D641DA83F15329D593F300442A",
+      "size": 15889
+    },
+    {
+      "path": "Data/Player/GloveElf03.bmd",
+      "sha256": "AE6D693C624054CE4878155B241E5CE17B2C22D5E9E6B3DDBDBF9B880A4F0DDB",
+      "size": 16045
+    },
+    {
+      "path": "Data/Player/GloveElf04.bmd",
+      "sha256": "AEA9032AE93E5CE899861101114877A5E53FAE5E5392012BA66ECE9DA34B4B6F",
+      "size": 17195
+    },
+    {
+      "path": "Data/Player/GloveElf05.bmd",
+      "sha256": "80806418C6334AA2F9B80A2CA609F1AFBE5BA7D143883A46DC33FA09B04A7001",
+      "size": 16571
+    },
+    {
+      "path": "Data/Player/GloveElfC01.bmd",
+      "sha256": "60FC0AB97AAB5D56152555C940886104737A10266E42984B0623566BCC4F6925",
+      "size": 16266
+    },
+    {
+      "path": "Data/Player/GloveElfC02.bmd",
+      "sha256": "6EBBAC2A9B0A1FA011DC46548E049FAD9B0E93ED9DEAC006ECEB3ECDA39B900A",
+      "size": 15562
+    },
+    {
+      "path": "Data/Player/GloveFrG.ozj",
+      "sha256": "3397DB9511D6782B2C27D32C2128BE24C3852B4593E08B609844F6C7698A79F0",
+      "size": 49398
+    },
+    {
+      "path": "Data/Player/GloveMale01.bmd",
+      "sha256": "6DEB3ADAD12396A65812BE61415CE387E0A2FEDD8DA881BA652E014EDA3B8347",
+      "size": 19891
+    },
+    {
+      "path": "Data/Player/GloveMale02.bmd",
+      "sha256": "59AD09DF1534DCB564614BC0D8B1A87173D08EAC1FAB2B20D638505CC9CA3923",
+      "size": 16539
+    },
+    {
+      "path": "Data/Player/GloveMale03.bmd",
+      "sha256": "AE5C1A9CA296681FD9C7B1B043065A3F5C62F618067529FA62D3F7227B297025",
+      "size": 16493
+    },
+    {
+      "path": "Data/Player/GloveMale04.bmd",
+      "sha256": "6ECBF603F895F31F2CD821D2ABEAC41D38A104AEBADDBFC35DA67AD45DA458AB",
+      "size": 18109
+    },
+    {
+      "path": "Data/Player/GloveMale05.bmd",
+      "sha256": "9561A1BA064ECB2D5758DA798950906F1A855711D118A5D39F4AE1E7231F1780",
+      "size": 16733
+    },
+    {
+      "path": "Data/Player/GloveMale06.bmd",
+      "sha256": "BB4443E36281F879670BA4D070D8B9BB73A7D9754EF8B0A9C279AA494F7B38B3",
+      "size": 16053
+    },
+    {
+      "path": "Data/Player/GloveMale07.bmd",
+      "sha256": "39B38CF0CC1930A648ADD9B95FE719604A2380EF80B15A79BC91A329F324BCEC",
+      "size": 18277
+    },
+    {
+      "path": "Data/Player/GloveMale08.bmd",
+      "sha256": "B579E3D6200ED07DA015D72D66A75F0EE2A47051913E09C3582231B3194B3DDB",
+      "size": 16045
+    },
+    {
+      "path": "Data/Player/GloveMale09.bmd",
+      "sha256": "DBD17D2439D2FDCED85F4C1C8C5B8484302FDB6A3EADE9062EFB9F96C766F077",
+      "size": 16447
+    },
+    {
+      "path": "Data/Player/GloveMale10.bmd",
+      "sha256": "B432BF7134B2B1B311C85F1B051E841A5314155517D9AA3A4FD77D4F0C28D3CE",
+      "size": 18443
+    },
+    {
+      "path": "Data/Player/GloveMale101.bmd",
+      "sha256": "43A01F1A98161AE39708929C7154EA95C87FB0BB49A451D9AED5F4EC28CF78F6",
+      "size": 88986
+    },
+    {
+      "path": "Data/Player/GloveMale102.bmd",
+      "sha256": "F5D1D241AC1DF4BD0437736111810A03BD7CB279C73EE50B881046878962D8A9",
+      "size": 82280
+    },
+    {
+      "path": "Data/Player/GloveMale103.bmd",
+      "sha256": "AD09F393D04D2E3E3B967DBC081325F2BE59F609AB58DB1F6C99C4A86776AEF6",
+      "size": 61938
+    },
+    {
+      "path": "Data/Player/GloveMale104.bmd",
+      "sha256": "E20A9CD81953353BE28411F69917281EE29DF4E19D86E628B57FC371281B3FD1",
+      "size": 81496
+    },
+    {
+      "path": "Data/Player/GloveMale105.bmd",
+      "sha256": "2341F63687D09859BDB29A5DD81FACFB6E75C5AA73059691A4BBE3E0B3DE6C30",
+      "size": 51746
+    },
+    {
+      "path": "Data/Player/GloveMale106.bmd",
+      "sha256": "723C36546BC01760CAFAF105092C5F2D6053724A36253AA0B3B844B0D60E938C",
+      "size": 50920
+    },
+    {
+      "path": "Data/Player/GloveMale107.bmd",
+      "sha256": "F5D1D241AC1DF4BD0437736111810A03BD7CB279C73EE50B881046878962D8A9",
+      "size": 82280
+    },
+    {
+      "path": "Data/Player/GloveMale108.bmd",
+      "sha256": "E990BCE31C882FD92A5CDDE882220E2960E2CE6CEBEFBE1EC7D085CD57F81C5F",
+      "size": 81496
+    },
+    {
+      "path": "Data/Player/GloveMale109.bmd",
+      "sha256": "2341F63687D09859BDB29A5DD81FACFB6E75C5AA73059691A4BBE3E0B3DE6C30",
+      "size": 51746
+    },
+    {
+      "path": "Data/Player/GloveMale16.bmd",
+      "sha256": "8B9D870F2F8CFFF7CC03887ACF4668823211642B5A89019EFF2C87E39E3E3254",
+      "size": 16835
+    },
+    {
+      "path": "Data/Player/GloveMale17.bmd",
+      "sha256": "716701790FAAAE9CBB20AC7B04C1D4C564D0A18DFBBBFCC03CB246B3CB08CFD0",
+      "size": 17509
+    },
+    {
+      "path": "Data/Player/GloveMale18.bmd",
+      "sha256": "CB485FA4B1578C3A5905E7A5126CF1E2B45019ABB47B5659EE51C9049959CB15",
+      "size": 27821
+    },
+    {
+      "path": "Data/Player/GloveMale19.bmd",
+      "sha256": "BAA6B91F05E881C68D96B96559100BBE3C1727DFC3944DA8034F680B3D52B9B1",
+      "size": 19397
+    },
+    {
+      "path": "Data/Player/GloveMale20.bmd",
+      "sha256": "1B0077717DBC13805D94F33319A2F00711226316A2AED7C81736F6239C3E94E6",
+      "size": 18572
+    },
+    {
+      "path": "Data/Player/GloveMale21.bmd",
+      "sha256": "4C53A89C9E1DDDC95E74D02AA4F73A6B82C57CCA10CE501FA745D87EB4BCD9E2",
+      "size": 18942
+    },
+    {
+      "path": "Data/Player/GloveMale22.bmd",
+      "sha256": "8F21DB4CB79BA3645627774EED5070A3CC0486A60E8CEFA8E0E8C53C989A6F4D",
+      "size": 20426
+    },
+    {
+      "path": "Data/Player/GloveMale23.bmd",
+      "sha256": "98349DBEFDA9BC2F37B402E1712F24897AE858509DB1C60DBDEBE3ECA8017C10",
+      "size": 24968
+    },
+    {
+      "path": "Data/Player/GloveMale24.bmd",
+      "sha256": "DB9080A72B7E9F011B63E68E9F9ADB1CD81A13A5B57E25DFCBEF3FACF5F8F2DA",
+      "size": 18808
+    },
+    {
+      "path": "Data/Player/GloveMale25.bmd",
+      "sha256": "8E949E863C6088938D825D9F32039BF5C3C0B0BB5FDA8A6A2C7B81D17EFD73B0",
+      "size": 20402
+    },
+    {
+      "path": "Data/Player/GloveMale26.bmd",
+      "sha256": "455FE1E68FE2D867510FBD6C0D73990ABF2A6078E8F9A8B0D79888D8F0F5885F",
+      "size": 16656
+    },
+    {
+      "path": "Data/Player/GloveMale27.bmd",
+      "sha256": "1CA1BBE1F56181C957F7F4A3EB34335D52FCCC0C6BB7D8301635235E5140782E",
+      "size": 21064
+    },
+    {
+      "path": "Data/Player/GloveMale28.bmd",
+      "sha256": "96AFFFC9C567D60867027603A419A55E70E0E03719F2F0F4CD7B032442A031C7",
+      "size": 18226
+    },
+    {
+      "path": "Data/Player/GloveMale29.bmd",
+      "sha256": "2BE7CD30A075B68C362B0F1D37093CC9B20E1CCAB2B19744D2BA456AB9F1306C",
+      "size": 16400
+    },
+    {
+      "path": "Data/Player/GloveMale40.bmd",
+      "sha256": "C39C95C5219933D4A90D47A72CE3EB366D4E5B7BCA326B401695B468E1A2B2DB",
+      "size": 30256
+    },
+    {
+      "path": "Data/Player/GloveMale41.bmd",
+      "sha256": "FFD6A48A65B185A835036854215ED0B13ECA84D4B7E81DAFB9EAE7DC01598A01",
+      "size": 27432
+    },
+    {
+      "path": "Data/Player/GloveMale42.bmd",
+      "sha256": "FC9CA9F0C1DDB7C523A657AD77B3309EDCB68824624297671C63484396942638",
+      "size": 32396
+    },
+    {
+      "path": "Data/Player/GloveMale43.bmd",
+      "sha256": "CAC0A9AA68C0068BE08A69B353C3EFB49644F7D515E2BF85F3E0E38DECC3D63B",
+      "size": 29216
+    },
+    {
+      "path": "Data/Player/GloveMale44.bmd",
+      "sha256": "C9167C8F88C22A2E07966486901503CB9DB6A9A1ADB2BC5B2D644A69D0914882",
+      "size": 35640
+    },
+    {
+      "path": "Data/Player/GloveMale45.bmd",
+      "sha256": "FE09498FC615A002D361342DABAEA910C1F14B6F9E95EC0D87CF2E2F810C7E14",
+      "size": 35338
+    },
+    {
+      "path": "Data/Player/GloveMale46.bmd",
+      "sha256": "85059627A0B4D674FC2DECB73AEF7323DFFFED030F8BBD63D6D007F88C29C36E",
+      "size": 35792
+    },
+    {
+      "path": "Data/Player/GloveMale47.bmd",
+      "sha256": "C94E8901B53AC7F9C0C651CB4C14730C68C73D91314B58EA2EAD1D7F2839403D",
+      "size": 42666
+    },
+    {
+      "path": "Data/Player/GloveMale48.bmd",
+      "sha256": "1411B68B53FEF2D151010DF16427E9AC8C6165268DF62E886072F0529CA92208",
+      "size": 40090
+    },
+    {
+      "path": "Data/Player/GloveMale49.bmd",
+      "sha256": "E43C67F4989C96CCC951046D7D2223A1EFCCACFDF2782854B192670133F13F74",
+      "size": 28520
+    },
+    {
+      "path": "Data/Player/GloveMale50.bmd",
+      "sha256": "D352988E0D48BF2AD602756379FDE529C4BFBDFE0DA837C3FEBD79284E66DABE",
+      "size": 34226
+    },
+    {
+      "path": "Data/Player/GloveMale51.bmd",
+      "sha256": "D7FA93F1E5A43BABEC8D14E7E69B2DDEB032F7996E39022408554457EE363FD9",
+      "size": 48240
+    },
+    {
+      "path": "Data/Player/GloveMale52.bmd",
+      "sha256": "27B40D1340187726F2F64D9C99866FD8D44B1C336357AA07AB7452AE84939E9D",
+      "size": 29200
+    },
+    {
+      "path": "Data/Player/GloveMale53.bmd",
+      "sha256": "38B979EF7C45C7D05DDE94D879022F89C91F7D6E8238CBF17CBDDD9F199DA242",
+      "size": 31800
+    },
+    {
+      "path": "Data/Player/GloveMale54.bmd",
+      "sha256": "F10018057EAA943F1FEA0A8DF7BBCE1C9203B14185FA056714BDF997C28DF9FB",
+      "size": 39664
+    },
+    {
+      "path": "Data/Player/GloveMaleTest20.bmd",
+      "sha256": "D8074CF16C7CC239FAA8DBFC932A46455AD16C4E58FD806B5272C2200DDA98BC",
+      "size": 20943
+    },
+    {
+      "path": "Data/Player/gloves_02.OZJ",
+      "sha256": "3475D7012A8FF77111D4990029DD811FCC9AF6923B87BC22CB27866CB563068B",
+      "size": 12864
+    },
+    {
+      "path": "Data/Player/gloves_03.OZJ",
+      "sha256": "8AFA94026FE7DDF3B7C5E4C4339AC9B66046072BBBCC7277CBFB7062276DB1CF",
+      "size": 13176
+    },
+    {
+      "path": "Data/Player/gloves_03b.OZJ",
+      "sha256": "A54A6F13B72EF6D514002636A04D7DACEC2C0C3F1B858B6D799CC9ABBA6DD362",
+      "size": 14035
+    },
+    {
+      "path": "Data/Player/gloves_04.OZJ",
+      "sha256": "56AA798836CE1247C46E243EB7BEFA2E7E9873E0D46EF971E0076702D6FAA9C7",
+      "size": 13691
+    },
+    {
+      "path": "Data/Player/gloves_04c.OZJ",
+      "sha256": "060850700762B89B3CF5F649B4FA106F6818381E9388FD08ECDA8015EB28F03B",
+      "size": 12439
+    },
+    {
+      "path": "Data/Player/gloves_06.OZJ",
+      "sha256": "364F8EC259C41D28441EB48872D4EC725E4074E450D3BDC61A146F11F4DEAB17",
+      "size": 11609
+    },
+    {
+      "path": "Data/Player/gloves_07.OZJ",
+      "sha256": "67AB0A3934E83C9396E45AF89DA01E2F40F23D9C687A4441DE46934341F18847",
+      "size": 10151
+    },
+    {
+      "path": "Data/Player/gloves_08.OZJ",
+      "sha256": "CB9C65447A5DD7FCFBA0087BA7BCF4CBC5076B5533E49DD0F266BD202CDF4CA5",
+      "size": 11370
+    },
+    {
+      "path": "Data/Player/gloves_09.OZJ",
+      "sha256": "91CBF2AA0191DA078C226864347C58649A484129BC7535461B6E93ECDFBFEAF4",
+      "size": 11564
+    },
+    {
+      "path": "Data/Player/gloves_09c.OZJ",
+      "sha256": "D2F2B0C44340AEA6127F2C4F6D95B502448529B48210C2B7F1B3E424216E75D6",
+      "size": 12623
+    },
+    {
+      "path": "Data/Player/gloves_10.OZJ",
+      "sha256": "6C62591A5748CC06E9C69213EFD5857B70F46F32A3D85185502A5A0DCC57CAC6",
+      "size": 13632
+    },
+    {
+      "path": "Data/Player/gloves_10b.OZT",
+      "sha256": "564E5907BA32FD1B146A39B44BB9B076BB34B116EC9400D6DA2479CCC67DF3BC",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/gloves_10c.OZJ",
+      "sha256": "AA7092B449663981DC01E23168D0EE033E7053EDDCC2A5514B2A798AE9CF5DD4",
+      "size": 14139
+    },
+    {
+      "path": "Data/Player/gloves_11.OZJ",
+      "sha256": "E37D0C2EF93CA3F8BC9AEA470551769BF2539263DBE8D5841EEA21FEE6D6BD07",
+      "size": 12398
+    },
+    {
+      "path": "Data/Player/gloves_12.OZJ",
+      "sha256": "C80DE585D58DF69FD3DBE0D4B2EBFD45AF0F8D68D49AC8116F6600E0CCB0176F",
+      "size": 11520
+    },
+    {
+      "path": "Data/Player/gloves_13m.OZJ",
+      "sha256": "B9676D1573F10B7560A75B7DE221536D2747D0C501420736A5A4C1EFE75FF82A",
+      "size": 10818
+    },
+    {
+      "path": "Data/Player/gloves_14.OZT",
+      "sha256": "7B70EC3E6F8DD7698D5E6BFDD75689DE6EAF97B2D5ADCF028A3B73B1D8B9A0BC",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/gloves_14m.OZJ",
+      "sha256": "C50A581C60349B7914CEEAA5C17977D4DC99E1BF75D5B361F35B100ABF65D666",
+      "size": 9807
+    },
+    {
+      "path": "Data/Player/gloves_15.OZT",
+      "sha256": "ACCA067147041E5833A2B8E1DB890D211643AD132FD935866224296FAE6011B3",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/gloves_15m.OZJ",
+      "sha256": "2D8D85E22292653506D8F95960439FF6C1B3BCFF634097880A7D57C8698D5995",
+      "size": 8458
+    },
+    {
+      "path": "Data/Player/gloves_17.OZJ",
+      "sha256": "0D844B0DE07BC4B697BE9E615059A1BDF9FFCE18AB34F8756F5318631911D23E",
+      "size": 10537
+    },
+    {
+      "path": "Data/Player/gloves_18.OZJ",
+      "sha256": "14082D370D13570FBB8A56FA3AE1A01B1E2C1ED4EFB0C1473F5EE28BABC2F5F1",
+      "size": 7745
+    },
+    {
+      "path": "Data/Player/gloves_bd.OZJ",
+      "sha256": "A0142B560E3E8E0EB04C8E312DC878F8BD50CBC19F41A17D257D877618702492",
+      "size": 13851
+    },
+    {
+      "path": "Data/Player/gloves_bld.OZJ",
+      "sha256": "B9D9A1CA5A95DD21EA192875DF37D47457E225D835B537C6F1E2B92809661320",
+      "size": 8739
+    },
+    {
+      "path": "Data/Player/gloves_c07.OZJ",
+      "sha256": "8624EA8621EF4FE345BB8A063CCA969355CF5AF4D4C19210B1DA4F9B909F651F",
+      "size": 11714
+    },
+    {
+      "path": "Data/Player/gloves_E1.OZJ",
+      "sha256": "8AF7E1A13516ADC9941872DFD3BC4184E0371A882C031574A80609878319311F",
+      "size": 10356
+    },
+    {
+      "path": "Data/Player/gloves_E1Test.OZJ",
+      "sha256": "F89453C0B133E6529EA96E2B484D8E451C000D4F0248F9D36794BA36C19A4A31",
+      "size": 10683
+    },
+    {
+      "path": "Data/Player/gloves_s.OZJ",
+      "sha256": "2659BBF6BB0143677736E963DC31503E631C8A73A2CA5D762B55FBFD96B16B3F",
+      "size": 20372
+    },
+    {
+      "path": "Data/Player/guard_hair.ozt",
+      "sha256": "7DE9C624CB305B532F61BED090158D58C7287B46C356818CFF9B3D09057A8D0F",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/hair_R.OZJ",
+      "sha256": "25F6BCB60B44B5FAE6B7C2A8C86D6636FBB4C1DA607165E1C0E5C6CECE68C930",
+      "size": 3579
+    },
+    {
+      "path": "Data/Player/HDK_ArmorMale01.bmd",
+      "sha256": "180747F6F028FFE86DE3B19339FE1D3A02E1A8625B0C1A6F3BDEE8BEA6CD5E4D",
+      "size": 62958
+    },
+    {
+      "path": "Data/Player/HDK_ArmorMale02.bmd",
+      "sha256": "034D17581CFF8EE9B2628DBB86A90B60FB4F34FBEA53C16F3CF4688D0CCA5EDB",
+      "size": 67456
+    },
+    {
+      "path": "Data/Player/HDK_ArmorMale03.bmd",
+      "sha256": "350845D9175D670B44B56FB8699981E0158C002D3DE087B73098C41CBB84B6E4",
+      "size": 42408
+    },
+    {
+      "path": "Data/Player/HDK_ArmorMale04.bmd",
+      "sha256": "AFE8A04CB20E23919ECE3F1D910FCA049317FDC01B9D50B414D88843A1F9E879",
+      "size": 51052
+    },
+    {
+      "path": "Data/Player/HDK_ArmorMale05.bmd",
+      "sha256": "3715B89394344B3A9015566B3427E32AFDF2554BA04775A7132989B344511156",
+      "size": 43630
+    },
+    {
+      "path": "Data/Player/HDK_BootMale01.bmd",
+      "sha256": "69103A5D76B0373476A978161090C3E49071D4F0CEB098FB2E8FD55771ECD739",
+      "size": 19196
+    },
+    {
+      "path": "Data/Player/HDK_BootMale02.bmd",
+      "sha256": "BDA0BE6D6D52457DE85C79D65A1BE3D5540C730A93EF23C039CFC64790B7319E",
+      "size": 18456
+    },
+    {
+      "path": "Data/Player/HDK_BootMale03.bmd",
+      "sha256": "0BB7E9ED5B83366B8D6842EFCA087217E06C05FF775D9E3B2563792677DF50F9",
+      "size": 30856
+    },
+    {
+      "path": "Data/Player/HDK_BootMale04.bmd",
+      "sha256": "DCCB8E8C911674CCF9DEF6411598F4E5172440B41779EEC60CDEBB5407606AD7",
+      "size": 22400
+    },
+    {
+      "path": "Data/Player/HDK_BootMale05.bmd",
+      "sha256": "32887F895613B31506CD8B239BFF61F8FE1A820E8C14EE052A7D73C6A870FEBE",
+      "size": 28244
+    },
+    {
+      "path": "Data/Player/HDK_GloveMale01.bmd",
+      "sha256": "935EAB5D8DB073FF0B10502F1A5BE9B70F7D07439318B50FC4C6839E9A96785E",
+      "size": 24280
+    },
+    {
+      "path": "Data/Player/HDK_GloveMale02.bmd",
+      "sha256": "DFFD3AEB3DC6894AF2503771D19D6BC08EC808CC43E6B2783E7DA05C1AB5A2F2",
+      "size": 16928
+    },
+    {
+      "path": "Data/Player/HDK_GloveMale03.bmd",
+      "sha256": "9CD1958F1319F1787BC58497F9C2811CD8924B1BB1718B8F3450E74A420DFA26",
+      "size": 18776
+    },
+    {
+      "path": "Data/Player/HDK_GloveMale04.bmd",
+      "sha256": "0210A4DEA4974796D87F20CB59C2E7C5E46EB299070BD0BBC9FABDE9C70AED97",
+      "size": 20608
+    },
+    {
+      "path": "Data/Player/HDK_GloveMale05.bmd",
+      "sha256": "37AFA3E08E954DAD5C7AB3DC6998A3569E5D567DD4569261963B9FDB525C7568",
+      "size": 23984
+    },
+    {
+      "path": "Data/Player/HDK_HelmMale01.bmd",
+      "sha256": "EE18C58FCBE8F83F832A80D6889CCBC023E7AE5E415E419F9002B05EE8026E01",
+      "size": 13708
+    },
+    {
+      "path": "Data/Player/HDK_HelmMale02.bmd",
+      "sha256": "7FCC8D6C6BBE184552374B9DB11BC3BB593CB6648ADC01ABD9AC51BBE6F74C7E",
+      "size": 14762
+    },
+    {
+      "path": "Data/Player/HDK_HelmMale03.bmd",
+      "sha256": "72BE8B2C382DD1C0B368DA36C1AF157A856706D8B0C358AA009365E93E4EAEC3",
+      "size": 18878
+    },
+    {
+      "path": "Data/Player/HDK_HelmMale05.bmd",
+      "sha256": "286CF03964D56675E1C46FDED3D01E7C2AA2B59B1B16AF5EC3646FCA85FAF183",
+      "size": 30688
+    },
+    {
+      "path": "Data/Player/HDK_PantMale01.bmd",
+      "sha256": "5509F3A13481FDC294D98F0FB59E0AEB001C3E9A19EB86AF9E412C1548944A78",
+      "size": 14556
+    },
+    {
+      "path": "Data/Player/HDK_PantMale02.bmd",
+      "sha256": "8E732F70F9C86263CE86421E1AB1C2AF0EA8F8760B8354B5F47B94ED7D224698",
+      "size": 11068
+    },
+    {
+      "path": "Data/Player/HDK_PantMale03.bmd",
+      "sha256": "0794E98DCE7933C7F0AA0A32A8CFBBDE9F087953F301307CAE83F3C7C07D14C4",
+      "size": 36128
+    },
+    {
+      "path": "Data/Player/HDK_PantMale04.bmd",
+      "sha256": "DB1CE18EF747175946BE10D22E326187D11EC38F89AEBC4851F6AA76AB95917E",
+      "size": 13532
+    },
+    {
+      "path": "Data/Player/HDK_PantMale05.bmd",
+      "sha256": "38B7E73962AEF08AFC69E3845F18F0EAB5C22E42E3377C8B18320644DB4C3E11",
+      "size": 21968
+    },
+    {
+      "path": "Data/Player/HE09000734201329.ozj",
+      "sha256": "52D56B19B3B67BE02BE1061073E078ECE8E4A1AA9703D6624C9E29F948B1C96A",
+      "size": 22347
+    },
+    {
+      "path": "Data/Player/HE09000734201330.ozj",
+      "sha256": "923F43A212D45BC90AE33A245E311E57DAC15F210A1E86DF4DE59512B7C9117A",
+      "size": 28571
+    },
+    {
+      "path": "Data/Player/HE09000734201331.ozj",
+      "sha256": "69409F7BBF6D7DB8BA3137E74341E8FDA61FCB0FC89085014E4D0BA9721F4A09",
+      "size": 21785
+    },
+    {
+      "path": "Data/Player/HE09000734201332.ozj",
+      "sha256": "8E7C9B7FE1023BD4E2AC483D4D9E168EC5CE07D0A225EF2B500EA69828BB93B1",
+      "size": 29661
+    },
+    {
+      "path": "Data/Player/HE09000734201333.ozj",
+      "sha256": "4E7B795B5B98D90D3DE8213ADDC23D1D47C3418763862C9998E8255B0111D16B",
+      "size": 31577
+    },
+    {
+      "path": "Data/Player/HE09000734201334.ozj",
+      "sha256": "514C61F5C008DB18B748ED4835275A9188B1C216D9F3F6B96189346E0FB8D9F1",
+      "size": 9173
+    },
+    {
+      "path": "Data/Player/HE09000734201335.ozt",
+      "sha256": "DFB5419566B6E56AD75734F7B5044E65A6279D68C72C419507C65CF1B39A5068",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/HE09000734201336.ozj",
+      "sha256": "0AE0D0EF77BFE8079B4F14C75E315A8C6C3A6FD41E1B5BEC32169B14FED8AC24",
+      "size": 13806
+    },
+    {
+      "path": "Data/Player/head.OZJ",
+      "sha256": "439F5FC5D4FE88310F8FE36A3D2D8812B8D910B64AC573101DAA9FDA2DE97E58",
+      "size": 17587
+    },
+    {
+      "path": "Data/Player/head22.OZJ",
+      "sha256": "439F5FC5D4FE88310F8FE36A3D2D8812B8D910B64AC573101DAA9FDA2DE97E58",
+      "size": 17587
+    },
+    {
+      "path": "Data/Player/head_02.OZJ",
+      "sha256": "2370ACDA61267EEC6F8DA5E42D7F104AFF31E5C6C6FDA1FF39805C3DF5B25AB7",
+      "size": 12284
+    },
+    {
+      "path": "Data/Player/head_03.OZJ",
+      "sha256": "D9BEFE6BD39C29F4B605F3440D7D5610ADB15CD6EE2C3B6064164571EA43B78C",
+      "size": 13727
+    },
+    {
+      "path": "Data/Player/head_04.OZJ",
+      "sha256": "5A6A62A54ED2731A5AD3C99BD728F6618C56436903A668C307E637A296D9F385",
+      "size": 11883
+    },
+    {
+      "path": "Data/Player/head_06.OZJ",
+      "sha256": "8EBDD50BD7A5BC78D5EA65F87FF5643007BF43CB5278B9F6E94B10966672BBC4",
+      "size": 9559
+    },
+    {
+      "path": "Data/Player/head_07.OZJ",
+      "sha256": "EDFE4F02FE8D8F12AEB22B23650BCE6BAF56FECAAC94BCF161D741449A9A7760",
+      "size": 8951
+    },
+    {
+      "path": "Data/Player/head_08.OZJ",
+      "sha256": "9DE8C0EF5A72C73F813334E0923AB25D8A7A0F1A5C7F965A248127785446F146",
+      "size": 10752
+    },
+    {
+      "path": "Data/Player/head_09.OZJ",
+      "sha256": "8342A8964465E821E4942CE3BFDA5876832C17B9632D5BE0F69622FB0C9BE185",
+      "size": 10445
+    },
+    {
+      "path": "Data/Player/head_09b.ozt",
+      "sha256": "D6C9B564CE5C645FD70A56DB62394EF0478E21FD99D07A3F6C8F16848684507D",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/head_10.OZJ",
+      "sha256": "9DCF30BA696663AD20F4A8DB8C2895868C6B8AB98895FEA684DEA296A28A9ADD",
+      "size": 12456
+    },
+    {
+      "path": "Data/Player/head_11.OZJ",
+      "sha256": "0B549037A2E568A21E16DBEADD120BC2E0D425F1CF72B9FD8B28C8B49FC234B4",
+      "size": 10041
+    },
+    {
+      "path": "Data/Player/head_12.OZJ",
+      "sha256": "983DB793B9D22CB001D0E9012C4A798B98515A42CE6A162CFAFC39917B00F478",
+      "size": 9774
+    },
+    {
+      "path": "Data/Player/head_13m.OZJ",
+      "sha256": "318426FDFD88D28713A7BD333586CFC43E910C8AF9191645294E53F80606B5FE",
+      "size": 12282
+    },
+    {
+      "path": "Data/Player/head_13m.OZT",
+      "sha256": "0F94416DA799862B8D11E9954CA9BC3C38F464D53AC04360EC899983CDB77735",
+      "size": 2096
+    },
+    {
+      "path": "Data/Player/head_14m.OZJ",
+      "sha256": "FA336E2B54B72F8650F4C673F97F02A1254BA50E1A54F259992B8604BB5954E1",
+      "size": 8220
+    },
+    {
+      "path": "Data/Player/head_15m.OZJ",
+      "sha256": "32633E2DE4E96F00ECE4549EFC0EEE0F2A49842DACFB6ABD6F30C7F07E6DAB9F",
+      "size": 8632
+    },
+    {
+      "path": "Data/Player/head_17.OZJ",
+      "sha256": "5971D9754F1EA4F698E1E9EFAB38B4AAA54706494F5E2DA2A0EC434C7B4566E6",
+      "size": 11693
+    },
+    {
+      "path": "Data/Player/head_18.OZJ",
+      "sha256": "5EA3ECC9927F6E39C2AD0FE6FE217F9B0C00435B023895D4AC7FB4588F009A70",
+      "size": 8840
+    },
+    {
+      "path": "Data/Player/head_a01.OZJ",
+      "sha256": "C640E829C10AB06BEA168F97E1CD0F18747C62C02CE6D258C93AE24D153C2E86",
+      "size": 8275
+    },
+    {
+      "path": "Data/Player/head_a02.OZJ",
+      "sha256": "42F0D171E0BFD32CB4F0666077121939B5ED89A6A4D244138BCDE589BF025A65",
+      "size": 11505
+    },
+    {
+      "path": "Data/Player/head_a03.OZJ",
+      "sha256": "294D37A8F8D98FBD8C84B5B448F47C8482D3C635FF0278BB62A95DB683EE6CC1",
+      "size": 12470
+    },
+    {
+      "path": "Data/Player/head_a04.OZJ",
+      "sha256": "2253A92C282C26EA1AA1D498797D5B2BFB593E76554CF38BB7828117401F136D",
+      "size": 13828
+    },
+    {
+      "path": "Data/Player/head_a05.OZJ",
+      "sha256": "931098C4B7B86F3EE621414C73BE39F52DE6101C87DE51977395DD8D1FC39F93",
+      "size": 12522
+    },
+    {
+      "path": "Data/Player/head_a06.ozt",
+      "sha256": "AB52B159E39255E4DB1C373A5F152994FC8B5510208D9EA139BB5D9A975CCE39",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/head_bd.OZJ",
+      "sha256": "5E767C8D0C163381BAC77256E0D25503022AEF36561C0EDF4007FD6BEC6A881C",
+      "size": 11049
+    },
+    {
+      "path": "Data/Player/head_bld.OZJ",
+      "sha256": "1126C1DABE1B889D478AD8B84006A792417EE4DE9D92B87543D4CEF62EE23BC4",
+      "size": 7728
+    },
+    {
+      "path": "Data/Player/head_E1.OZJ",
+      "sha256": "A1846330D78F3655E076C593269EE6990C580E64F416EDF436FFB20E52304419",
+      "size": 8508
+    },
+    {
+      "path": "Data/Player/head_E1Test.OZJ",
+      "sha256": "E4C856222F51D14E3D603C72A30304692A9752B6D4D00DB7B400013596BC3ADC",
+      "size": 9668
+    },
+    {
+      "path": "Data/Player/HelmClass01.bmd",
+      "sha256": "349A17D1F28C9E99280FC911A5FD7189C265D251D8C0DAED817139209D81E61E",
+      "size": 13131
+    },
+    {
+      "path": "Data/Player/HelmClass02.bmd",
+      "sha256": "D79F450DD76B64CA782432FFDBA2F80585F68CBCCF5FC7AE7801D689953AFC1A",
+      "size": 14031
+    },
+    {
+      "path": "Data/Player/HelmClass03.bmd",
+      "sha256": "DF5E615415D3D0D63E25A2A014A6615AE705E3719C2ACE3F03A443A3CF2E1481",
+      "size": 14575
+    },
+    {
+      "path": "Data/Player/HelmClass04.bmd",
+      "sha256": "C4739AA126045F9C3E64119DB0391592B010921DAD689FF45EA484FBA7F6DA11",
+      "size": 17403
+    },
+    {
+      "path": "Data/Player/HelmClass05.bmd",
+      "sha256": "80D708F931D0E4D34DA7995ECAEFA8D9F6FC98C4703FBADEE0CF1A5BBE84FAE9",
+      "size": 19142
+    },
+    {
+      "path": "Data/Player/HelmClass06.bmd",
+      "sha256": "C930126B258C4604ED059D473416E50E7C1A6A355862416E9C436661C42DE531",
+      "size": 47354
+    },
+    {
+      "path": "Data/Player/HelmClass07.bmd",
+      "sha256": "3C4157AA4C0AAACD664A148AB88D6ECCE773EC03D95781944297FB4ADBDE6128",
+      "size": 32122
+    },
+    {
+      "path": "Data/Player/HelmClass201.bmd",
+      "sha256": "57BC2D602FC82C8908237B83346E0D7CE345C2AC128822185B0D0894300D00BA",
+      "size": 13108
+    },
+    {
+      "path": "Data/Player/HelmClass202.bmd",
+      "sha256": "561F5833CB9539CA511FC0864A1B486D64F676550BCC9EFA68BAEF8099285B12",
+      "size": 13860
+    },
+    {
+      "path": "Data/Player/HelmClass203.bmd",
+      "sha256": "0C0140037030D70A2A25416FF917EA09B242F3F2A093805F078CFDACDAD43CB1",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/HelmClass206.bmd",
+      "sha256": "6AF5193559EBB722A92F7D319C9724D7590CDCC277AD3F1347ADE72B58C9C71F",
+      "size": 43738
+    },
+    {
+      "path": "Data/Player/HelmClass301.bmd",
+      "sha256": "A7857192D75092AC997D4B0F6837C65705A702B11FDA0EB31CD3E6225F1CCDA9",
+      "size": 18324
+    },
+    {
+      "path": "Data/Player/HelmClass302.bmd",
+      "sha256": "62917761CD6C026BCCC80A179A19B48B9C9C7012D57D60D30A813E2260AFB87C",
+      "size": 34056
+    },
+    {
+      "path": "Data/Player/HelmClass303.bmd",
+      "sha256": "B1B2345272A9C32835F72C43D0C27355E8A8902E82D620545A903B0EF7B8DDBC",
+      "size": 16436
+    },
+    {
+      "path": "Data/Player/HelmClass304.bmd",
+      "sha256": "EC16556D7B14D79B924ACF5D3530975E2D535688657F69CAFF1D00405EAAD1B2",
+      "size": 17080
+    },
+    {
+      "path": "Data/Player/HelmClass305.bmd",
+      "sha256": "99CBD4F17711DE4C91E3D3D50712C317E29E91AB123A35339357FD95478EFD25",
+      "size": 29966
+    },
+    {
+      "path": "Data/Player/HelmClass306.bmd",
+      "sha256": "8127889DE68A38B3226A5E106735B8E88C4545FAF7959915DB61C4221F0F3D9F",
+      "size": 47234
+    },
+    {
+      "path": "Data/Player/HelmClass307.bmd",
+      "sha256": "5140DF78879F85813356466858E738B057CE3F6A1FEC3308EF8C55566206FE72",
+      "size": 32122
+    },
+    {
+      "path": "Data/Player/HelmElf01.bmd",
+      "sha256": "672A9AEF1E70A8365278CE1117119E19F639B1BDC9F10BD8466C7B7736346523",
+      "size": 8855
+    },
+    {
+      "path": "Data/Player/HelmElf02.bmd",
+      "sha256": "5244515CB4FDEA0892D8074BC73588885ECF27DC3B9A7575304DDFE8B5068E45",
+      "size": 6923
+    },
+    {
+      "path": "Data/Player/HelmElf03.bmd",
+      "sha256": "CF0C9ED9175942D290E77FDB28B0616FD2848D887B14374A9FD2AA9BC65DDFDD",
+      "size": 6715
+    },
+    {
+      "path": "Data/Player/HelmElf04.bmd",
+      "sha256": "EDEB6800BCB7924A1074F0AB7EE429ED45FA0F82D7DA156E54DB0DFB79EE6A78",
+      "size": 9439
+    },
+    {
+      "path": "Data/Player/HelmElf05.bmd",
+      "sha256": "F6B63677D7E59307CBF1747833FB0D21797CB66C14BF69DCB81E0AED3F78D406",
+      "size": 18229
+    },
+    {
+      "path": "Data/Player/HelmElfC01.bmd",
+      "sha256": "06C46C7639782E1023B4A3860E326B03D9FBD0FB09BF76B90E8D1BA97DC15F22",
+      "size": 8856
+    },
+    {
+      "path": "Data/Player/HelmElfC02.bmd",
+      "sha256": "A1107D76A5DA4954EBD6CAB647BC0C6A94DA507942673572DBCBCE83DAEDC243",
+      "size": 6864
+    },
+    {
+      "path": "Data/Player/Helmet74.OZJ",
+      "sha256": "3CE4926D0EE960357BF1EDA4D7F0402A44C9E0F42FFFDC5540E744DACFD14C66",
+      "size": 17115
+    },
+    {
+      "path": "Data/Player/helmet_s.OZJ",
+      "sha256": "95F21B7F16D4F6E845E71FED4581BB7E8D454623A8F6A178AA315E64960282B8",
+      "size": 19527
+    },
+    {
+      "path": "Data/Player/HelmMale01.bmd",
+      "sha256": "AC8416C9AC6E2B2B15F0056F1B7B0938B5FFF38517461AD8B0DD9FE554826BDC",
+      "size": 9565
+    },
+    {
+      "path": "Data/Player/HelmMale02.bmd",
+      "sha256": "52DF1299A5A4AC12A6C12DF4C06F5C8E940B14B6A1569BC3AD5B8FF9910FDEA9",
+      "size": 20333
+    },
+    {
+      "path": "Data/Player/HelmMale03.bmd",
+      "sha256": "F4D63E18797BBB401D2AA68DD1E926484C9E3D24502DF99FB972741E952C6ACF",
+      "size": 11861
+    },
+    {
+      "path": "Data/Player/HelmMale04.bmd",
+      "sha256": "A8EB9171B3E5CFE2BD85E6DEAF083C1D55D9FE126F324787FDBBABEA6A44E257",
+      "size": 13045
+    },
+    {
+      "path": "Data/Player/HelmMale05.bmd",
+      "sha256": "1D14DEE629610AAB67D775565C2C3012E9D84FBE31A09CDD124A54F96569DA96",
+      "size": 13821
+    },
+    {
+      "path": "Data/Player/HelmMale06.bmd",
+      "sha256": "9E0A49A0F54FED3E23E5D59FE5E67ECCD7DA218A7BC51D43A3D78BF78E157AE4",
+      "size": 13643
+    },
+    {
+      "path": "Data/Player/HelmMale07.bmd",
+      "sha256": "17C8A25B4B3DA2AE19061852C049020E0A9E3685DA21FD616C5A2BC6BDE75563",
+      "size": 16415
+    },
+    {
+      "path": "Data/Player/HelmMale08.bmd",
+      "sha256": "542B507FCB0FBC84332FB856A6C3EE586AE81D39EF3B046EEB24103B3669E6D0",
+      "size": 17321
+    },
+    {
+      "path": "Data/Player/HelmMale09.bmd",
+      "sha256": "95A44BC6A1003037A304F7394AEEEF9B9BE24A13A9FF70F78ED9E484ACCDA347",
+      "size": 9639
+    },
+    {
+      "path": "Data/Player/HelmMale10.bmd",
+      "sha256": "7F99958A987D539B33EC9AA35EFEBEAD4DA6DF4354C751F84E965731F04B91D1",
+      "size": 6923
+    },
+    {
+      "path": "Data/Player/HelmMale101.bmd",
+      "sha256": "F794F650547BBEB3A4B5AF0212B7039A44E24687413EB25C653D35C1F10B0FC5",
+      "size": 119996
+    },
+    {
+      "path": "Data/Player/HelmMale102.bmd",
+      "sha256": "2CD34DA4FB41FF748BECD19721A0247457750E311F0C10B599436A0EA26BA08C",
+      "size": 48456
+    },
+    {
+      "path": "Data/Player/HelmMale103.bmd",
+      "sha256": "390589A9A63001427F0E0AEC645D84DAC1CE6E00BD1B1C5FB2F6B2C14DABC344",
+      "size": 70758
+    },
+    {
+      "path": "Data/Player/HelmMale104.bmd",
+      "sha256": "072C516D8906639923246FC45C34858706E12B06332EC1F13831AF9146EC0734",
+      "size": 49394
+    },
+    {
+      "path": "Data/Player/HelmMale106.bmd",
+      "sha256": "C73A20A7E3320514494EEE662FB1009245F95CBB405130132F397FDDF8C0E619",
+      "size": 62918
+    },
+    {
+      "path": "Data/Player/HelmMale107.bmd",
+      "sha256": "2CD34DA4FB41FF748BECD19721A0247457750E311F0C10B599436A0EA26BA08C",
+      "size": 48456
+    },
+    {
+      "path": "Data/Player/HelmMale108.bmd",
+      "sha256": "0273DBCEDDFB703965241C84EA25B0505A2A70AC913A462731FDCBA6E80BE785",
+      "size": 49394
+    },
+    {
+      "path": "Data/Player/HelmMale110.bmd",
+      "sha256": "BE7E15F3D28B38D60A88D5179BD3D5114153E9E9DC27C0C31A58DDDFC27EF228",
+      "size": 128578
+    },
+    {
+      "path": "Data/Player/HelmMale17.bmd",
+      "sha256": "25E47F9D4104085157CF6F77E270665049EB47B1193FD2844C61A647DFDE59C2",
+      "size": 20461
+    },
+    {
+      "path": "Data/Player/HelmMale18.bmd",
+      "sha256": "C39D8525883834F07F68D3AD934C3A397B3DAFBC9458BF2275E4F2A78CA120AD",
+      "size": 25605
+    },
+    {
+      "path": "Data/Player/HelmMale19.bmd",
+      "sha256": "01906930BA498A8B77D927C038DB6648DC5D7264B7DF9C0642D7FAC099955E32",
+      "size": 14429
+    },
+    {
+      "path": "Data/Player/HelmMale20.bmd",
+      "sha256": "E40BCB7036DC9309D9D83C2BE627D756B195EFB87839418FBCA34F86032CC816",
+      "size": 28649
+    },
+    {
+      "path": "Data/Player/HelmMale22.bmd",
+      "sha256": "617E05C56B55216B2EBD5D0AC2529095D486BEF4621279CC3B34E12446C1E9B0",
+      "size": 24512
+    },
+    {
+      "path": "Data/Player/HelmMale23.bmd",
+      "sha256": "A3BE99C72AEF636B4483E8CF7E87D62A020492AD9AB9FA485C6C1B456249B7E1",
+      "size": 14864
+    },
+    {
+      "path": "Data/Player/HelmMale25.bmd",
+      "sha256": "DABDF3271D0B2769E13FC72C8980DF951AA2B0B3CBCD21C417877C7D827F5C60",
+      "size": 47894
+    },
+    {
+      "path": "Data/Player/HelmMale26.bmd",
+      "sha256": "D02DA10D5170DB8B6C25BBB6596BF99C729FF98FAEE75AE81F312A0843D75B98",
+      "size": 23948
+    },
+    {
+      "path": "Data/Player/HelmMale27.bmd",
+      "sha256": "DAA9B3E89AA0375B6ECF9B7808E3C095B34C43D2DD3E7B7EB226CB43E5510332",
+      "size": 31064
+    },
+    {
+      "path": "Data/Player/HelmMale28.bmd",
+      "sha256": "ED28B8CD4457E243872E245FFBD7F0CC7206F045C49155CDC8484389E8969DB1",
+      "size": 23580
+    },
+    {
+      "path": "Data/Player/HelmMale29.bmd",
+      "sha256": "3174362EF5FDA1D7F0EF9BC7B093DDE858A962623F36DB553EF7B279A3CB90D8",
+      "size": 25956
+    },
+    {
+      "path": "Data/Player/HelmMale40.bmd",
+      "sha256": "56BB1B78A2C4F95325E478C8E0B762A646B0D2BA0C0D100D85E2AEAF95D451E8",
+      "size": 43580
+    },
+    {
+      "path": "Data/Player/HelmMale41.bmd",
+      "sha256": "36F87E061624AA524221E4C55E2E4EB3BAE2E67AF61F69288CCCAC231317B267",
+      "size": 43958
+    },
+    {
+      "path": "Data/Player/HelmMale42.bmd",
+      "sha256": "74A6DA7C73DC7C8191B1C995D679C1E607982317D63D08051E0CC890AAF0E7CD",
+      "size": 47842
+    },
+    {
+      "path": "Data/Player/HelmMale43.bmd",
+      "sha256": "6232EB6B2CD2192D23F5E7894D33195EAA632BF9FDB678F3038BBAFF24DB1ED8",
+      "size": 53168
+    },
+    {
+      "path": "Data/Player/HelmMale44.bmd",
+      "sha256": "46A7236C4ED5CB0B86F3028D66E7A6699894D10EA91B166BE51771D93F3CC50E",
+      "size": 44972
+    },
+    {
+      "path": "Data/Player/HelmMale45.bmd",
+      "sha256": "5E3124B430376254FF2330F101E07645BAC74C50F5D043AADF05CF702321539B",
+      "size": 48752
+    },
+    {
+      "path": "Data/Player/HelmMale46.bmd",
+      "sha256": "5A49975FFF80F985123447B2317E9BDA4A87208E8D9B677AB7A3C952C0122873",
+      "size": 28074
+    },
+    {
+      "path": "Data/Player/HelmMale47.bmd",
+      "sha256": "78255C9110FA0C34D5BFBE6A39D3ECAAEF7D98187AD7D274E8D17CC1673C185F",
+      "size": 47432
+    },
+    {
+      "path": "Data/Player/HelmMale48.bmd",
+      "sha256": "E51810CF18DABFE6ECBA50644BABFD7ED4A5C9986E32C567F5DAFC6568D70D55",
+      "size": 16034
+    },
+    {
+      "path": "Data/Player/HelmMale50.bmd",
+      "sha256": "5FD93ACD330D51212FF25B5889FE94B1F9CA6C9A77CCA40575D63C9EF1F58878",
+      "size": 35872
+    },
+    {
+      "path": "Data/Player/HelmMale51.bmd",
+      "sha256": "19604A037D4DBC6E09432B248A37396CADEBF8D734AC8D5AB408CDA84FF070AA",
+      "size": 40552
+    },
+    {
+      "path": "Data/Player/HelmMale52.bmd",
+      "sha256": "825EF57A7DA9D79390CB49BA5DB7C30B2163CBBEF78C3977EE84F508F7149794",
+      "size": 46336
+    },
+    {
+      "path": "Data/Player/HelmMale53.bmd",
+      "sha256": "4D17EBE197342FB15CFB28C6F1DBC0694909B8F2745B310DB25AF9D6DCC535D4",
+      "size": 37590
+    },
+    {
+      "path": "Data/Player/HelmMale54.bmd",
+      "sha256": "5BC56A0ADC469894A2D7CE678414B3A93DE6BD40A4FD6C7F43E2BDE36EF5D381",
+      "size": 41664
+    },
+    {
+      "path": "Data/Player/HelmMale60.bmd",
+      "sha256": "E43D3616BCBC9EAC722DBBD35D443B1F2FEDE661EA4577A9A891FC2BA35DD178",
+      "size": 41358
+    },
+    {
+      "path": "Data/Player/HelmMale61.bmd",
+      "sha256": "B03529CE6B3303B3CF2022425ED54ED89EE93A8F78C6BCF10AC1AD7EF08EA177",
+      "size": 52906
+    },
+    {
+      "path": "Data/Player/HelmMale62.bmd",
+      "sha256": "C4598AA7A27C6F12D3058B16219E9868059039D84EBBB9D8899C3D64AAF0B84A",
+      "size": 40670
+    },
+    {
+      "path": "Data/Player/HelmMale74.bmd",
+      "sha256": "52A736F1813453CDF506020E2BCF42050AA4D32E6EBAAB19F39D20589B5893C5",
+      "size": 60904
+    },
+    {
+      "path": "Data/Player/HelmMaleTest20.bmd",
+      "sha256": "A08C450B0705D171BAE67FB589F0204CB3F816B2313229AE101345EC13F4B438",
+      "size": 32343
+    },
+    {
+      "path": "Data/Player/HelmMonk01.bmd",
+      "sha256": "33C84A2CCCFA5251871A572C9547D979EA9036FA6EA76AED7D85D047F17D665E",
+      "size": 19104
+    },
+    {
+      "path": "Data/Player/HelmMonk02.bmd",
+      "sha256": "F94F9B668BF59120290556695B79B9026D6B54A48822CA593090428CB2192931",
+      "size": 21024
+    },
+    {
+      "path": "Data/Player/HelmMonk03.bmd",
+      "sha256": "0114A2DDF709D9B19428E3A5ED9A42418ECCC0BDD361A8EA03F2BF52B318AB1B",
+      "size": 10012
+    },
+    {
+      "path": "Data/Player/HelmMonk04.bmd",
+      "sha256": "31E81438C5A34B692433575E794851CB365A65CCB54DFCD37C412664995FA64C",
+      "size": 6904
+    },
+    {
+      "path": "Data/Player/Helper01.bmd",
+      "sha256": "449064C7603B557E70DCE4A28C2D8981507EA52ECAF2B118C745C8B468459037",
+      "size": 6253
+    },
+    {
+      "path": "Data/Player/Helper02.bmd",
+      "sha256": "F278A9FBB70D13E09266E63D7B21C06D3DCD27D67F17CCDB387B248104E0408A",
+      "size": 6897
+    },
+    {
+      "path": "Data/Player/Helper03.bmd",
+      "sha256": "A13B079B135FFB702654CD28ECB676C33718587F00F90842F1F38992292BAC6C",
+      "size": 4907
+    },
+    {
+      "path": "Data/Player/Helper04.bmd",
+      "sha256": "53A97468001F6BEBA5B0658A2F775E2501FA3F598AF74FAA5403BDC3074F9C59",
+      "size": 4069
+    },
+    {
+      "path": "Data/Player/HemMale107.bmd",
+      "sha256": "2CD34DA4FB41FF748BECD19721A0247457750E311F0C10B599436A0EA26BA08C",
+      "size": 48456
+    },
+    {
+      "path": "Data/Player/hide.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/hide22.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/hide_m.OZJ",
+      "sha256": "41B51DEEDE01289E971B82D5423178E51627ECE74417E7E601DA5C5A3E4CB92C",
+      "size": 4540
+    },
+    {
+      "path": "Data/Player/hoblinset_boots.OZJ",
+      "sha256": "5130548522728B3FC72AFEC429595129C357F26A4F2AF54D37EC0797069BEC0E",
+      "size": 17464
+    },
+    {
+      "path": "Data/Player/hoblinset_glove.OZJ",
+      "sha256": "7A210C4404AEEA9C838166D6474A7585FDE8F246A2895A650EFDF17E6A199E8D",
+      "size": 32254
+    },
+    {
+      "path": "Data/Player/hoblinset_head.OZJ",
+      "sha256": "784133B5ADC14967BA9F0E4387F1B38081E07F43B280DF5BF64BB348B8D04AEC",
+      "size": 17994
+    },
+    {
+      "path": "Data/Player/hoblinset_lower.OZJ",
+      "sha256": "1D8915F73A7BCC50E59021DCC755C30667E6DDEB03F22A93B4BB7595AEDD6195",
+      "size": 34045
+    },
+    {
+      "path": "Data/Player/hoblinset_upper.OZJ",
+      "sha256": "909A22F17465A07B0638584E5163D4ACB34E5291D0BE55A970EB7DC635463EBC",
+      "size": 41058
+    },
+    {
+      "path": "Data/Player/Horn.OZJ",
+      "sha256": "87A5DAD0D54763983FF0EA4D6E9E83DEA98D42EE4D8908BA2FA14AE79EBB37DC",
+      "size": 14616
+    },
+    {
+      "path": "Data/Player/InvenArmorMale40.OZT",
+      "sha256": "42A945CFADDABC62FA933FC85E85CC5F2D403755E22CB0F89593B1E2652F0F53",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenArmorMale41.OZT",
+      "sha256": "8310DAE86FE1D929CCFBF8FFA07ED925A97E1329873E5AE0DC18F6A99019EBBB",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenArmorMale42.OZT",
+      "sha256": "2D62CDA90301B9EE2F1D68A1C113849E337F09A92976BCA115B397EDE9A68EB6",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenArmorMale43.OZT",
+      "sha256": "A299CBAC6DCDBE0A31EAD8ADD1D139D6FDA70828BA4DC7AA0FE8F5ADE986403C",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenArmorMale44.OZT",
+      "sha256": "E91C978312507B2D07FAD8B2BD06A124112532F9041B0A16465179635CDBFA1A",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenArmorMale45.OZT",
+      "sha256": "E38AEDF4A01CE78AFE2CD24836511D81D006AEF45FE6575A8190E62DC258A9C7",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenPantsMale40.OZT",
+      "sha256": "5B90C24D206A70F8A7EB874E1516EBED8B61493EA0ADD8642F3E400254BF7A69",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenPantsMale41.OZT",
+      "sha256": "A1EF81716A118FF9A60030A822E4DA2FC6C80EF56494AD6A06B3E3CCC9299AFA",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenPantsMale42.OZT",
+      "sha256": "BEB16FB568661DDE55B854BDDF3623A42452A642F3A42B3FF7CA05AC0B8C61E3",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenPantsMale43.OZT",
+      "sha256": "05A9A7DB21A7A4C1FA9969F66986C8E08783987E14C50016A82EEA78E656EE77",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenPantsMale44.OZT",
+      "sha256": "E1F035FE83C1BF56BA3A6FA5E4F81D4DB3B22C06CA9F769C056A26A362265CAA",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/InvenPantsMale45.OZT",
+      "sha256": "2E6FB39B63F20407B7BE7A95B80FC09F737880D5D51D603FEE7DD96A3E70BB2E",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/item1001_Armor.OZJ",
+      "sha256": "237DD6F3304C9D97CAF1B0FBA882D357FB39B7EED0309979A643FC889533235E",
+      "size": 35958
+    },
+    {
+      "path": "Data/Player/item1001_Boot.OZJ",
+      "sha256": "C7330AF2ADD8268B8C2C710767C9D8D6F3C4B890D041B76EA4E198A4C4A5FBBD",
+      "size": 31082
+    },
+    {
+      "path": "Data/Player/item1001_Glove.OZJ",
+      "sha256": "8A40D8A093B86FEFD464FEF02A68B0276BE2193E0EF3D30B8F6BA8D54EE95E2E",
+      "size": 32004
+    },
+    {
+      "path": "Data/Player/item1001_Helm.OZJ",
+      "sha256": "89CB098C231C9178F50F8F8716D196B46DFF22F7E00F83DE3C28167E2559406D",
+      "size": 16725
+    },
+    {
+      "path": "Data/Player/item1001_Helm01.OZJ",
+      "sha256": "8DAEAF6BD18E1F045E9DD5F667EDA2ECE20E516F7E2FA0BF6520840A8D52D757",
+      "size": 33731
+    },
+    {
+      "path": "Data/Player/item1001_Pant.OZJ",
+      "sha256": "D36F24D1ED55DCD6272EA2FB2B8238BB38B3FBE9EAD7E18E65A976ACA6A364E0",
+      "size": 36624
+    },
+    {
+      "path": "Data/Player/Item2001_Armor.OZJ",
+      "sha256": "64F9BA896C2CA81AC07C026BA35DA2B9F67F9D9971C8E9E33FE47AF76A4B8DEF",
+      "size": 45956
+    },
+    {
+      "path": "Data/Player/Item2001_Boot.OZJ",
+      "sha256": "86BF68728F5C415FF07EB1FD5194AD5EC67115F9A9D3CDEFDA19BDD5E9D75CB7",
+      "size": 36783
+    },
+    {
+      "path": "Data/Player/Item2001_Glove.OZJ",
+      "sha256": "058FE9866A503A0BFF4BD9D611AF929345BB6E4DECE387E7CF0A7EAAD6A20779",
+      "size": 41749
+    },
+    {
+      "path": "Data/Player/Item2001_Helm.OZJ",
+      "sha256": "DD976DC45C4C35947A0822B089A0DC8B9AD907F40ACC8D962DC31BF4E0C815B9",
+      "size": 18594
+    },
+    {
+      "path": "Data/Player/Item2001_Pant.OZJ",
+      "sha256": "0D27CA7C04AA4A07EF0CE311B14CBCB31E109E357760BF1808CFA321F803FF25",
+      "size": 10722
+    },
+    {
+      "path": "Data/Player/Item2002_Armor.OZJ",
+      "sha256": "99D1CA8B1C11A79BD164FEF58B8CD6FC32E1FC4B0F2393DDE376861D6E0F7D25",
+      "size": 44919
+    },
+    {
+      "path": "Data/Player/Item2002_Boot.OZJ",
+      "sha256": "3E32E38DBD707C529A56F5FA181C1C76543608092F24B1C86984056D70A2BA4F",
+      "size": 39500
+    },
+    {
+      "path": "Data/Player/Item2002_cloth.OZT",
+      "sha256": "B77437581476A1625EBA29101E80398B1E53A7332F4FDD1DCAA542FC679F8647",
+      "size": 8240
+    },
+    {
+      "path": "Data/Player/Item2002_Glove.OZJ",
+      "sha256": "5CF95FF063CF45FAE1DFC1F724BCC2D16DA9C37C6187C659BEDA09C894B59AD2",
+      "size": 35939
+    },
+    {
+      "path": "Data/Player/Item2002_Helm.OZJ",
+      "sha256": "4BC9B5F579859ACF204F426D8DB02EF92286FE1B4558E889503EB293AE5FD35E",
+      "size": 18237
+    },
+    {
+      "path": "Data/Player/Item2002_Pant.OZJ",
+      "sha256": "258F511D7231A6E7AD8B37839032B4652E4DF804B93BA8D3E8D9EC8868E1282E",
+      "size": 35887
+    },
+    {
+      "path": "Data/Player/Item2002_R.OZJ",
+      "sha256": "068522D46D21DB284F2DDF9016D3A7CA52814D0D025E207DD9DEC52C58D13385",
+      "size": 12576
+    },
+    {
+      "path": "Data/Player/Item3002_Armor.OZJ",
+      "sha256": "85B74B442DB722073DD33A0D56637124CB180AF5C4EBE77DF207E973C5431582",
+      "size": 43137
+    },
+    {
+      "path": "Data/Player/Item3002_Boot.OZJ",
+      "sha256": "D0AC87B8B04F3BF0C7989D1C31DD0E03A571CC20EE359CB83FFAB4D683F33617",
+      "size": 31967
+    },
+    {
+      "path": "Data/Player/Item3002_Glove.OZJ",
+      "sha256": "008AD87A2FB7CEC55B507EE8F9D82DE1E07AB8F9FB833D2CBB028A24144F3A6C",
+      "size": 36109
+    },
+    {
+      "path": "Data/Player/Item3002_Head.OZJ",
+      "sha256": "86FD8B09D7672BA3AF148161FDA7181D3C09FB522A919BFCD8A5E26CA15F1667",
+      "size": 12344
+    },
+    {
+      "path": "Data/Player/Item3002_headhair.OZT",
+      "sha256": "5D5F095B42C7DAEF3BB476B3960EF8883F956278C430FDFA80EEB44563610FC3",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/Item3002_Helm.OZJ",
+      "sha256": "4062895E98E193FFB949187044CF0E4DA2A48C4CDF746172356F1598983C7FA0",
+      "size": 17788
+    },
+    {
+      "path": "Data/Player/Item3002_Pant.OZJ",
+      "sha256": "C0B01C787A5311303CB0E4A675019E285243F7FBAB111449E01F41D1503A40A1",
+      "size": 37621
+    },
+    {
+      "path": "Data/Player/Item302_Armor.OZJ",
+      "sha256": "1614E07BB424AD9E6CC8EABB561922D9CE3F76F53225F93D50B06D634FE2C4A8",
+      "size": 39848
+    },
+    {
+      "path": "Data/Player/Item302_Boot.OZJ",
+      "sha256": "D9D550A7B8E5FC5B72AD73E6BB8D941A82D13338801F04855FAA7F6D4CDC37A6",
+      "size": 24579
+    },
+    {
+      "path": "Data/Player/Item302_Glove.OZJ",
+      "sha256": "432B0E61F4349E4598D6D5E8C63F03983953258EDF7431597C3C96E066AB34CA",
+      "size": 18036
+    },
+    {
+      "path": "Data/Player/Item302_Helm.OZJ",
+      "sha256": "F6DF510ED89B1912ABB3E5454CF708038D6E8B0F1BD3C5436F9903D5FF306C51",
+      "size": 27415
+    },
+    {
+      "path": "Data/Player/Item302_Helm.OZT",
+      "sha256": "FCBAB783EDFF9A744F17EE89AF91C0D787FD7D558D0E191AF6DCAE949EDD1ABE",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/Item302_Helm2.OZT",
+      "sha256": "D755B81FA942B583E88145C86731761240CC76A62D8EC9C053FFDCC22C81FC4B",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/Item302_Pant.OZJ",
+      "sha256": "0A78E0CEAB01C155E404CD9FF0B305827C58627D1BAF8798957738B29BBE9A15",
+      "size": 38913
+    },
+    {
+      "path": "Data/Player/Item312_Armoritem.OZT",
+      "sha256": "C51299F5CD358F29064152D2148689A3A31F0AF770E5228C67B76BA972C7ED4E",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/Item312_Pantitem.OZT",
+      "sha256": "C76012F97D4E56CE8D5131DB03D60F19ACB07F22F8C2211C2D7412334D10F574",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/Item4001_Armor.OZJ",
+      "sha256": "705126B021DE68A5F66AEA0B5CE6C5FD998ABD8DE37387BFB250C38ED2F56DAE",
+      "size": 74577
+    },
+    {
+      "path": "Data/Player/Item4001_Boot.OZJ",
+      "sha256": "64659B8D4EA22B5C888D36752D59B689D315348AA0B3728802FE2CC4B48620C2",
+      "size": 30015
+    },
+    {
+      "path": "Data/Player/Item4001_cloth.OZJ",
+      "sha256": "7B7E06A33ABB8DEDADEE6A1BDD615A1E6FF5A2AB46B2732FCD36DB5996A1F976",
+      "size": 30060
+    },
+    {
+      "path": "Data/Player/Item4001_Glove.OZJ",
+      "sha256": "47884F86BF113C2AD0BD241B4EA48E90E6C04B63E9856EDC51FC66F9C07CE2C1",
+      "size": 8943
+    },
+    {
+      "path": "Data/Player/Item4001_Helm.OZJ",
+      "sha256": "784383D895513410C972515B072D15FBECBFCAECAAA43708DBCF52CD5D627421",
+      "size": 16941
+    },
+    {
+      "path": "Data/Player/Item4001_Pant.OZJ",
+      "sha256": "962A1086B8394FEAD0275CCD45C9D288FAC5DE17E42008F04CC1E9C913456EB9",
+      "size": 9570
+    },
+    {
+      "path": "Data/Player/Item4001_R.OZJ",
+      "sha256": "E93D43651C38FD593A2B1EF488B17532C2795CC7A0863E229FD7B5C5B56F35DF",
+      "size": 35425
+    },
+    {
+      "path": "Data/Player/Item402_Armor.OZJ",
+      "sha256": "F056F143F978DF73F595548E8D5ADE4668B6CBAFAD0BC700B878FDAD9E63C526",
+      "size": 92521
+    },
+    {
+      "path": "Data/Player/Item402_Boot.OZJ",
+      "sha256": "589B1374AEEE5A1B22EC0B463E8C13B544753B823FB28110CA0E6C37FD534FFA",
+      "size": 20517
+    },
+    {
+      "path": "Data/Player/Item402_Cape.OZT",
+      "sha256": "EA4E2BDC2CCBE4B0385EAAEAFBCB6FA903653CA2CB75B0A14BE8795BFEF3E9D4",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/Item402_Glove.OZJ",
+      "sha256": "04A30EA6231D5EF11223191399CF3C1580172CBCE044CDBE34BA6054AF0E6200",
+      "size": 33644
+    },
+    {
+      "path": "Data/Player/Item402_Pants.OZJ",
+      "sha256": "168C4C6580EC372FAC120D54C0F6C0BD2C2C9C1FC7FD4D296CEEECAEC17CCC2D",
+      "size": 30271
+    },
+    {
+      "path": "Data/Player/Item402_Pants.OZT",
+      "sha256": "6902913F132446CC6121B316B5711088B43FC60BE2CCB118A467A525169145BF",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/Item5001_Armor.OZJ",
+      "sha256": "13531BA9C572819BB23679AFBA2296C10B154A3897D857A13F8A589AAE0B2628",
+      "size": 105963
+    },
+    {
+      "path": "Data/Player/Item5001_Boot.OZJ",
+      "sha256": "5D69DB4F6335F60B4C2D165FAD08E6143872CB2FBF06800D555818B13DFA79AA",
+      "size": 43116
+    },
+    {
+      "path": "Data/Player/Item5001_Glove.OZJ",
+      "sha256": "3D6E45D534723955DB08E085AF7E0623873DD89158D5E029C1FB93C249C1749F",
+      "size": 40649
+    },
+    {
+      "path": "Data/Player/Item5001_Helm.OZJ",
+      "sha256": "4466D72904C3226653919AE426069D0A74BDD47C88B97ECAF5D84D0DEE0396D1",
+      "size": 43990
+    },
+    {
+      "path": "Data/Player/Item5001_Pant.OZJ",
+      "sha256": "E5136B1079833CE494702FDD15C87FD84F18CE604252BF3C11B5DA6DB85D2BDA",
+      "size": 91522
+    },
+    {
+      "path": "Data/Player/Item5001_Wing.OZJ",
+      "sha256": "7128D9EE586DFD55447D986FA655BCFB86D1FDB66375EDCC94430FBD06AEBECD",
+      "size": 21048
+    },
+    {
+      "path": "Data/Player/Item6001_Armor.OZJ",
+      "sha256": "1819BB20112DD1CFD040C7011D1033E9CD700106AA3689A7744AFDF174EA81F5",
+      "size": 40559
+    },
+    {
+      "path": "Data/Player/Item6001_Boot.OZJ",
+      "sha256": "F1505CD539010DB6CC6A1A5BDA689D4CA323C0B338DFC24B6EB01F1D5D1C5EFF",
+      "size": 16859
+    },
+    {
+      "path": "Data/Player/Item6001_Glove.OZJ",
+      "sha256": "78BD6AF89CDAEDBBDF7FCE336D80C1C616BB2BF845D6F83CC7BB7CF34073691D",
+      "size": 17621
+    },
+    {
+      "path": "Data/Player/Item6001_head.OZJ",
+      "sha256": "78E02482A09CA5A73990EDF312C449215B58D9EA30BC3CA2D6EB09AAEA4F266D",
+      "size": 17529
+    },
+    {
+      "path": "Data/Player/Item6001_headhair.OZT",
+      "sha256": "B344072A53D0B7B9DF142BCB2AC5EC910D7D0E0DC44FB5A1CE1F435D64DB165C",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/Item6001_Helm.OZJ",
+      "sha256": "79DB9DDE961A886E2993EE06427F2834AC6BEA6B74C677B513ECE63B7E49C236",
+      "size": 12616
+    },
+    {
+      "path": "Data/Player/Item6001_lowertail.OZJ",
+      "sha256": "66473B00B7374AA17F148512E02B98A4C7A8249B279847F0CCE790ED66E9FED7",
+      "size": 15464
+    },
+    {
+      "path": "Data/Player/Item6001_Pant.OZJ",
+      "sha256": "DDDB6C4DEF817D846507A1D756EC548768FC6F989BB19787D434D7A23759F4F8",
+      "size": 36951
+    },
+    {
+      "path": "Data/Player/Item761_Armor.OZJ",
+      "sha256": "BF99DCBD023908CDF2675F7C1FF54CA126E3E39B687DED66A5915368360ABB5F",
+      "size": 94248
+    },
+    {
+      "path": "Data/Player/Item761_cloth.OZT",
+      "sha256": "3F927E8CD4436E7BF4E977C1491C63EE8D41E78670160073A417BE994407AD8B",
+      "size": 8240
+    },
+    {
+      "path": "Data/Player/Item761_Helm.OZJ",
+      "sha256": "EAA8478F2540F90458DB08A4F1446986D4C7B5ACE4A48942235810296FCFFF1B",
+      "size": 15403
+    },
+    {
+      "path": "Data/Player/Item761_Pant.OZJ",
+      "sha256": "3C4A6F3D04C3E2C89453856457447384C4166E7C8C3E9E9300F8EBEFB4FA583C",
+      "size": 74438
+    },
+    {
+      "path": "Data/Player/Item761_Sword.OZJ",
+      "sha256": "563C6E51A2886FBD2D283143AE4F989598D71D2A2F5D070D6700896B58D04F69",
+      "size": 85803
+    },
+    {
+      "path": "Data/Player/Item762_Armor.OZJ",
+      "sha256": "AB18D29712892BAE737C96C4F75C9FB4B5832D7905C391C4439D7CD27589C288",
+      "size": 89640
+    },
+    {
+      "path": "Data/Player/Item762_Helm.OZJ",
+      "sha256": "4DD4795F67D4823E3027DAD6147FD8579CFDBF62037A2AD88C63553D1F6BA8B0",
+      "size": 94148
+    },
+    {
+      "path": "Data/Player/kaa.OZT",
+      "sha256": "28F29AA557A20DCFD331539D5A734746D25B35D9385AE5BEC36165B1C81D26F1",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/Kbpp.OZJ",
+      "sha256": "58FCC1F73C950596A931E18355FAFA9AF01A563E0A3FDAC53B1A5AB17A096411",
+      "size": 13495
+    },
+    {
+      "path": "Data/Player/KF_deathsang.ozj",
+      "sha256": "92C59748E6E3273BE8A7BD715DAB9B0E942C7A7A9434254E2EFA121BA2EAF3C4",
+      "size": 17010
+    },
+    {
+      "path": "Data/Player/KF_Death_clka.ozt",
+      "sha256": "7B47B7C20E248E0FAA0D8C5874BC9E7967096E7DA115AE264B5317DF78FC4385",
+      "size": 131120
+    },
+    {
+      "path": "Data/Player/KF_Death_clkb.ozt",
+      "sha256": "866C1312C1BD772089EEE982B5486478CE547CA32E97067DE4E39C4E54BC6B6C",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/Kgpp.OZJ",
+      "sha256": "E35304F129CA1B5B1205CDA2E086E23FD028BE695E167A26720C847D200F6BD3",
+      "size": 8053
+    },
+    {
+      "path": "Data/Player/khair.OZT",
+      "sha256": "437DC668616E945B162A7B6C78F0E7729BBDCB962372261CEDB36CD2AF87B37A",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/Klpp.OZJ",
+      "sha256": "4C2113BE2C6B796C6F62E69F95FBF791C598CB4E4531D7C0AC89A4F232C7D935",
+      "size": 25758
+    },
+    {
+      "path": "Data/Player/Kmpp.OZJ",
+      "sha256": "75C48137491BC7F1623B74D5E52E967BD6F88C1362F3D7B7AFA5B7C661C751F0",
+      "size": 8150
+    },
+    {
+      "path": "Data/Player/KSbp.OZJ",
+      "sha256": "940A64D5F0E8C18D33734D97518A8D4BAA3586780F87AE854BE770C30692A7A0",
+      "size": 14301
+    },
+    {
+      "path": "Data/Player/KSgp.OZJ",
+      "sha256": "72ADC7B28C6DDFAECE60F474107BA5B5811B866C24A63887EC68F2FAAC07FEE9",
+      "size": 7625
+    },
+    {
+      "path": "Data/Player/KShp.OZJ",
+      "sha256": "5659580A5F1B7A6B3E47E27CCF7700A677E85B717594455521B6A38A1845338A",
+      "size": 8346
+    },
+    {
+      "path": "Data/Player/KSlp.OZJ",
+      "sha256": "D8284AC8968E9E6A3E1370BFCCB23F2CB72500F1983994ED059070F3DE151C3C",
+      "size": 25928
+    },
+    {
+      "path": "Data/Player/KSup.OZJ",
+      "sha256": "B3A1D4F09D2C73847BE4EAEA457E2E106559EFD161D537CC7EBCF67EA47C081B",
+      "size": 29848
+    },
+    {
+      "path": "Data/Player/KSup2.OZT",
+      "sha256": "30BEAC8C80D84D275C5CFF87A1A77691A70245970E3607A7A42950FD2E9CF25D",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/Kupp.OZJ",
+      "sha256": "7B90A408B9F5CB9572D8B993C2BACF7D415BEE0403BB9C0B274C93FEF0555748",
+      "size": 28118
+    },
+    {
+      "path": "Data/Player/LEEME.txt",
+      "sha256": "4A3DDA4413FD39C7452C7FD06808F0D3D0FDEDE16E9D3F1A7CE92FB3D29F4C65",
+      "size": 1360
+    },
+    {
+      "path": "Data/Player/LevelClass107.OZJ",
+      "sha256": "28D10D0DD23B8BC632EFFED516B9DF4D45265358B11F088853C3C609898195A0",
+      "size": 96558
+    },
+    {
+      "path": "Data/Player/LevelClass207.OZJ",
+      "sha256": "FCC2BF51DC442070FE9936E45C653C584B44253474F03E37B51891629890A889",
+      "size": 96376
+    },
+    {
+      "path": "Data/Player/LevelClass207_1.OZJ",
+      "sha256": "B7D67A9A8EC3EBA8E33716D477C4A884F27987E74FF8D02936BA35FF16C1EAD0",
+      "size": 93916
+    },
+    {
+      "path": "Data/Player/level_man01.OZJ",
+      "sha256": "9D112060E02434825FB600FD2B30C5B80C1E5490E19F8B049654BBA9B4BE4B38",
+      "size": 76814
+    },
+    {
+      "path": "Data/Player/level_man02.OZJ",
+      "sha256": "6BC10D6560CFEE1BCB1BBA7FA08FBED9ABD2BD89090655FF608588B3A95E5E6B",
+      "size": 56618
+    },
+    {
+      "path": "Data/Player/level_man022.OZJ",
+      "sha256": "38FDF67C66A52807E303193159B194EA79790CAA4F39AA0FCEA24330E13859FE",
+      "size": 65780
+    },
+    {
+      "path": "Data/Player/level_man033.OZJ",
+      "sha256": "E3E0039580F52B7F14FD33D7589E162045488C4759C0DCCC767F5AD9977B3DFE",
+      "size": 100336
+    },
+    {
+      "path": "Data/Player/lower2_15m.OZT",
+      "sha256": "95EB05ED3E31ADC99411C2AD340369FBE8F32F423F30949F187298BF539D26BF",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/Lower74.OZJ",
+      "sha256": "4EF8229F48E3BC8F2C8CA2BC6C11349695442C059696887BF9946693BE4BE71D",
+      "size": 33875
+    },
+    {
+      "path": "Data/Player/lowerta_1.OZT",
+      "sha256": "37AC9CCB50FC18F5112ED7F79492B8B2289300F53D45E6FA3044F6F9BA8CDC5F",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lowerTest2_R.OZJ",
+      "sha256": "34123FB1C7ED66A50C96F943F446B937132CFB588FE0AF2025F1847977F62186",
+      "size": 5240
+    },
+    {
+      "path": "Data/Player/lowerTest_R.OZJ",
+      "sha256": "76D757C0D4427AA2A94AC6FE9C010D984B56AEF9074BAD8CF5AD299D948EFD4C",
+      "size": 6548
+    },
+    {
+      "path": "Data/Player/lower_02_m.OZJ",
+      "sha256": "48EE7FE28BF3C298101CA6297DAB3932633D1910C5C98460111146E6C5DAA883",
+      "size": 35504
+    },
+    {
+      "path": "Data/Player/lower_03.OZJ",
+      "sha256": "36C15DEBBBDCE89ACEB1BEB7325268375CB77B80B6CD0D92427DD37839C88064",
+      "size": 36819
+    },
+    {
+      "path": "Data/Player/lower_03b.ozt",
+      "sha256": "355C6A9C28A9DC1B8900BBBA0A0C67D343A7F45790A019929C51E68840CDB1E3",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_03b_m.OZT",
+      "sha256": "0169A94DBC1E900656B4AA821AB9CA23D50D0FAC5D18C5C36BC5EB3CD4CBB016",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_03_m.OZJ",
+      "sha256": "E2C3561666868E97525B1DE9A39BFA67E906A5C3799F39A50E234070B5E54206",
+      "size": 39836
+    },
+    {
+      "path": "Data/Player/lower_04.OZJ",
+      "sha256": "52BE689440080BBC02944B6223BE4F453AF538F85FCBE4C62373507196433FAF",
+      "size": 10560
+    },
+    {
+      "path": "Data/Player/lower_04b.ozt",
+      "sha256": "144014F261256CE1C4977A849D5D25471999A004C12C14D26079FA1E0C3EFEEE",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/lower_04b_m.OZT",
+      "sha256": "53DA6DF85D6761F063B6E4C97E323461C7516CDE875E551578AB957E60E80753",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/lower_04c.OZT",
+      "sha256": "7B2F3D121E1B8B70917665DFE553A07D5FD23C57463FB1C023809C6CC46C042B",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/lower_04_m.OZJ",
+      "sha256": "CCC2977602F837B69BF74723CAB300B233EAD35BD825B05F0766847DEA07C64C",
+      "size": 35899
+    },
+    {
+      "path": "Data/Player/lower_06.OZJ",
+      "sha256": "096684DA75233ECE798120A238EF8AFC9E4838A6FDE1C97C43AB1A67B2067787",
+      "size": 29993
+    },
+    {
+      "path": "Data/Player/lower_07.OZJ",
+      "sha256": "9C301CCC47F9BE6B6CE83D1A12275B68307181F65F698732CB63C0DDCD254816",
+      "size": 28413
+    },
+    {
+      "path": "Data/Player/lower_07.OZT",
+      "sha256": "014B7C5F0D7A214DC273A9ACC3DA759FDACB50BFC853699FFB589E8A2D1F6457",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_07c.OZT",
+      "sha256": "77EFDC5C796C7AA247495D1E8CDA41F3E671D7674AEF6A72D1072977EA6721DF",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_07_m.OZJ",
+      "sha256": "6E095F5C32D250723CABAD1F4A2D5B42E6B67AE7692B70077B49B6BFD8AF9EE1",
+      "size": 21839
+    },
+    {
+      "path": "Data/Player/lower_08.OZJ",
+      "sha256": "91A874AA741E3D42C35E68AB101C027317DB868FACCC34F9D1CAE1AF5A118887",
+      "size": 33535
+    },
+    {
+      "path": "Data/Player/lower_08_m.OZJ",
+      "sha256": "91A874AA741E3D42C35E68AB101C027317DB868FACCC34F9D1CAE1AF5A118887",
+      "size": 33535
+    },
+    {
+      "path": "Data/Player/lower_09.OZJ",
+      "sha256": "A1A9CC8B7D4FFCA558EC619B21C76D8F8DD197C462818D0B16E3B4FFBC4AB464",
+      "size": 25463
+    },
+    {
+      "path": "Data/Player/lower_09b.ozt",
+      "sha256": "2353B54DDE99E86E2A74F9F579285E9917F875D1A5A5FC650D73F6D202ECDE43",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_09c.OZT",
+      "sha256": "60A9468775ADF3A81BD5D37FEE82E70A6D1B0F10E5DABD5D3C1ED70E3E06CB3C",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/lower_09_m.OZJ",
+      "sha256": "9B75E9413BB17F9E04FBAD9C87DE6A4F34CA46E70574F61DD0A4A918D3D274EE",
+      "size": 35679
+    },
+    {
+      "path": "Data/Player/lower_10b.ozt",
+      "sha256": "8637F2EF9DA69727163ACD95A9FC6059D66079696E8593D17DA8B1FD4547ACB5",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/lower_10c.OZJ",
+      "sha256": "E1F6D8AFEC3145BB0F8844B8C63854C1273CDC055C70E644AB32EE8E2BDEE1B3",
+      "size": 38677
+    },
+    {
+      "path": "Data/Player/lower_10_m.OZJ",
+      "sha256": "390090D2CF0BF5CFE4D28C0E140A0C3436D5C357427FC1B19A6E6E275F261831",
+      "size": 28863
+    },
+    {
+      "path": "Data/Player/lower_11.OZJ",
+      "sha256": "FF7C7BA1D29B428BEB80981F40366BA597C91F70B9B39A6EDCD7D155764451FE",
+      "size": 31784
+    },
+    {
+      "path": "Data/Player/lower_12.OZJ",
+      "sha256": "783D8589FBB3BAD84CA7FA698E87740E685BB4A571FD4EE94C76F21D1DC40666",
+      "size": 28413
+    },
+    {
+      "path": "Data/Player/lower_13m.OZJ",
+      "sha256": "211888104A047D3E3416F1E3A8FC5EF422128B2528BDF09C6C8B6F60D9BCE01D",
+      "size": 20547
+    },
+    {
+      "path": "Data/Player/lower_13m.OZT",
+      "sha256": "921ABB5332C30A03A5570946A9C93F1DD90C110A8B3E0D652B015B387AB11A5A",
+      "size": 8240
+    },
+    {
+      "path": "Data/Player/lower_14.OZT",
+      "sha256": "0F89EABF811E3EA4F8DE5D1169D543711DA318485B4F925DBE3371D32EAF18DB",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/lower_14m.OZJ",
+      "sha256": "C2436E54711E951E804A3CC2B32098F1B034459E83933667259FB0BA459DB8F3",
+      "size": 16966
+    },
+    {
+      "path": "Data/Player/lower_14m.OZT",
+      "sha256": "1AB799C055CB75AAA978EF4AAB33B70B022EA4522CC7FD90F2031A3392302719",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_15.OZT",
+      "sha256": "18A8D93C7C41CBE9957B428B7AF0EBFE75847F3C37EE619B21FC2CA4B364BBFA",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/lower_15m.OZJ",
+      "sha256": "A8226EC17E7D6797B98EA6B36C38E64CDA4E9439C60C477108233CA85BED8EFD",
+      "size": 26187
+    },
+    {
+      "path": "Data/Player/lower_17.OZJ",
+      "sha256": "08CE0F3FA184033A7427036DDEC98F18192A1CCDCDBF22D72D59D9A51C02A51A",
+      "size": 19706
+    },
+    {
+      "path": "Data/Player/lower_18.OZJ",
+      "sha256": "CF6C3415EF60E5F33A0A1DC9683C5759E7E3509C3BE738CF9539F175C996CD9E",
+      "size": 10998
+    },
+    {
+      "path": "Data/Player/lower_a06.ozt",
+      "sha256": "1F0F57C019069371291E1C2646E70A1498ACBF6C2F71D6957091ADF645729A45",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/lower_bd.OZJ",
+      "sha256": "3EAEE6D8A89DAC707823EFD7160C1CF359ED4DF1C7E0FC1C84F19B39CE5377F6",
+      "size": 23281
+    },
+    {
+      "path": "Data/Player/lower_bd.OZT",
+      "sha256": "A5AC5AB9B86AB23E75D5DA8DD16D9CCEA58A3F8856A0131A60472FC868153A15",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_bld.OZJ",
+      "sha256": "A68B9E03EDB9C7EC1740093D3DABCB96A9525BEB7027C896F26B8BE36F584093",
+      "size": 21118
+    },
+    {
+      "path": "Data/Player/lower_bld.OZT",
+      "sha256": "6CD78AF002AA5AAC9E4A214FD64BD1853F1647E00BF860F0023636FD9F53BAD2",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/lower_E1.OZJ",
+      "sha256": "55BBF2130AC0C01D477AC5651C960007B0332EE18B9918B198422088067A913D",
+      "size": 27924
+    },
+    {
+      "path": "Data/Player/lower_E1.OZT",
+      "sha256": "C534E7FE1A6FB2DBE68BA38BF693D5D714644C4C0119FC5B1F44F1D6D7472F3F",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/lower_E1Test.OZJ",
+      "sha256": "E3382C8D4B1DEC00EF18FD3F6E658E1F0E82936355F8ACA24C9877268C77297F",
+      "size": 16902
+    },
+    {
+      "path": "Data/Player/lower_s.OZJ",
+      "sha256": "F5AD2BCEC2BBCA153972C82F476A48E97CA69034D2D21D1B658EC2AF14FEB8A6",
+      "size": 9154
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/boots_luck08.OZJ",
+      "sha256": "B732385D8491763C4EF0A2B4D9A9BF56E7FAEAA62A75285FC63AEE36AA203934",
+      "size": 22181
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/gloves_luck08.OZJ",
+      "sha256": "ED4302AFFB8F3134E1EC33A3121C5D78CD951B018384422B60B45AFD73B0DFCC",
+      "size": 20484
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/hair_R.OZJ",
+      "sha256": "25F6BCB60B44B5FAE6B7C2A8C86D6636FBB4C1DA607165E1C0E5C6CECE68C930",
+      "size": 3579
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/head_luck08.OZJ",
+      "sha256": "B76F68BD789DB2C91F6F839E379A82CF25615A0673907950AB3CE62128C62A7C",
+      "size": 21593
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/hide.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/hide_m.OZJ",
+      "sha256": "41B51DEEDE01289E971B82D5423178E51627ECE74417E7E601DA5C5A3E4CB92C",
+      "size": 4540
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/level_man02.OZJ",
+      "sha256": "6BC10D6560CFEE1BCB1BBA7FA08FBED9ABD2BD89090655FF608588B3A95E5E6B",
+      "size": 56618
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/lower_luck08.OZJ",
+      "sha256": "7B581B80DCCD92C539FF2258AF2633195FE80F3606FE401AFACF6E9126C916E3",
+      "size": 45864
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/new_Armor01.bmd",
+      "sha256": "0FE6061B714E47168ED1AFD642024776ECA95B5D24E92C27CAA74EE2F40DAFD9",
+      "size": 20097
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/new_Boot01.bmd",
+      "sha256": "605C83322082F3D87E560042CE0982F7E258175B4F0A33FC82CCF64AEDD78369",
+      "size": 16217
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/new_Glove01.bmd",
+      "sha256": "D3C662E9E3F6083A38DDBA145DFF63C737D2A85D19369BF23EC154DBF09671B9",
+      "size": 18281
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/new_Helm01.bmd",
+      "sha256": "22E26E0A74F489191DBFDBA13BC1EE85833ECFA17BD4D9F721EA6399A8BA0420",
+      "size": 16419
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/new_MaskHelmMale00.bmd",
+      "sha256": "753A70A9ACCF55C5E065EFEB83B7B8706E7BAE9A2A84909C72B5F12293EE9493",
+      "size": 27241
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/new_Pant01.bmd",
+      "sha256": "FD0210D7D0C323889BA38E4A3454CD8836DFFCEBDC88E97DBDCD3A14DBEBE644",
+      "size": 13521
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/skin_barbarian_01.OZJ",
+      "sha256": "E00985DA32D82E4212145FB7F697CA64CD3FE7866FA5E2F0E6EA89FD1CC37C43",
+      "size": 58290
+    },
+    {
+      "path": "Data/Player/LuckyItem/62/upper_luck08.OZJ",
+      "sha256": "2C45444C9F05A40B867FB87E45B8CEE4441A4F7458ABD8713C5B655A84EBDBE3",
+      "size": 49733
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/boots_c luck07.OZJ",
+      "sha256": "C9A7356E4566A40A82F2A67937E7E5E2CC3A6C85561F3AD110CC913751E23A5C",
+      "size": 25782
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/gloves_c luck07.OZJ",
+      "sha256": "E3371E7B4D3549C65F0830ABB56B67D7F58F1623E0A96C20714D6E8E73E21E75",
+      "size": 23361
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/head_a luck02.OZJ",
+      "sha256": "3B914F02A6BFAC1FC42FF20BE4658DECF341396EAEFB86C89E376699B1D2ACA4",
+      "size": 24013
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/hide.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/level_man01.OZJ",
+      "sha256": "183B9276A78DEEB7B0A7B7F0C526109002763C03B158E8CC07EC616040CCF77A",
+      "size": 30391
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/lower_luck07.OZJ",
+      "sha256": "3277F39D93008E17046EEAF7AF489858C43325B10D3FF33DE1CBEF699BD9F289",
+      "size": 41681
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/lower_luck07.OZT",
+      "sha256": "F2C1C88E3AD9285A1F011229DD2742ADB4716A2F679A10F769A27F29DDA6543E",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/new_Armor02.bmd",
+      "sha256": "6F24D403ECACD200D34FA0D25987A71A582E7C911608DBBCA844625ACC0AFB65",
+      "size": 18051
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/new_Boot02.bmd",
+      "sha256": "DCD309AC4FA4C88C3674365FDF20682397C53C1602CBC55FE0827E0AB51EB1C9",
+      "size": 14041
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/new_Glove02.bmd",
+      "sha256": "ADABE65C994F79CA83AB7DDBDED7BAC39F026776397D3AFCFD45B9603BE60E73",
+      "size": 15893
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/new_Helm02.bmd",
+      "sha256": "E696FB6932304F080463D198AC5FCA700ABD36A6D20F204BEE54662196D8738A",
+      "size": 6927
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/new_Pant02.bmd",
+      "sha256": "FBAF7B94E41D54F4BE5CB48A1F59A6F31FC1B01E387920EB6AA5F1B7CBAA9D3C",
+      "size": 15385
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/skin_warrior_01.OZJ",
+      "sha256": "5FF2F191BBBB82E8D9457E586453D1FD7C7B0B011A5706195B199E025FB9B7C9",
+      "size": 70021
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/Thumbs.db",
+      "sha256": "09D8845B0932EAA42A3B3E83CBB7BB56BBFA08AD1048FBDC20ADC179C9423F34",
+      "size": 33280
+    },
+    {
+      "path": "Data/Player/LuckyItem/63/upper_ luck07.OZJ",
+      "sha256": "DE1D592CAB857481F0899A3AE8663A5D13E725787C772FB2A260358D807F9927",
+      "size": 52163
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/boots_luck09.OZJ",
+      "sha256": "A6477945A29450FF7523238EF6C2573215490A0B1BD531731A1851230E6741AC",
+      "size": 22432
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/gloves_luck09.OZJ",
+      "sha256": "04842DC994F01F3794A24DB5BE5ED33B9AE4F64D1D593D687C64E976C846CC50",
+      "size": 23964
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/head_09b.ozt",
+      "sha256": "D6C9B564CE5C645FD70A56DB62394EF0478E21FD99D07A3F6C8F16848684507D",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/head_luck09.OZJ",
+      "sha256": "A43DF443858A8F4383F6E307032F9A838019B5B2B03F496BED1B4B8817421772",
+      "size": 22450
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/head_luck09b.OZT",
+      "sha256": "BE887B05EF72DD09E9D5977E4AB6505EEA6A857D2A26F3974101E98DC2B1704A",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/hide.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/hide_m.OZJ",
+      "sha256": "41B51DEEDE01289E971B82D5423178E51627ECE74417E7E601DA5C5A3E4CB92C",
+      "size": 4540
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/level_man01.OZJ",
+      "sha256": "E624627BEC580B07CD157364BC46BEEA0032AF1E8531220D44F000BAAFB10610",
+      "size": 71793
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/lower_luck09.OZJ",
+      "sha256": "F9DAB29BA253A5EA6C52D45895F7F9FA11EF022A88CF425FAC51C0BF74D35D85",
+      "size": 57732
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/new_Armor03.bmd",
+      "sha256": "1323A0D83F9F17609CC8996DA61152DBC095830123ABC24C28D4DCCC12644B2E",
+      "size": 26139
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/new_Boot03.bmd",
+      "sha256": "865BC7ED7C88C368A93B1CD92875538CA9E437C345A44329AF9771BA313D7436",
+      "size": 13633
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/new_Glove03.bmd",
+      "sha256": "15BE0EF2140CD17E1BB7135C84850412A83A75F02BC411FDC60D6AD4632E811A",
+      "size": 16049
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/new_Helm03.bmd",
+      "sha256": "E0A9957AD47E524CC14586DD9A8F480D5037CCC12181373988FE58AC28847CB9",
+      "size": 17325
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/new_Pant03.bmd",
+      "sha256": "A08FB209B552989D319D6128A8391DB266782871361DADA89BA2CFE9A9145EA3",
+      "size": 16375
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/skin_barbarian_01.OZJ",
+      "sha256": "E00985DA32D82E4212145FB7F697CA64CD3FE7866FA5E2F0E6EA89FD1CC37C43",
+      "size": 58290
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/Thumbs.db",
+      "sha256": "00DEA99122DD8046425F870D5EEFB76650AA47A6E8AC7CF7E70C00F68D31D7F8",
+      "size": 35328
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/upper_luck09.OZJ",
+      "sha256": "1C64A1DE3390E647B6833E169CD3D28A77F728B6758DEC42093994E384778868",
+      "size": 47183
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/upper_luck09b.OZT",
+      "sha256": "89243E9588419DD1EACBA3EEB0986CDD87DD8E34C124215B9372C34D1DC51E91",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/upper_luck09b_m.OZT",
+      "sha256": "89243E9588419DD1EACBA3EEB0986CDD87DD8E34C124215B9372C34D1DC51E91",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/LuckyItem/64/upper_luck09c.OZT",
+      "sha256": "EBB0DAFE22992A6BA0B185E20243D14B3ACCED6949EE209B78A872936238B44E",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/head helmet Luck 40.OZJ",
+      "sha256": "7846292A497E0C46EC993B48D665E4ACC315F798525D86873664DFF584AAAF71",
+      "size": 17526
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/InvenArmorMale40_luck.OZT",
+      "sha256": "07BEB08042E6F87ABDFA6388FA8A9DA3035C4994C281404C895AF414ACA5CEA3",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/InvenPantsMale40_luck.OZT",
+      "sha256": "2700C859EB43F6BB7EF1FD739F2921304126A8B0C3F3CCFEA606634EC01E7320",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/new_Armor04.bmd",
+      "sha256": "0F78A5312486F7A22A50FD200A5738DDE10885B60DD3C8D7D40E465C89720A45",
+      "size": 47412
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/new_Boot04.bmd",
+      "sha256": "A90C66F547AC11865ADDD9D8AE1FC9208F2CCA8508A90ED6FD549DA7CB0F0BFB",
+      "size": 29552
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/new_Glove04.bmd",
+      "sha256": "1B9B79A98626B66F01170C68DFAD45BF7677E7C5680A56C9A56E0C02F2FF26FA",
+      "size": 30256
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/new_Helm04.bmd",
+      "sha256": "F6D7739B2C20C09334BEFB76D1894E24E49F3176C52A2A22B41EDC887A3EFFC3",
+      "size": 43580
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/new_Pant04.bmd",
+      "sha256": "418A0651414C0DC463CDB6F29680C60419861CC6DBD2C2AA3C3497AB16D8AB9D",
+      "size": 30220
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass luck106_boot.OZJ",
+      "sha256": "CA18AF535368AE95C35388B6FFDBF59374AB81D1A9EDA7995177E3503327EC5A",
+      "size": 36858
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass luck106_glove.OZJ",
+      "sha256": "A5E4E08FD0FBADD174F0CBFFD53B8D25E18846B97272CE09303C5F947AA3DA0F",
+      "size": 42176
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass luck106_lower.OZJ",
+      "sha256": "AF20D06447148B59D661771010F501C60D2D51F4C7EA080C5E1202DA36A93975",
+      "size": 50114
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass luck106_upper.OZJ",
+      "sha256": "59E6C7409CBC4F4E3CD3E774896E6995BA74BF0E2AEB4876EE3E1468DDC4711A",
+      "size": 47366
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass106headhair_N.OZT",
+      "sha256": "0F9AD217771074C94975B8BB0C7827389CCCC61503A20F5386D5DC613C87DCB4",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass106head_N.OZJ",
+      "sha256": "819447E8BF0DAFA863970AEF973A29E23DDCBCE62A7CCCED28235970247B074C",
+      "size": 16800
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass106_head hair.OZT",
+      "sha256": "0F9AD217771074C94975B8BB0C7827389CCCC61503A20F5386D5DC613C87DCB4",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/SkinClass106_head.OZJ",
+      "sha256": "819447E8BF0DAFA863970AEF973A29E23DDCBCE62A7CCCED28235970247B074C",
+      "size": 16800
+    },
+    {
+      "path": "Data/Player/LuckyItem/65/Thumbs.db",
+      "sha256": "C135D1C96326199D625DEB1D4CB9EFC1D7C48B15FA5B08D32EC32D0B471BD851",
+      "size": 32768
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/boots_luck18.OZJ",
+      "sha256": "A5337BE55DED87047D051696E897ABA225CE2F40128377A710ABC53D6F831C94",
+      "size": 29142
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/gloves_luck18.OZJ",
+      "sha256": "20F3B93ABBAD0E893DB4D9C5C44482C893CB7A02E82770A27496339A19DA35FE",
+      "size": 18005
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/hair_R.OZJ",
+      "sha256": "4676003FAE57B732D66ACBFFACF0E149811A6A139B4F7670355FE4C32A963536",
+      "size": 3627
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/head_luck18.OZJ",
+      "sha256": "68B5518B73F3BFCDF98EBB750343151E04165E99126FBB9B19CA4149E0229EEB",
+      "size": 22043
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/level_man02.OZJ",
+      "sha256": "53900B309A216EB9AC57340C941D4315C188E1A7CE17B8C552A93EC0BEEEF362",
+      "size": 56666
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/lower_luck18.OZJ",
+      "sha256": "9C75077F8BEEBCE5FE075886B6CB1250FE949A4742CC3B1C93632FBE1A7D7AD6",
+      "size": 21758
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/new_Armor05.bmd",
+      "sha256": "0714F2CE1CDD3F7576956FE259CBEFE2CA3CD7033678D25F6B8B735328FA63BD",
+      "size": 46280
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/new_Boot05.bmd",
+      "sha256": "C5E191B8FA3F4A6AC2D6F4F71523692E962A8B9F033CA7EAAE4C56F5A27ABEC0",
+      "size": 27920
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/new_Glove05.bmd",
+      "sha256": "B87D164B7C23C99E73674068CFB75F4CEEE606F536395E576C0B1091D6C316F7",
+      "size": 21064
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/new_Helm05.bmd",
+      "sha256": "1A62964145EFDC98D30FDDF2F99045894B6694B2967CEC725FCB66756D71C884",
+      "size": 31064
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/new_Pant05.bmd",
+      "sha256": "3C93B516F4C29B07A9DB54F33B38DB7F964949D7DE72EEBB060F30043CE20539",
+      "size": 10240
+    },
+    {
+      "path": "Data/Player/LuckyItem/66/upper_luck18.OZJ",
+      "sha256": "2C5FA16EC0AD40D26478EC680B1C86DCC18E0EFDE3CC4C1D6CDE4AE7D19227B3",
+      "size": 59322
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/boots_luck03.OZJ",
+      "sha256": "21517DCA917A3F33B59D40114E930F61E754E200E875C1544C9E29CBECFE91F2",
+      "size": 23060
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/gloves_luck03.OZJ",
+      "sha256": "E802C6C94567789DD299B094F45412E9810B8119379FD11E6D1A6173DAFEC37F",
+      "size": 23206
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/head_luck03.OZJ",
+      "sha256": "678643FC36F250B28E419DC733AEB2110C7F4A30A1FCBF4B4C5A2FBF6BD64EE3",
+      "size": 22904
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/hide.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/hide_m.OZJ",
+      "sha256": "41B51DEEDE01289E971B82D5423178E51627ECE74417E7E601DA5C5A3E4CB92C",
+      "size": 4540
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/lower_luck03.OZJ",
+      "sha256": "A7BB965279CB2AD43253A818D12DA3FA7B0397E91C8D19AEF0C1E3C6F3C92D97",
+      "size": 45753
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/lower_luck03b.OZT",
+      "sha256": "BDB0D1E6C286844958F7F78FFE70A9E6B39586290E99C266C4BE4000DE40AD66",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/new_Armor06.bmd",
+      "sha256": "087C06B1E8163BF90D679F316CE7CFDA15732EB19ACD17B696F6DF273BC3F96E",
+      "size": 27619
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/new_Boot06.bmd",
+      "sha256": "79D3189AD5AFD00C9FDF06F6E3E79B1E164112529D5CD9F61D8406A6BF386CC5",
+      "size": 15887
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/new_Glove06.bmd",
+      "sha256": "5073739FD1D3B7E51174351221E6F2C9A76BFFF06E47BE2EDAB9AAC3F9311AE0",
+      "size": 16543
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/new_Helm06.bmd",
+      "sha256": "330E29F7803925A3AC39A2E4D3193BB497F5875CAB9AA358ED35418527146CC0",
+      "size": 20337
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/new_Pant06.bmd",
+      "sha256": "B26DCBE154328EBCAB1BF4F2B0E92B0FCAFB0D45940D06D794306B487588B88C",
+      "size": 14077
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/skin_barbarian_01.OZJ",
+      "sha256": "E00985DA32D82E4212145FB7F697CA64CD3FE7866FA5E2F0E6EA89FD1CC37C43",
+      "size": 58290
+    },
+    {
+      "path": "Data/Player/LuckyItem/67/upper_luck03.OZJ",
+      "sha256": "2102CB98CF580A2F53157F23BC628B15E3FFA860D0E0EE7BB5CC1404F83956A7",
+      "size": 47259
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/boots_luck03b.OZJ",
+      "sha256": "DB36E4BA1D5374EBBEC03CEF9493031F343D9123A46ABAE97B846B22D52A5A70",
+      "size": 18618
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/gloves_luck03b.OZJ",
+      "sha256": "461B9FC640A732A93773863F94F041369947D52F5760C5D40572764277B98E74",
+      "size": 18776
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/head_lucka05.OZJ",
+      "sha256": "E5962790D759B1FC6082B6E72572022B4758214A90AC66FD75E0066DB8FC3302",
+      "size": 17515
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/hide.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/lower_03b.ozt",
+      "sha256": "355C6A9C28A9DC1B8900BBBA0A0C67D343A7F45790A019929C51E68840CDB1E3",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/lower_luck03.OZJ",
+      "sha256": "98664006E3B1C188C551041DC5DFA4B5BA001C85DED9C893CBFD5CFBA36CA2B5",
+      "size": 41711
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/lower_luck03b.OZT",
+      "sha256": "BF7DD933FBAF4030A074BCE42C2BE17B09BBA2F5AD26B3032A56105CA6E53B06",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/new_Armor07.bmd",
+      "sha256": "94185D4164450CB0DEB19ACBACD4E52E2300E0C30062EDAC1827EF2D87698955",
+      "size": 25659
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/new_Boot07.bmd",
+      "sha256": "0F8E799827C1C3DCF207778B550EB9ED3D4FA89DB9567BD314B6C24A799488BC",
+      "size": 15919
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/new_Glove07.bmd",
+      "sha256": "9454DD07CBD31AAB9CBA55D505D7F1C2A566E5024CED1A62E478337521A8D8CC",
+      "size": 16575
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/new_Helm07.bmd",
+      "sha256": "158E3E06D9CD2D1432F900C9D42A2034541B950A6C3D556A3CAA65C1A75A9BF8",
+      "size": 18233
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/new_Pant07.bmd",
+      "sha256": "E9DCF4B29054ACE82C8682510DCAC12DB0B5FC2473FBE16A80E9F0B0A912E9B7",
+      "size": 15951
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/skin_warrior_01.OZJ",
+      "sha256": "5FF2F191BBBB82E8D9457E586453D1FD7C7B0B011A5706195B199E025FB9B7C9",
+      "size": 70021
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/Thumbs.db",
+      "sha256": "3BFB2877D6C8D001E3634638AA3AADC507623E02A9A1C330437F81D5F14C9C0A",
+      "size": 30208
+    },
+    {
+      "path": "Data/Player/LuckyItem/68/upper_luck06.OZJ",
+      "sha256": "7A39089B79F4086BAB2F68E961CC99C7855A83AED59E7971CB087FA1E6CCFED7",
+      "size": 42774
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/boots_luck13m.OZJ",
+      "sha256": "F8538B4BB5C7DA4302B5DAAA173B1515BF64845115C89481572A2C22BBB7E776",
+      "size": 27134
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/gloves_luck13m.OZJ",
+      "sha256": "374715CA999899ABDC97A126C854238A234470AAB58696A88CAEAAC203C5C621",
+      "size": 22543
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/head_luck13m.OZJ",
+      "sha256": "5AAB3827F0D2F85EFE2E9B5629E7F995C0FDD7E0B01B85DC91A5C9AD3B0847F6",
+      "size": 18251
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/level_man02.OZJ",
+      "sha256": "53900B309A216EB9AC57340C941D4315C188E1A7CE17B8C552A93EC0BEEEF362",
+      "size": 56666
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/lower_luck13m.OZJ",
+      "sha256": "78EDF13C17ECF244C2A5731E4465632C45A92CEB21E414CF8DBE346413EB4A8E",
+      "size": 28538
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/lower_luck13m.OZT",
+      "sha256": "6E2CAA63031C7C6D8F6963DC3CE44C4D0290045EBFB2CBCC5FDD968DEE488E5B",
+      "size": 8240
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/new_Armor08.bmd",
+      "sha256": "46D4AF7B5EA308BF268C744711A13B9DB5A3E95D0F050919BEA57C9FADEEE2D4",
+      "size": 18917
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/new_Boot08.bmd",
+      "sha256": "3E87AF776A840640142D2AB46B2C9861330EA1DE24AB0E8F9E2659BE9562DC67",
+      "size": 14829
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/new_Glove08.bmd",
+      "sha256": "59B8900BBC19E3EC34957C72B55F6394484B54742C60720A06F8B45B7A198259",
+      "size": 18113
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/new_Helm08.bmd",
+      "sha256": "C08E55724DE987C22C18FB9D18866750E275DF22F089E2447B70972A087F893A",
+      "size": 13049
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/new_Pant08.bmd",
+      "sha256": "DFD4CA3C54A9A682A432A8B03390E20D6939CF681BB81F6069455F6834D357A1",
+      "size": 14751
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/skin_warrior_01.OZJ",
+      "sha256": "5FF2F191BBBB82E8D9457E586453D1FD7C7B0B011A5706195B199E025FB9B7C9",
+      "size": 70021
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/Thumbs.db",
+      "sha256": "BA9140914709B69C8F11395BA099E492393337849D909C3E9C2D0835B3EDDFD6",
+      "size": 32256
+    },
+    {
+      "path": "Data/Player/LuckyItem/69/upper_luck13m.OZJ",
+      "sha256": "D70828702951232ACBEE28AAAFFE8F52D69CA8E9D9407160722B01A76342974E",
+      "size": 43468
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/headhelmet Luck 41.OZJ",
+      "sha256": "9E9EF0DA8D296E952BCCE2429F43EA5E515B743622EEBDF6EF9011CC61F53150",
+      "size": 12549
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/InvenArmorMale41_luck.OZT",
+      "sha256": "0522CDDE32D6CC3DC88C27A8A7A2ED38249C82E9557E1F3900F63A9905494593",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/InvenPantsMale41_luck.OZT",
+      "sha256": "298980C97CCC1D06A6DBFE1F5F70673DACDADA683240D7096CAF10A719BDC6AF",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/new_Armor09.bmd",
+      "sha256": "3991A15E6AE4CEB411B46FEC7E14961FCD611552EDA69A51499BC84C0A41419C",
+      "size": 63228
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/new_Boot09.bmd",
+      "sha256": "661867C90AAD2BE8A5CA4B6954839A1523316C99F5C6E658D215B70EEFE58052",
+      "size": 29444
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/new_Glove09.bmd",
+      "sha256": "6490FAB8E9D0F40A46AEAA8812A2406D66B1F7A87A26CD61712557E41374A1DC",
+      "size": 27432
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/new_Helm09.bmd",
+      "sha256": "B2BA0AA40574A4BDE7ABA176DFA67B23FC2B8B7F708189F8F7A6873D49B82450",
+      "size": 43958
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/new_Pant09.bmd",
+      "sha256": "33999BBC1A8BCF36F51D8854D48DD966917EBE2317ECFF8E25C48C325E107E44",
+      "size": 36026
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/Skinclass luck206_boot.OZJ",
+      "sha256": "79FBF81E959357CEBC3953B80943917BE55A6EF2003C8D60CD943E1AEB273F03",
+      "size": 30776
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/Skinclass luck206_glove.OZJ",
+      "sha256": "60B2A76129C89B1C02AB662F57E5B2415AC7F0C52A788B204CEA35D475A17294",
+      "size": 31296
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/Skinclass luck206_lower.OZJ",
+      "sha256": "AA93BA960C06EEAABBA7D90A503398E0919B8BE8A0DCFE8AE7B8701F0BE459E5",
+      "size": 36430
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/Skinclass luck206_lowertail.OZT",
+      "sha256": "F26BCDD19851E7ACED50CCE5DA9E75001E2E00E188C0B7774666DD602E28947C",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/Skinclass luck206_upper.OZJ",
+      "sha256": "CD0C7ADA4E23322C4F66494C91DD624CC33E6F073CFF9F2008FA67D9BF3E9761",
+      "size": 41500
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/Skinclass206head_N.OZJ",
+      "sha256": "CA9727B9E7C424B66019D4F37DCB8DB49EE09E392790667C65B908F10E0A65EE",
+      "size": 18367
+    },
+    {
+      "path": "Data/Player/LuckyItem/70/Skinclass206_headhelmet.OZJ",
+      "sha256": "7C6D5B5E837E7DF218BAE887F8B614ACC75FB985F0128A8D9E4765AF05A20512",
+      "size": 11756
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/boots_luck14.OZT",
+      "sha256": "2C7657B23C0D874BE95030157E0A13027AB637C422B238CE5F7DF3CA1625BAFE",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/gloves_luck14.OZT",
+      "sha256": "443A7DCA9FCCCD30C21ED131F4006D91AEA1AEC8AA42670C52EBB45260941422",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/hide.OZJ",
+      "sha256": "C57418AEF587D22EA27CC63AD24AFBBAB5503C31F47AA2F9F52B74795DA93850",
+      "size": 4556
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/lower_luck14.OZJ",
+      "sha256": "60666536A28E458CBE27A052D3FD2DFF7D3FA29D104E5564839D62C05AB96FCC",
+      "size": 24458
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/new_Armor10.bmd",
+      "sha256": "9C70C7C969DF27996D9878816DE27B35E2BC38331FCC1ACA9B7A485274FB7A99",
+      "size": 25049
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/new_Boot10.bmd",
+      "sha256": "A28874C2447D91C011A473C015A6A18995987CB8F435B7F2117AF57284671ED8",
+      "size": 17787
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/new_Glove10.bmd",
+      "sha256": "0BB74DAC5AE89934E9ECA6548BBF8569549D3C240F1E973B3B2F4612BD4BC1A2",
+      "size": 16839
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/new_Pant10.bmd",
+      "sha256": "90174DF5F31DE8D601042D6F8E48D7C3F42F9458E28501062821B6B2EC2DF713",
+      "size": 11981
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/Thumbs.db",
+      "sha256": "E7BC2C388462119A0D12653FE81B4FF9B281CDED459BC2582DBBD86F2104F3A3",
+      "size": 22016
+    },
+    {
+      "path": "Data/Player/LuckyItem/71/upper_luck14.OZT",
+      "sha256": "7FDB45F0467C7388697890804821373F5222398B8CA0A4BBC60921114237798F",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/Item762_Armor_luck.OZJ",
+      "sha256": "1F00C696371356F661F23B676AAA28EA403D385A22092DE69650562899037F8D",
+      "size": 87966
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/Item762_Helm_luck.OZJ",
+      "sha256": "AD3D04C4914770BB7BEE505E5AA4664176B0257E8FE9DF730ED29446ED3023AE",
+      "size": 107626
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/Item762_Sword_luck.OZJ",
+      "sha256": "BB92390E66BC0EF44DED39DD30365FBFD26F3FE1409E8E796CC955CAAB34C185",
+      "size": 116768
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/new_Armor11.bmd",
+      "sha256": "8003D0D544F41CF382A94D7D76FC6EE2B510E7B01D7A4D68AA419CD1D1A6E6B5",
+      "size": 91622
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/new_Boot11.bmd",
+      "sha256": "98EF49232E4AB0CD0D5EE7B2700ADD71A401C540057AAD57721246EFE2791196",
+      "size": 36462
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/new_Helm11.bmd",
+      "sha256": "43CD3001BD34BB1F6849D8FD65645BD2663B8638BB9164171401A45129F5CBE2",
+      "size": 52906
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/new_Pant11.bmd",
+      "sha256": "D900DD574081F4786E1DBA64EBA54E3E6A7FB9BC80081EC3F9E8F9AD65B660D6",
+      "size": 33786
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/new_Sword34.bmd",
+      "sha256": "133E1BB30B1DC43A1680E0959BE6007CAC5786ECB2E365ECEBD5BED8FA4F3F3E",
+      "size": 33742
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/new_SwordL34.bmd",
+      "sha256": "C71D90D049C9DD3AE30DA7E8BF841889869845671E6827B4849C15C93DA42307",
+      "size": 36344
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/new_SwordR34.bmd",
+      "sha256": "F302AC7669C836BDFF001129ADBBAD31585042F6EDA0422C27F009CE4C74590D",
+      "size": 36344
+    },
+    {
+      "path": "Data/Player/LuckyItem/72/Thumbs.db",
+      "sha256": "71BC8B7B03C9719D8A2480C901EB2FCA1491CD55EEF4E8599F03FD18055AC1D7",
+      "size": 26624
+    },
+    {
+      "path": "Data/Player/MaskHelmMale01.bmd",
+      "sha256": "A71DF3EB95AA8011A96CCC1E195AFEE4D1805B0ED5987E3EBBA24831F3A4643F",
+      "size": 26001
+    },
+    {
+      "path": "Data/Player/MaskHelmMale06.bmd",
+      "sha256": "D21957A8430DAC3DE972DED02CB6893F94F5BADD71B9501D4A4A91D1BD68F30F",
+      "size": 22671
+    },
+    {
+      "path": "Data/Player/MaskHelmMale07.bmd",
+      "sha256": "01425C1E3B995F506CF3D387D9B11055706D86127AA52185457365BB992C2625",
+      "size": 27241
+    },
+    {
+      "path": "Data/Player/MaskHelmMale09.bmd",
+      "sha256": "E1D4DF08C21A997431A236F939125B0089EB143633B0F98FBF26D14D2665CF78",
+      "size": 14595
+    },
+    {
+      "path": "Data/Player/MaskHelmMale10.bmd",
+      "sha256": "0D9108EC1756E6695C2028BADCFA0C5AB7B80980AA02B7D4B00647716B251A1F",
+      "size": 22477
+    },
+    {
+      "path": "Data/Player/MG08211838201361.ozj",
+      "sha256": "4A610A9DAE105ED0A0C67E1346D802851F3A642D966F7B73767F0D689CC10C99",
+      "size": 20518
+    },
+    {
+      "path": "Data/Player/MG082118382013625.ozj",
+      "sha256": "4FEB0C41CADF9983FCF5BA453237C5A0963386D58D0A61CE29BAC5D61CD4D4F1",
+      "size": 31786
+    },
+    {
+      "path": "Data/Player/MG08211838201363.ozj",
+      "sha256": "853E9DDE2D6D29D33CEDEE02D9CCC5E12AD6B1B0F0B41BC64D456C0F5F79863B",
+      "size": 20247
+    },
+    {
+      "path": "Data/Player/MG082118382013645.ozj",
+      "sha256": "7E5923F5324E83EDD081EDD0A1B50CD2B9727BD26D4DA5925987D5933E0D37FE",
+      "size": 23574
+    },
+    {
+      "path": "Data/Player/MG08211838201365.ozj",
+      "sha256": "C40385C542AB5739A8B596686E4B399D06C341371CE2642A8D13F141AC5B4371",
+      "size": 25276
+    },
+    {
+      "path": "Data/Player/mg_arm.OZT",
+      "sha256": "17E383C0CE587A68044220D88A4521786078C36D18F7A547C2DC46E020716430",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/mg_boots.OZT",
+      "sha256": "845DA46258918A8E71AC61D157E021EA32361916E5BEE7BC54A86EA4DCA195CB",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/mg_jacket.OZT",
+      "sha256": "CE0BFD31CF01F651F5523A840C6F763C04BB5573C0AB964D2A3FD5C3658BACEA",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/mg_under.OZT",
+      "sha256": "3EE6CB63AFBC28995A1BE93067DB42089137CF359AFDE64BD4D278123DB80C2D",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/MonDec31174812201213.ozj",
+      "sha256": "B9ECA040472BE0AFE3A8EABF3FBC53E0048A87C35882C4C93B0C8553CA3E2816",
+      "size": 27814
+    },
+    {
+      "path": "Data/Player/MonDec31174812201215.ozj",
+      "sha256": "11DCD6074C9A30E95CDC70A93B1B8534B6F9E0716EEE7112E5B81977E4366A8F",
+      "size": 23359
+    },
+    {
+      "path": "Data/Player/MonDec31174812201216.ozj",
+      "sha256": "C8F1396BB154C564EA37F61329FFF56EBDDF2EF5C6E4B1367CF28A4E9BEC13DF",
+      "size": 28181
+    },
+    {
+      "path": "Data/Player/MonDec31174812201219.ozj",
+      "sha256": "5A47EC03355B29D328665F91EF794375521D69A0C0B8E99155A086D328210768",
+      "size": 27489
+    },
+    {
+      "path": "Data/Player/MonDec31174812201220.ozj",
+      "sha256": "0C80570AE14C33ECBAD70E1D200D3BFFEE429F74D7416DB97089217ABB1DF01C",
+      "size": 29342
+    },
+    {
+      "path": "Data/Player/MonDec31174812201221.ozj",
+      "sha256": "9A04DD4FE460A8C5CBD1075C599D1D04F48BD898F05990948F99D002BB17562C",
+      "size": 24429
+    },
+    {
+      "path": "Data/Player/PantClass01.bmd",
+      "sha256": "4EC3F3F21EC2C9B0D8ACD00BC44C310DDE1647A2E31E71633606777E0762470E",
+      "size": 13955
+    },
+    {
+      "path": "Data/Player/PantClass02.bmd",
+      "sha256": "1DFA59CE7282812D51C7C04AC04670CFDD9BC71D5993DCF67D1C250921FBA2D8",
+      "size": 12231
+    },
+    {
+      "path": "Data/Player/PantClass03.bmd",
+      "sha256": "EB6E977521C87BA3E5E520DD6BB6AFA73EEEAFA7B423C2B1707747BA8EA08881",
+      "size": 13007
+    },
+    {
+      "path": "Data/Player/PantClass04.bmd",
+      "sha256": "2DE702BACB11CC169B657613B3CAC60AE00DF306AF6D3FCE38FDF9C28EB625C9",
+      "size": 11351
+    },
+    {
+      "path": "Data/Player/PantClass05.bmd",
+      "sha256": "0F389BAA8FF8082149A8FE46991D8AC5A8B7392E5D0A289E0FCA70A12AB9E4F5",
+      "size": 12988
+    },
+    {
+      "path": "Data/Player/PantClass06.bmd",
+      "sha256": "765A417AA47ED35A5CA0C1DE4E335445512EE47F926FF2272B504C45EE41F212",
+      "size": 38088
+    },
+    {
+      "path": "Data/Player/PantClass07.bmd",
+      "sha256": "33C62EFF88DD61E3B8A0373766FC7CA834D7975DF3956E8725E63DF3FADEC499",
+      "size": 21396
+    },
+    {
+      "path": "Data/Player/PantClass201.bmd",
+      "sha256": "EAA940C63B1D3BBA10102EAB9550C07D3C29D2FEBBF82028D5E600AA1DD3C618",
+      "size": 13892
+    },
+    {
+      "path": "Data/Player/PantClass202.bmd",
+      "sha256": "D33BCAD39433F1507A0F44B80079A329DB0EB3E9C489449F0836EBEE0E5D8000",
+      "size": 12168
+    },
+    {
+      "path": "Data/Player/PantClass203.bmd",
+      "sha256": "376D451D810B1A9356C4060B9B6585692B6AB5266C85C3631AFFFCD82FAB80B0",
+      "size": 12944
+    },
+    {
+      "path": "Data/Player/PantClass206.bmd",
+      "sha256": "6F7F9F201B0DB8D76663717B9383F364EE52DF5B95762C76654211328736421E",
+      "size": 29344
+    },
+    {
+      "path": "Data/Player/PantClass301.bmd",
+      "sha256": "36C74CE8E298634425C9299C9710E94529FB8109DF5823E1B71D532937929087",
+      "size": 11348
+    },
+    {
+      "path": "Data/Player/PantClass302.bmd",
+      "sha256": "0762F4E9E214FEA75430831CC7F973D54A7FFF76636B380560CDF726D7FAB880",
+      "size": 12172
+    },
+    {
+      "path": "Data/Player/PantClass303.bmd",
+      "sha256": "1B35059F6293991883A334198F6D0ECBB20E22AB5E905B122E24C26B87CF5BF0",
+      "size": 12948
+    },
+    {
+      "path": "Data/Player/PantClass304.bmd",
+      "sha256": "F96733D4807124A3A8DAE8F0035493EDB0769C3AA843BB58E43473ABCEAFC9B8",
+      "size": 15104
+    },
+    {
+      "path": "Data/Player/PantClass305.bmd",
+      "sha256": "6B23F5398E4C3DB8020B7B1219594B4E97F279D815D66E2910F5E6D372A5EAD8",
+      "size": 20764
+    },
+    {
+      "path": "Data/Player/PantClass306.bmd",
+      "sha256": "4BC8E4F4298FAC0D0F07B09B45B1A3BAA570E9F040DEB07E3379793824782491",
+      "size": 28248
+    },
+    {
+      "path": "Data/Player/PantClass307.bmd",
+      "sha256": "AA884306208F473B244236B3ACFC66FA34610E8FF20D15243B72DC99F249ED61",
+      "size": 37286
+    },
+    {
+      "path": "Data/Player/PantElf01.bmd",
+      "sha256": "6059609506789BCBCAC0E67A0B1D33162BC5615C703B266026BEF0ECD49C3531",
+      "size": 15969
+    },
+    {
+      "path": "Data/Player/PantElf02.bmd",
+      "sha256": "E0DD32CC975031D4504EA310FA154BC2CB79DD6B32AB5837561D7AC12B5E45BE",
+      "size": 15381
+    },
+    {
+      "path": "Data/Player/PantElf03.bmd",
+      "sha256": "5A2B6300ACC378A9D9F26248D56C84177927879FCA7D12C35D765CF5AAE14150",
+      "size": 18489
+    },
+    {
+      "path": "Data/Player/PantElf04.bmd",
+      "sha256": "0F05A3389E862B9C47041A8318DD433FA17E8B84A53102ED83DA40D8E027115D",
+      "size": 13097
+    },
+    {
+      "path": "Data/Player/PantElf05.bmd",
+      "sha256": "AE3A2BFC46E4AF84D3190F0F966CFC76B53EB8B92B9762D63C4423817D422BBB",
+      "size": 15947
+    },
+    {
+      "path": "Data/Player/PantElfC01.bmd",
+      "sha256": "AA6A13AFEE031F02961BA96045C0AB27C7A43A8E9ED3F2C6EF0DD38BF2F4DFB2",
+      "size": 27006
+    },
+    {
+      "path": "Data/Player/PantElfC02.bmd",
+      "sha256": "27AD89656F859E31D918F856E455E115001B8FE528DF551E30537FFA233CC200",
+      "size": 30478
+    },
+    {
+      "path": "Data/Player/PantMale01.bmd",
+      "sha256": "6432F9C7A5B8DD18CB27BC7D3DD5CD1E27E22CB3604CC17FCF41C3943F8FD4A5",
+      "size": 14209
+    },
+    {
+      "path": "Data/Player/PantMale02.bmd",
+      "sha256": "CAE5C18C0B57A487726C11C81C1ECE80CCC5105B8BE08DA45715273D7CC60724",
+      "size": 14073
+    },
+    {
+      "path": "Data/Player/PantMale03.bmd",
+      "sha256": "9B832295B088983B6B1ACF3E7FACE2BB4F8EF0EA9D2984F9FAC10D4ACF9ABE0E",
+      "size": 15989
+    },
+    {
+      "path": "Data/Player/PantMale04.bmd",
+      "sha256": "E67BB6E4A9512F27E090F1778BB7A0EA71AC6DA684A99C8CB251D12A0770CF46",
+      "size": 14747
+    },
+    {
+      "path": "Data/Player/PantMale05.bmd",
+      "sha256": "3B19803335E726E892BA04C618EFBA6FB23943A601B865E28DC4B729DBC53F12",
+      "size": 14631
+    },
+    {
+      "path": "Data/Player/PantMale06.bmd",
+      "sha256": "23EB4CB503E11ADF4E9A85EEB4A9697D8DB052C32A5202B907859BE9A430D908",
+      "size": 14385
+    },
+    {
+      "path": "Data/Player/PantMale07.bmd",
+      "sha256": "9C3EBABD5ED458BD47E8844E29F90B0810F42F5D12E90D150EADD8025EB88AB5",
+      "size": 13517
+    },
+    {
+      "path": "Data/Player/PantMale08.bmd",
+      "sha256": "E468431713E14D9C5A0A11508827A739611DCF6F378EC3D5475603A9B2FBFC24",
+      "size": 16371
+    },
+    {
+      "path": "Data/Player/PantMale09.bmd",
+      "sha256": "63B126BD95AE3A6A47685059EC39DDE2BDD22B4DB30B47E0C1AD91B0093907BB",
+      "size": 14507
+    },
+    {
+      "path": "Data/Player/PantMale10.bmd",
+      "sha256": "197D1B77E4D50F619D3CF478ADB183203730F0188AE40D2076FA92C932496EA5",
+      "size": 11977
+    },
+    {
+      "path": "Data/Player/PantMale101.bmd",
+      "sha256": "03E09A259841FE329D70DBE236B9A4A3F7C86286FBCB0F52D05F31702A0F0734",
+      "size": 72480
+    },
+    {
+      "path": "Data/Player/PantMale102.bmd",
+      "sha256": "4008D9C737A07A2D94CB300B9E14B9AFB148DEFCCB876014D1054E2280108A54",
+      "size": 70954
+    },
+    {
+      "path": "Data/Player/PantMale103.bmd",
+      "sha256": "E462708AF28CAE9D3A7577E2BE0666ADF6116B283699EE496067D23897EB2D16",
+      "size": 75224
+    },
+    {
+      "path": "Data/Player/PantMale104.bmd",
+      "sha256": "CC8E9CE868805275C9F6E5B6D1A3A0573A9345F3CF3985770E8F451F934D23E9",
+      "size": 78010
+    },
+    {
+      "path": "Data/Player/PantMale105.bmd",
+      "sha256": "27D17808FF156186F911BD6635E4FD77A1F504CFE9F41F1634854BDFCA3E0981",
+      "size": 74090
+    },
+    {
+      "path": "Data/Player/PantMale106.bmd",
+      "sha256": "726BE30C4FC87426758A28D4F5321B6E563669AFDC29100D064AC9C624A660EF",
+      "size": 83890
+    },
+    {
+      "path": "Data/Player/PantMale107.bmd",
+      "sha256": "4008D9C737A07A2D94CB300B9E14B9AFB148DEFCCB876014D1054E2280108A54",
+      "size": 70954
+    },
+    {
+      "path": "Data/Player/PantMale108.bmd",
+      "sha256": "6FA5E91001EC7A616B16EEBD734F0C2F71A09162FBEB0075D99F9A0E9EED8BF2",
+      "size": 78010
+    },
+    {
+      "path": "Data/Player/PantMale109.bmd",
+      "sha256": "27D17808FF156186F911BD6635E4FD77A1F504CFE9F41F1634854BDFCA3E0981",
+      "size": 74090
+    },
+    {
+      "path": "Data/Player/PantMale110.bmd",
+      "sha256": "0A80FC9535A80F9624A068303C37D284E122A93565E99BA89AA1F87E10F4902E",
+      "size": 119912
+    },
+    {
+      "path": "Data/Player/PantMale16.bmd",
+      "sha256": "77F49D7819F14E748098F6033F0C1B716A9E5CCC6E97D46BC94B236953F7E5B5",
+      "size": 11977
+    },
+    {
+      "path": "Data/Player/PantMale17.bmd",
+      "sha256": "E7C6C9110D75322E186B5A0F0BB858493ACE9BE1FEDA59F7C6C94433A661670D",
+      "size": 14481
+    },
+    {
+      "path": "Data/Player/PantMale18.bmd",
+      "sha256": "A1D4699371025E8559F80D65E7E89C3DAE3C209A0FC8D041F2626BF027F30F15",
+      "size": 21465
+    },
+    {
+      "path": "Data/Player/PantMale19.bmd",
+      "sha256": "6608BC6B28368AC18CF1542D75844FA49F783E14BAE13AEE7641CC1EECA50436",
+      "size": 18283
+    },
+    {
+      "path": "Data/Player/PantMale20.bmd",
+      "sha256": "831609D19FB1E283EF93C8BF88E8626E1F58B729EBEEB7340B51E3EB2C11E759",
+      "size": 26411
+    },
+    {
+      "path": "Data/Player/PantMale21.bmd",
+      "sha256": "FDF2E44D5F7BF6CC4F5081F16A3C65F3A9C61040B234D236E0B186C31EAB823A",
+      "size": 20820
+    },
+    {
+      "path": "Data/Player/PantMale22.bmd",
+      "sha256": "96D60E5494B73FA25917036EAA53625C2C7BF018866C051BB2D22A655EF78C65",
+      "size": 15062
+    },
+    {
+      "path": "Data/Player/PantMale23.bmd",
+      "sha256": "C10D452D8CCEAE98DA132A8B1638B11F33AD00C6511C5B98C979FA6C85E22CDE",
+      "size": 20327
+    },
+    {
+      "path": "Data/Player/PantMale24.bmd",
+      "sha256": "FBC1A76D2C76CCF5F17FF4DD1FAB97EA47A0D585FD90E288CA3227241A503CCD",
+      "size": 22562
+    },
+    {
+      "path": "Data/Player/PantMale25.bmd",
+      "sha256": "897CC35372D2022CDC03855564EE2F5DAFA9D0027C9193FB5F66FFAD31B6C9BF",
+      "size": 24150
+    },
+    {
+      "path": "Data/Player/PantMale26.bmd",
+      "sha256": "2DD610BB5A81DA00588F1A43BE08E0CC88E8D57BF18DEB0BE8583777C1179632",
+      "size": 11568
+    },
+    {
+      "path": "Data/Player/PantMale27.bmd",
+      "sha256": "1485374839F6E210D03DE1386F264CFD6836E23087207DD18F2E5EBD652BAEFF",
+      "size": 10240
+    },
+    {
+      "path": "Data/Player/PantMale28.bmd",
+      "sha256": "B0684D26D244D3A18FAD3D29076D653C2F1B074688C79C74CFF195F2927BA49D",
+      "size": 10882
+    },
+    {
+      "path": "Data/Player/PantMale29.bmd",
+      "sha256": "861ECBD044E227AEB42F8E833FAE249450ACA1F3AF6FB61B52496045BFF6593D",
+      "size": 10288
+    },
+    {
+      "path": "Data/Player/PantMale40.bmd",
+      "sha256": "072A10F447870E575DF363275EB5BF84D1C7F8367641433C6D540CEF6701EC37",
+      "size": 30220
+    },
+    {
+      "path": "Data/Player/PantMale41.bmd",
+      "sha256": "6EFCEDB0C362AE1D0B9A5C6EE02CA039549AB04DCB536E12B493385A5CCBAAC2",
+      "size": 36026
+    },
+    {
+      "path": "Data/Player/PantMale42.bmd",
+      "sha256": "730A53F265A6DFA78A50DD35EDAED71FC97A9CB26E1CBCE1A6FFA3749B51AD44",
+      "size": 31690
+    },
+    {
+      "path": "Data/Player/PantMale43.bmd",
+      "sha256": "D9E5CCBF017E946A2970166ADB1011AAA80B609DBA3728B7C506AB624BB61912",
+      "size": 46216
+    },
+    {
+      "path": "Data/Player/PantMale44.bmd",
+      "sha256": "202ECEB36DAA267E18F8BFF64CF112BE45C91D8383F367F7C88D5D8EF5A520D4",
+      "size": 61302
+    },
+    {
+      "path": "Data/Player/PantMale45.bmd",
+      "sha256": "C845CC4864D4BD3D844AADAB8705DC1C37FE35D9960AA6045ACEBAFBA7D33675",
+      "size": 48926
+    },
+    {
+      "path": "Data/Player/PantMale46.bmd",
+      "sha256": "3BB7A960CB17DD2DD4B1832281945A4CAF3D1AEC16C0AAC31FB943D4BEF2F6DE",
+      "size": 40404
+    },
+    {
+      "path": "Data/Player/PantMale47.bmd",
+      "sha256": "BB5D9FA9E598F5CD0D0FEE3359F565EAC1AF2498404612693818A77738251C3D",
+      "size": 44014
+    },
+    {
+      "path": "Data/Player/PantMale48.bmd",
+      "sha256": "4C5FB30A161C64904DF2EBA622D70BA39900B85F037B11AE362B740F5BE05D1C",
+      "size": 57370
+    },
+    {
+      "path": "Data/Player/PantMale49.bmd",
+      "sha256": "140E310E04BD50C3F8A3AE25D7A8E6BE70542D6CF7A4C8B26FD35C75B13DEC1F",
+      "size": 38778
+    },
+    {
+      "path": "Data/Player/PantMale50.bmd",
+      "sha256": "D175CB6B3CCC7C2187D913F64190A03D51A1AB570E339E1B4D42511DB6702DE3",
+      "size": 41984
+    },
+    {
+      "path": "Data/Player/PantMale51.bmd",
+      "sha256": "A8C71B10FA408DF081793F0EADE488574F11BBABDDDD39106AEEF8444D2B4C5B",
+      "size": 37648
+    },
+    {
+      "path": "Data/Player/PantMale52.bmd",
+      "sha256": "EB03AA6752D9F5C84D7AB3E312B05DBC546AAA590E868DAB836BE747CBEA170E",
+      "size": 48952
+    },
+    {
+      "path": "Data/Player/PantMale53.bmd",
+      "sha256": "51EC39B61A67E5AFB5392A07081DDB176D3F74564CCF19E80F183F2DCB2033E1",
+      "size": 32060
+    },
+    {
+      "path": "Data/Player/PantMale54.bmd",
+      "sha256": "9A374B30CBEF694BBA64B3E57722ED80C6A12C5D0397530A0B9A802D3AA5F176",
+      "size": 41566
+    },
+    {
+      "path": "Data/Player/PantMale60.bmd",
+      "sha256": "FBB889FB2811A0CDBA86EAB7DA8F039BD65DE6C6E706ACB75697726D690A8210",
+      "size": 35722
+    },
+    {
+      "path": "Data/Player/PantMale61.bmd",
+      "sha256": "A1102A730D495C738F340235034869A949BE70BBC2367AD183FDCB2A949AEDBC",
+      "size": 33786
+    },
+    {
+      "path": "Data/Player/PantMale62.bmd",
+      "sha256": "0079017C586B2C025A3C18BF63BA074818ECC719003F1DC0198EEAEA3468A591",
+      "size": 30158
+    },
+    {
+      "path": "Data/Player/PantMale74.bmd",
+      "sha256": "43C66103F79D53650A2985DAE42A27A410339AC1B41CEE13A46F49B057E45DD0",
+      "size": 40984
+    },
+    {
+      "path": "Data/Player/PantMaleTest20.bmd",
+      "sha256": "2790786DB9E6B8622E97162A40DB77296DCDB992C324D8B171D4245C4B10E176",
+      "size": 43765
+    },
+    {
+      "path": "Data/Player/PantMonk01.bmd",
+      "sha256": "60081B1294606B21094BB1E3934C81C6387AF4C0890FE45F47E8B6B5917EE183",
+      "size": 16078
+    },
+    {
+      "path": "Data/Player/PantMonk02.bmd",
+      "sha256": "12730A8D5FD3265C8445412DF6AA1D0BE7810E532E78A984EE839B0701E2775E",
+      "size": 15270
+    },
+    {
+      "path": "Data/Player/PantMonk03.bmd",
+      "sha256": "3E4B3FE8DB89C697943561809C39763FC06F7C9AABEA2EC74385460ADA95444F",
+      "size": 16294
+    },
+    {
+      "path": "Data/Player/PantMonk04.bmd",
+      "sha256": "F9123355664C7A6EBEDAEA81FE4810AD4B7B80BF4E003949CE3BF68986E41F95",
+      "size": 13670
+    },
+    {
+      "path": "Data/Player/pants.OZJ",
+      "sha256": "EDE5C1AA8D91A5C868572770D3C4CB2E3A76EAEC26691E6C842217D492EB81E8",
+      "size": 34445
+    },
+    {
+      "path": "Data/Player/pants02.OZT",
+      "sha256": "309F5B0228BF2902E869EF7E9661714284E6248B2EF7249AFDBB710218AE0EAE",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/pants22.OZJ",
+      "sha256": "EDE5C1AA8D91A5C868572770D3C4CB2E3A76EAEC26691E6C842217D492EB81E8",
+      "size": 34445
+    },
+    {
+      "path": "Data/Player/pants22.OZT",
+      "sha256": "309F5B0228BF2902E869EF7E9661714284E6248B2EF7249AFDBB710218AE0EAE",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/PhoenixSoul.OZJ",
+      "sha256": "CD373B51B86B0E6D2BBC2D94D82C8FD73DBA239975D4353537BD960D939FE10D",
+      "size": 105871
+    },
+    {
+      "path": "Data/Player/player.bmd",
+      "sha256": "2964E7C41DCF686B79E53A74261192EBFC6879D36BC030C2E503EF0B8CEF38EF",
+      "size": 3324834
+    },
+    {
+      "path": "Data/Player/playertest.bmd",
+      "sha256": "2C60AAA9B89025F7F45DD3890C506457DF2F776F71F8B6755BB16772CC4859E5",
+      "size": 2882850
+    },
+    {
+      "path": "Data/Player/RFighter_Hair.OZT",
+      "sha256": "3E3561448A2486435AA32E58DBE785F387BAD348E804F6986B1E4603555957BF",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/rhchupper.OZJ",
+      "sha256": "25C94F63FACDE4444442409CF8E613F82FA29B78B52B7FF5F7C2B8050D9B13D3",
+      "size": 9527
+    },
+    {
+      "path": "Data/Player/richboots.OZJ",
+      "sha256": "10DCD47F0D938F5681B35ACBE035095ED9D41DF5FF502E1BBE9139BC9329823A",
+      "size": 3164
+    },
+    {
+      "path": "Data/Player/richcrystal.OZJ",
+      "sha256": "E03360EA213321745D6314735D2594D5032123F314D0A907CDEA7465827BEA9D",
+      "size": 10533
+    },
+    {
+      "path": "Data/Player/richface.OZJ",
+      "sha256": "87C7DDE47B2FA9D94DEF7871B32505360683335624C7DEF78FD75468CA021D2A",
+      "size": 14510
+    },
+    {
+      "path": "Data/Player/richfama.OZT",
+      "sha256": "9B29DA5CFEB324F64D82AECBB00DD686E36B59F654265429661FEA6899623755",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/richgloves.OZJ",
+      "sha256": "0048F9C9C8EC07D55FA9BF9E413CB4D7D462C76130C21BF4DDF66FAB49CBC7AF",
+      "size": 2584
+    },
+    {
+      "path": "Data/Player/richhelmet.OZJ",
+      "sha256": "130DDBC7E4D5119A5F27F3239D6BD7B004406F20B5C51B5BAF2F6781FB8D2E59",
+      "size": 17456
+    },
+    {
+      "path": "Data/Player/richlower.OZJ",
+      "sha256": "AD0295A8E2FFB640D9EAD41A6573D187656B9CCD0B79202C92A634FA06FC2C57",
+      "size": 10586
+    },
+    {
+      "path": "Data/Player/Robe01.OZJ",
+      "sha256": "E4C478E5F6E923DF8151D57EB855E454A12E552DCAAE980E57029330AEFFD524",
+      "size": 12069
+    },
+    {
+      "path": "Data/Player/Robe02.OZJ",
+      "sha256": "90EE7FD56082B8DF11BCAD64C2BB23E7F7ACF47BE2752714F8D48ACC24054F77",
+      "size": 7245
+    },
+    {
+      "path": "Data/Player/Robe03.OZT",
+      "sha256": "36C6C319CF6D4C8C7866D1CDC136441AA1D651294E84EECFFC90A203386936B1",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/sal_s.OZJ",
+      "sha256": "4F469072C2132798407A68378ED328E3061990D86F9EE472F2D36FA9182BB02D",
+      "size": 9523
+    },
+    {
+      "path": "Data/Player/SFarmor.jpg",
+      "sha256": "7A694D3CE75595DCAADBD120BCDB7000E24E54DC190B3F547CC693D9A9654CA7",
+      "size": 111860
+    },
+    {
+      "path": "Data/Player/SFarmor.OZJ",
+      "sha256": "5057B3356C9F696E8F07F4C7ECECF9CF285F82DD5D91ABA3B7ECFE08DB8D045A",
+      "size": 111884
+    },
+    {
+      "path": "Data/Player/SFbody.jpg",
+      "sha256": "CECE3DC6C84813FB5DCA0BEEFF0FAC7C3A7ADDCD6BE28CD9619CEADC80E49631",
+      "size": 105411
+    },
+    {
+      "path": "Data/Player/SFbody.OZJ",
+      "sha256": "F5AD1EB6FBAD933F43C2139BA38AA9714927014A47333158600CCB2ABE777008",
+      "size": 105435
+    },
+    {
+      "path": "Data/Player/Shadow01.bmd",
+      "sha256": "199FAD432203813C5CBB27768C4B9FBCCBE1F1F3BFDE84B5FC5B43AD568A5950",
+      "size": 11671
+    },
+    {
+      "path": "Data/Player/Skinclass106.OZJ",
+      "sha256": "3144EEE13EB54AAE5F408C371726D198D91B530A66E694F9BB1B0ACF487AD367",
+      "size": 104439
+    },
+    {
+      "path": "Data/Player/SkinClass106headhair_N.OZT",
+      "sha256": "0F9AD217771074C94975B8BB0C7827389CCCC61503A20F5386D5DC613C87DCB4",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass106head_N.OZJ",
+      "sha256": "819447E8BF0DAFA863970AEF973A29E23DDCBCE62A7CCCED28235970247B074C",
+      "size": 16800
+    },
+    {
+      "path": "Data/Player/SkinClass106_boot.OZJ",
+      "sha256": "111D82036E2084A8E0EEB67C40881EBD1A2ECBD8E06914F4AFFB97A565B0EC0E",
+      "size": 9373
+    },
+    {
+      "path": "Data/Player/SkinClass106_glove.OZJ",
+      "sha256": "A6827C309E217197580EE8D56225948A8EA4410F99744F02E67D0834BE3199C9",
+      "size": 9669
+    },
+    {
+      "path": "Data/Player/Skinclass106_hair.OZT",
+      "sha256": "DA28202FA546840CA470BA340A50126A693D202C73FD9EA74ECBD4975595CF23",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass106_headhelmet.OZJ",
+      "sha256": "4629709E0C4223A17E22B9006988E1FF1B59365852D9AEA85D3CD8951F951B55",
+      "size": 11650
+    },
+    {
+      "path": "Data/Player/SkinClass106_lower.OZJ",
+      "sha256": "5A28468EAA3B833AFB8A0B3F841247A099C6CB5A1E1DEF30F21C5BC6BFD7316B",
+      "size": 35187
+    },
+    {
+      "path": "Data/Player/SkinClass106_upper.OZJ",
+      "sha256": "F1AA92193D365F59DA5DF5B631AEF2C7877E750AA9B1F0FDD2EB5DB5AC1BC5D0",
+      "size": 41075
+    },
+    {
+      "path": "Data/Player/SkinClass106_wand.OZJ",
+      "sha256": "CE9AA866481B27E3586B776C665AF35CB99A23374E50553D78009C6127C17BCD",
+      "size": 13363
+    },
+    {
+      "path": "Data/Player/SkinClass106_wand01.OZJ",
+      "sha256": "FAEE077952238EBE7BE04DD2C94ECEEE00AEDB3310B11C68DDB68C2A5F504548",
+      "size": 10133
+    },
+    {
+      "path": "Data/Player/Skinclass107.OZJ",
+      "sha256": "4D2616A83C5DBAD5A41CF0ED318368BD88F1C065289637F97378C81CAF0496BF",
+      "size": 90999
+    },
+    {
+      "path": "Data/Player/Skinclass107_hair.OZT",
+      "sha256": "15FEC01186F672272188DB8FFB03E39B4040075F93788A01EEC4006EF413E68E",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/Skinclass206head_N.OZJ",
+      "sha256": "CA9727B9E7C424B66019D4F37DCB8DB49EE09E392790667C65B908F10E0A65EE",
+      "size": 18367
+    },
+    {
+      "path": "Data/Player/Skinclass206_boot.OZJ",
+      "sha256": "8A420C718518088AB548D76551C45356E81936C77D37B308F39F3FAB64B16523",
+      "size": 33084
+    },
+    {
+      "path": "Data/Player/Skinclass206_glove.OZJ",
+      "sha256": "6CC2E477F61A1AD8F6D93B6F8E7733D0E3E1CA207D9AD3583D5916D07705DF6C",
+      "size": 17656
+    },
+    {
+      "path": "Data/Player/Skinclass206_headhelmet.OZJ",
+      "sha256": "7C6D5B5E837E7DF218BAE887F8B614ACC75FB985F0128A8D9E4765AF05A20512",
+      "size": 11756
+    },
+    {
+      "path": "Data/Player/Skinclass206_lower.OZJ",
+      "sha256": "75F06AA6120F0B680C6FF9EA6A47A2C013FFFE0BC8FA361C96165605F6348C98",
+      "size": 40134
+    },
+    {
+      "path": "Data/Player/Skinclass206_lowertail.OZT",
+      "sha256": "ED9BA5D06567E9B171C9219EF8C6E6A56F5928B317D5756129CF19D6BBB4B8C3",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/Skinclass206_upper.OZJ",
+      "sha256": "931A6FC62FB318815BA2DD0CB2E45D9FAC9D35823AC8060892677B66C8FA6811",
+      "size": 45843
+    },
+    {
+      "path": "Data/Player/SkinClass301.OZJ",
+      "sha256": "CAAD70B9B75AE9EDD541F3A3C0CD3F959321A7D12CD1EC48D5741C3FA68F613C",
+      "size": 101468
+    },
+    {
+      "path": "Data/Player/SkinClass302.OZJ",
+      "sha256": "F8BC70EE53F37F565C0B7853315BB5CFF1F63DC682993267567E992B49D0E412",
+      "size": 93998
+    },
+    {
+      "path": "Data/Player/SkinClass303.OZJ",
+      "sha256": "A85EE13D744713DD3C65C7E1DA09D430128EF1B0B8553747BA8DA18C6F91C70D",
+      "size": 112347
+    },
+    {
+      "path": "Data/Player/SkinClass304.OZJ",
+      "sha256": "3B4BF23598DED06D60D846EC49C949C6B9BCD09C714DEE576BB5542BB18F80A4",
+      "size": 96227
+    },
+    {
+      "path": "Data/Player/SkinClass305.OZJ",
+      "sha256": "9E127F53957E299600BB6B119425B238555C26502263397960013E7196491B0D",
+      "size": 34790
+    },
+    {
+      "path": "Data/Player/SkinClass306headhair01_N.OZT",
+      "sha256": "686D0948220DEB0F6F42DDAA4806792536172241876DA93BDE41343C8CA57696",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass306headhair_N.OZT",
+      "sha256": "641A09BEF203345CCBCE68F4835F01E0CA10497CEF7A738905637EEF277E3D46",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass306head_N.OZJ",
+      "sha256": "A6F8F86CA3DE578DDA5C0AD8B3179926A06BB7941D2AD6182AE51B188A9D9347",
+      "size": 3352
+    },
+    {
+      "path": "Data/Player/SkinClass306_boot.OZJ",
+      "sha256": "445C9DE7CB2D08897FB0C8B102316DD1BDA698B93CF7005309F2AF3936586081",
+      "size": 41139
+    },
+    {
+      "path": "Data/Player/SkinClass306_glove.OZJ",
+      "sha256": "4145FE8A242A82C6F64A4D7309C745B2B841CD77B641C7C364093B0F0D028C0B",
+      "size": 41622
+    },
+    {
+      "path": "Data/Player/SkinClass306_headhelmet.OZJ",
+      "sha256": "11B1A19EF5060C39EDDFEF78FA57D401E66E7231EE09C26331DD7A02A4940FAA",
+      "size": 11140
+    },
+    {
+      "path": "Data/Player/SkinClass306_lower.OZJ",
+      "sha256": "01B1F77F8CE91DAA1270DD06A5C263F1C3D0E5B4D2539B52F563FC295BECF6B8",
+      "size": 42401
+    },
+    {
+      "path": "Data/Player/SkinClass306_lowertail.OZT",
+      "sha256": "9F735AF3882413891645C30C098382F5D740E483B0FA9EF4B6D1CD4257C96733",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass306_upper.OZJ",
+      "sha256": "15CCF2F6077F6C72FADD6D23ED69C25AE62ACE1E95205F6E1072C32F985CBB5C",
+      "size": 41127
+    },
+    {
+      "path": "Data/Player/SkinClass406headhair_N.OZT",
+      "sha256": "B344072A53D0B7B9DF142BCB2AC5EC910D7D0E0DC44FB5A1CE1F435D64DB165C",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass406head_N.OZJ",
+      "sha256": "A53C7B2D4C2532807E5F7BC76AACFD9C8667C7B6861C11CF65BABC9A310873EC",
+      "size": 3493
+    },
+    {
+      "path": "Data/Player/SkinClass406_boot.OZJ",
+      "sha256": "4E4D5DC6BDDAE1B7369AFBF536176F73F4C0A439E77000B740E017270E64DBB1",
+      "size": 30666
+    },
+    {
+      "path": "Data/Player/SkinClass406_glove.OZJ",
+      "sha256": "B18C035B52CDDE296AE556D75184B9B02F9F85C4E52B36AA409B985FDD2612D4",
+      "size": 38717
+    },
+    {
+      "path": "Data/Player/SkinClass406_headhelmet.OZJ",
+      "sha256": "D7C866AE847CE8CC8E30AD396A6C4947DDD665D0CD240960EF5502FD07CFD0E6",
+      "size": 12062
+    },
+    {
+      "path": "Data/Player/SkinClass406_lower.OZJ",
+      "sha256": "D55C2D38182C7788B91D1893FCC1B2D3C28B6F7D44A5E22C31A6BDDF2ACB4BCA",
+      "size": 43982
+    },
+    {
+      "path": "Data/Player/SkinClass406_upper.OZJ",
+      "sha256": "8404D485195553348EB705CB6C4B5CFA65D2111CA03FE3219B6640F24F0A7C14",
+      "size": 12441
+    },
+    {
+      "path": "Data/Player/SkinClass506headhair_N.OZT",
+      "sha256": "471AC840B2907F5EAFE03CB2A055C8B92DE429A2A6B151FEB508AB4C671BBC2F",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass506head_N.OZJ",
+      "sha256": "1C8DCFBC0CFBB6A016156656DC6315BD8BEF47B0B8BDC06D8F86764E2179AD81",
+      "size": 3268
+    },
+    {
+      "path": "Data/Player/SkinClass506_boot.OZJ",
+      "sha256": "CA9C2B5500362D55B609407AF6A204D5314B44DFB3EE55C06A0B305ECAB76CD7",
+      "size": 18927
+    },
+    {
+      "path": "Data/Player/SkinClass506_glove.OZJ",
+      "sha256": "9ACD41482B3EECE66C06D38124935DF72C10D516B37CBDE4CC2D4BD36B356827",
+      "size": 19270
+    },
+    {
+      "path": "Data/Player/SkinClass506_headhelmet.OZJ",
+      "sha256": "F08FB73CEE4D44E26F7240E29569FCF8EB96E0CD505755B7B431203BEC395C35",
+      "size": 12421
+    },
+    {
+      "path": "Data/Player/SkinClass506_lower.OZJ",
+      "sha256": "D859A59E5416328EEE10982E9F1C41A4F716FF1D0EF9BECA757E76163773B43A",
+      "size": 40785
+    },
+    {
+      "path": "Data/Player/SkinClass506_lowertail.OZJ",
+      "sha256": "78DF02E553942A560F712546EFAE2A1720FA19C2518647EA8F22517D04D7AD55",
+      "size": 16276
+    },
+    {
+      "path": "Data/Player/SkinClass506_lowertail01.OZT",
+      "sha256": "94DAD418A58203640C6B900C3E01AF8483A733779CBFC94DD32444D026FACDD1",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass506_upper.OZJ",
+      "sha256": "2CB09CA85AEF57DDD8A16F3D74B00ECD3594C5E122E3483E919107D8F9616678",
+      "size": 43885
+    },
+    {
+      "path": "Data/Player/SkinClass606headhair_N.OZT",
+      "sha256": "A14270C7C2870595F0916072FF3122CA3669D2B2B989A81A8CB0BADA560224F3",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SkinClass606head_N.OZJ",
+      "sha256": "8CB60C34C2779B54D7B0003D88B775C5464A76AE1AF54BC84C0895D2F49E9278",
+      "size": 18367
+    },
+    {
+      "path": "Data/Player/SkinClass606_boot.OZJ",
+      "sha256": "E8C8BC8549EF83750E536C7AC9F33697868F9A014682FC6D6D84E9EF3EF08C6F",
+      "size": 20137
+    },
+    {
+      "path": "Data/Player/SkinClass606_glove.OZJ",
+      "sha256": "8A4939087585C87EE1CE484588DC2CF0A8943FBE5208C977FD9F67BC9CF99934",
+      "size": 17063
+    },
+    {
+      "path": "Data/Player/SkinClass606_glovecloth.OZT",
+      "sha256": "8CA12194F43FC2984710E37B95030F1A0CEA0CA4C16020FCB60E3ED4357F72D3",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/SkinClass606_headhelmet.OZJ",
+      "sha256": "CED32F2BA2C0047732A3ACD82F0E5AF9513AF585A5C72BF3CDD186F2C8BFE7AD",
+      "size": 11958
+    },
+    {
+      "path": "Data/Player/SkinClass606_lower.OZJ",
+      "sha256": "8A890B5F8E4F8F3ABF6F79176DB62540A13A2452B4884D4512ED268F92321950",
+      "size": 41745
+    },
+    {
+      "path": "Data/Player/SkinClass606_lowertail.OZT",
+      "sha256": "5754BB9F7CB8F69C2A31D3A8791CDB04D58A5BE475570297DAE4C39766352FEB",
+      "size": 32816
+    },
+    {
+      "path": "Data/Player/SkinClass606_R.OZJ",
+      "sha256": "CB74483BC1AA4CC0D90CB4B530AB1BB4773EC57014107BDB93F8DEC8DAB210DF",
+      "size": 13843
+    },
+    {
+      "path": "Data/Player/SkinClass606_upper.OZJ",
+      "sha256": "DD5F9CB8DA05AA8368D10ED803E6406BE48C912FDA7B10542FC96CF622386066",
+      "size": 46744
+    },
+    {
+      "path": "Data/Player/SkinClass706_loweritem.OZT",
+      "sha256": "450F89FD867071C8CF9810A6DB83216909A739DC54C0B2E5C8692F81CB772839",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/SkinClass706_upperitem.OZT",
+      "sha256": "9A6553A023EA41267B9E2003AAEEBF0AABA20258805C6F2CBB736B31EF8740EB",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/skin_archer_01.OZJ",
+      "sha256": "F47E28467FE311330FEBDE9DCEB619FAC4C009AD8CECB24FB2ECE9EF3C70C003",
+      "size": 72632
+    },
+    {
+      "path": "Data/Player/skin_barbarian_01.OZJ",
+      "sha256": "E00985DA32D82E4212145FB7F697CA64CD3FE7866FA5E2F0E6EA89FD1CC37C43",
+      "size": 58290
+    },
+    {
+      "path": "Data/Player/skin_E1.OZJ",
+      "sha256": "82B2203742342F1DA8C56326ED18D2101D6AF3187F565BC7421B1C3937761138",
+      "size": 4526
+    },
+    {
+      "path": "Data/Player/skin_ff.OZJ",
+      "sha256": "177E5690CE4977D4ECF1B7641F6F2034EEB16F7E9D8C7695F2782B6B372CEBDC",
+      "size": 11834
+    },
+    {
+      "path": "Data/Player/skin_special_01.OZJ",
+      "sha256": "F0755EF14168318B8B47015B7CC1F7DD47DD7B3EF270CB3DCC0C35927D504467",
+      "size": 74179
+    },
+    {
+      "path": "Data/Player/skin_warrior_01.OZJ",
+      "sha256": "5FF2F191BBBB82E8D9457E586453D1FD7C7B0B011A5706195B199E025FB9B7C9",
+      "size": 70021
+    },
+    {
+      "path": "Data/Player/skin_wizard_01.OZJ",
+      "sha256": "5A0705FBF5F6A212FF735902CAE471FEF268BAA74AF581F25DF712FA7A158EB3",
+      "size": 68852
+    },
+    {
+      "path": "Data/Player/SM09004250201329.ozj",
+      "sha256": "D772B514B9F9CD022D823F91EC750AD2D4C13071BAD6D2C83F54088BAB9CD8BF",
+      "size": 23632
+    },
+    {
+      "path": "Data/Player/SM09004250201330.ozj",
+      "sha256": "8C265B4BB8581945AA4C57DCC3D7FEDDD780D707B7BA207F1E3C8DD1D8FED3D6",
+      "size": 25488
+    },
+    {
+      "path": "Data/Player/SM09004250201332.ozj",
+      "sha256": "48F72B054389DE4AF3151DAE3762A2A8E30514E2CF500D8E615738CB36592049",
+      "size": 31752
+    },
+    {
+      "path": "Data/Player/SM09004250201333.ozj",
+      "sha256": "E4A5D35B4473CB4D3CE211E09210AB3EB45030EC024731C6F88A3536539C84B6",
+      "size": 25468
+    },
+    {
+      "path": "Data/Player/SM09004250201334.ozj",
+      "sha256": "C390E082581ED0D5F9C3D6C5AC45BBCE509F1197CCB36E0C1CF28AA423A2CAD8",
+      "size": 29413
+    },
+    {
+      "path": "Data/Player/SM09004250201335.ozj",
+      "sha256": "A7811BB8618B43E93FBD0A8614AEED0A7149D33BAD137E931B05C72C0E4A9B68",
+      "size": 12958
+    },
+    {
+      "path": "Data/Player/SPweapon.OZJ",
+      "sha256": "F2539C1EDFE60F7C0053C547FE37CF14902D3C326B47F8FA4892DD3930B67526",
+      "size": 94849
+    },
+    {
+      "path": "Data/Player/ssal74.OZJ",
+      "sha256": "630CCB66400858DDD4AE697B28EDD521BBA70B67FC68975736F4EC37E0C832DA",
+      "size": 19554
+    },
+    {
+      "path": "Data/Player/SU08231830201312.ozj",
+      "sha256": "C19085175635591E3C4BDFD6991DFF226B67469CEB2B0AA6519747B0F6BA1CC0",
+      "size": 27092
+    },
+    {
+      "path": "Data/Player/SU08231830201313.ozt",
+      "sha256": "5F67BEBBD46B13B76AF2988F32BEEDF88100C713699EDDB028F40D040EE7277A",
+      "size": 16432
+    },
+    {
+      "path": "Data/Player/SU08231830201314.ozj",
+      "sha256": "71AB2C33D001FE07B759AA5CE60A38F0DE3714F44B032BDEA59524BF25DF442D",
+      "size": 22913
+    },
+    {
+      "path": "Data/Player/SU08231830201315.ozj",
+      "sha256": "076CEBBCFFA8D84B7A6029D066333DBB9F628E8BDDA570751542A8F706368FD7",
+      "size": 27351
+    },
+    {
+      "path": "Data/Player/SU08231830201315.ozt",
+      "sha256": "DF6A60BBCB2108F995816835F9CF48553E3AED0CCE1F66D52AF77FACA4AA96F7",
+      "size": 49200
+    },
+    {
+      "path": "Data/Player/SU08231830201318.ozj",
+      "sha256": "5C70032009BE211CFC1C8278DFC206FA9C62E8F4B6561837260E832D7D16C72B",
+      "size": 26751
+    },
+    {
+      "path": "Data/Player/SU08231830201319.ozt",
+      "sha256": "9DE8C29B63703C906A0B855DF5192CAABC6A89A1FCD519B62A555DE084C2D7AD",
+      "size": 98352
+    },
+    {
+      "path": "Data/Player/SU08231830201320.ozj",
+      "sha256": "7D590ADD6FE7A0FD362D39621705571695319D19DF317E83FD292B69E4A43644",
+      "size": 23828
+    },
+    {
+      "path": "Data/Player/SU08231830201321.ozj",
+      "sha256": "1886CCF264BD50E0502A86FA5921CE833F2CF66D7E788F05CFFE4F93C6778F8D",
+      "size": 19342
+    },
+    {
+      "path": "Data/Player/SWING01043643201311.ozj",
+      "sha256": "5A7BD8222EA2E78C978F5476A27B26D9B109B87A3F3C32EBE1015F7C11ECD401",
+      "size": 29950
+    },
+    {
+      "path": "Data/Player/SWING01043643201312.ozj",
+      "sha256": "025E23EC836AA63FA148086341F1FEB1B69192E15003860B845E6AA89378C7AE",
+      "size": 31284
+    },
+    {
+      "path": "Data/Player/SWING01043643201313.ozj",
+      "sha256": "12380412D60743244318B69E5EED353E3B68C9CC404798B3720D8906DFD1E9B1",
+      "size": 35261
+    },
+    {
+      "path": "Data/Player/SWING01043643201314.ozj",
+      "sha256": "7575F10603D29BD4FA66F5194AD98F72ADDD6EA5E4766E0B555289D7B58C3866",
+      "size": 29729
+    },
+    {
+      "path": "Data/Player/SWING01043643201315.ozj",
+      "sha256": "A5E931D5ADF4B383D5A02F63DC40D2D19AF36C8370E5331762B2B3B260CAA382",
+      "size": 39372
+    },
+    {
+      "path": "Data/Player/Sword33.bmd",
+      "sha256": "70223C53172C71E2F5E70B80A0ABF3AB99D43EDAE5E463D84C2807D5F6AF438C",
+      "size": 77786
+    },
+    {
+      "path": "Data/Player/SwordL33.bmd",
+      "sha256": "178083F7492C31D8EC2FFCA7356E6070CC2139E88BD5E54C1FA7A2F29FCBBDF8",
+      "size": 80388
+    },
+    {
+      "path": "Data/Player/SwordR33.bmd",
+      "sha256": "1B86AF5E6506522C8BC3AD471E732A0D245834ABD27A604441A7B03D4E7B3DDD",
+      "size": 80388
+    },
+    {
+      "path": "Data/Player/TKnightA.OZJ",
+      "sha256": "FCC2BF51DC442070FE9936E45C653C584B44253474F03E37B51891629890A889",
+      "size": 96376
+    },
+    {
+      "path": "Data/Player/TKnight_Hair.OZT",
+      "sha256": "BECDB6ADA94FC902D51920112C4619ED6BE94836C521B3D45AA58F351C113EAB",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/t_PantMale19.bmd",
+      "sha256": "6608BC6B28368AC18CF1542D75844FA49F783E14BAE13AEE7641CC1EECA50436",
+      "size": 18283
+    },
+    {
+      "path": "Data/Player/upper.OZJ",
+      "sha256": "D233AC561D86D14D594E1CB8E8F3F57C5CE3B0C2475C9A0160FFF9425773892C",
+      "size": 44617
+    },
+    {
+      "path": "Data/Player/upper22.OZJ",
+      "sha256": "D233AC561D86D14D594E1CB8E8F3F57C5CE3B0C2475C9A0160FFF9425773892C",
+      "size": 44617
+    },
+    {
+      "path": "Data/Player/Upper74.OZJ",
+      "sha256": "121088B87B0539AEFE00CB726824232437413675F47B3FFCAA4F136551B401F3",
+      "size": 38351
+    },
+    {
+      "path": "Data/Player/upperta_s.OZT",
+      "sha256": "406830EF9BF0737188C712157EF840F16C16A295B657B37B98DD04A79F5AD487",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/upper_02b_m.ozt",
+      "sha256": "5664E1695681A7A952B234A940E3589E72978FEF3AA33819322DFA397F71AC5D",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/upper_02_m.OZJ",
+      "sha256": "35A44DAB8A01711C4AA1A94510FCC20848ED463674C69EC77C46E5CF7A9AA061",
+      "size": 22407
+    },
+    {
+      "path": "Data/Player/upper_03.OZJ",
+      "sha256": "529BA90B97B6DE5102526BE697E6484F6BD06F53B69DB1F48AF451F79DF0DA36",
+      "size": 36523
+    },
+    {
+      "path": "Data/Player/upper_03_m.OZJ",
+      "sha256": "86174AA362F063BFB144D079895AF9C35CA38A3F3431BCB82CB60998139D7FB0",
+      "size": 43671
+    },
+    {
+      "path": "Data/Player/upper_04.OZJ",
+      "sha256": "17B70A7BC974EC417FFCFD99F25987CCD3D3652F04F52EDF99C8132A5F8136F1",
+      "size": 22569
+    },
+    {
+      "path": "Data/Player/upper_04_m.OZJ",
+      "sha256": "9646361A1ADB3ECDB20AC71BF4DED8D30CF3319FBC368C951C278B1DD44435AC",
+      "size": 29234
+    },
+    {
+      "path": "Data/Player/upper_06.OZJ",
+      "sha256": "DB773756A50B14E51959A13F1101AF38CF6CA0639855E6BEF4512294CD007939",
+      "size": 24273
+    },
+    {
+      "path": "Data/Player/upper_07.OZJ",
+      "sha256": "7C215FD14B05DE0DAEB3E618C2A2F8C8CA8D796E2214576DEC96D0E2A9240641",
+      "size": 31231
+    },
+    {
+      "path": "Data/Player/upper_07b.OZT",
+      "sha256": "E7CA9BBC496989D1D501D8D94EE0463B8AE7F98343C649D4F16CBCDF8BD04531",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/upper_07b_m.ozt",
+      "sha256": "E7CA9BBC496989D1D501D8D94EE0463B8AE7F98343C649D4F16CBCDF8BD04531",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/upper_07_m.OZJ",
+      "sha256": "325F58D24AF3C56D98FD12DFD8E5695681CF35AACB434AD50D80E7186C16D219",
+      "size": 19733
+    },
+    {
+      "path": "Data/Player/upper_08.OZJ",
+      "sha256": "719AE0C5DFFE84688EFD551FF76D94DBFB6290C37D2414558A445176E696649E",
+      "size": 34499
+    },
+    {
+      "path": "Data/Player/upper_08_m.OZJ",
+      "sha256": "719AE0C5DFFE84688EFD551FF76D94DBFB6290C37D2414558A445176E696649E",
+      "size": 34499
+    },
+    {
+      "path": "Data/Player/upper_09.OZJ",
+      "sha256": "027FC33F264D2C607B9AE98697221A7F05C51D6BC8017F515BE6E488ADBD6061",
+      "size": 33047
+    },
+    {
+      "path": "Data/Player/upper_09b_m.ozt",
+      "sha256": "BAB67442779C956ACBA748E012A2B3543AAD48678986F1307511558B49151CC9",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/upper_09c.OZT",
+      "sha256": "F64C99530975FA2E712448C49C60735894A7FE3CB61A64D73529845AD7811FB6",
+      "size": 4144
+    },
+    {
+      "path": "Data/Player/upper_09_m.OZJ",
+      "sha256": "55E9AA1CC7C11BEEF3B7135E44082EB693B1648E558EB289D0C2D30C7319778F",
+      "size": 27735
+    },
+    {
+      "path": "Data/Player/upper_10.OZJ",
+      "sha256": "B7D34CEBA3F205BD8629DE34F7D332B5207BED32AF9354E6DE442242F8D7AA72",
+      "size": 35134
+    },
+    {
+      "path": "Data/Player/upper_10c.OZJ",
+      "sha256": "779DEAC1626A1FB549DC55D73D694C2C3AD8E300F7FB3492ED62350772432676",
+      "size": 38013
+    },
+    {
+      "path": "Data/Player/upper_10_m.OZJ",
+      "sha256": "B7D34CEBA3F205BD8629DE34F7D332B5207BED32AF9354E6DE442242F8D7AA72",
+      "size": 35134
+    },
+    {
+      "path": "Data/Player/upper_11.OZJ",
+      "sha256": "9B3A863D6A2271C21B59D6C29C6966858CBF0EB02E32D19162F97B99D45A7E57",
+      "size": 26313
+    },
+    {
+      "path": "Data/Player/upper_12.OZJ",
+      "sha256": "B5104EF9A439526899854635E130CC49ED696670E088204990E7A0E316EC8BD0",
+      "size": 25457
+    },
+    {
+      "path": "Data/Player/upper_13m.OZJ",
+      "sha256": "04588A3DB845F08841CE7E5F95947AFB314059F59773FD46AD6FA45F05CD3D30",
+      "size": 31468
+    },
+    {
+      "path": "Data/Player/upper_14.OZT",
+      "sha256": "58562165B6A1AAA54AC9D7EC24E6631EF3D462F13C31B57478EC73BD92AF8DCD",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/upper_14m.OZJ",
+      "sha256": "BA290E4382C63B2ED5D12306BFBBA29522AABB486C2815C6B3D8F064C4F52B24",
+      "size": 31796
+    },
+    {
+      "path": "Data/Player/upper_15.OZT",
+      "sha256": "248FC8D5819A59312E1DA6A09B678EB84616EA576383983E435A9D58BF86D767",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/upper_15m.OZJ",
+      "sha256": "3868CE918A15DADC91391BDCD1C55C5F47E4595B92E86873E6417CDA84961B68",
+      "size": 28315
+    },
+    {
+      "path": "Data/Player/upper_17.OZJ",
+      "sha256": "AD4E8B4CCF803BD427B343DA91881930A242EF13ED2A9AE030200B21654EE8F0",
+      "size": 24596
+    },
+    {
+      "path": "Data/Player/upper_18.OZJ",
+      "sha256": "BE361AE36BA9922C5A200D95A85B05A3338EB4B617D2F8F44B2EA26618AFACD1",
+      "size": 27255
+    },
+    {
+      "path": "Data/Player/upper_bd.OZJ",
+      "sha256": "36792C37FFE64A3A850E6D3658DCE114606437FA35D1923CBEA56A1B024642A7",
+      "size": 29323
+    },
+    {
+      "path": "Data/Player/upper_bld.OZJ",
+      "sha256": "B990A40E1C187C713DCCE08CC7E827417F9028B711A18F29708DBF3880492203",
+      "size": 24881
+    },
+    {
+      "path": "Data/Player/upper_E1.OZJ",
+      "sha256": "BC0059CB17341ACF5D1C86C4F8DC0CB6FA6B6E179E6C11F5F84C3ACC142395C6",
+      "size": 35557
+    },
+    {
+      "path": "Data/Player/upper_E1.OZT",
+      "sha256": "C9DB2D1A475CF1CDFD97F76ABBC022FF7052E9539004E8CCD5132BB1C44A24E4",
+      "size": 65584
+    },
+    {
+      "path": "Data/Player/upper_E1Test.OZJ",
+      "sha256": "26645939FC7413533CA7535AF52D0C96BA0173E55642D1F9BC1BE594154B9FF4",
+      "size": 27410
+    },
+    {
+      "path": "Data/Player/upper_s.OZJ",
+      "sha256": "62588C8E8BB848AC40222433EA5949648608131910410DF52C587CE092043261",
+      "size": 56617
+    },
+    {
+      "path": "Data/Player/Wing02.bmd",
+      "sha256": "C2728DCF027FFDE92561772B10DB72931FC857E0759F1A80A13273BEA567C0FB",
+      "size": 6507
+    },
+    {
+      "path": "Data/Player/Wing03.bmd",
+      "sha256": "AB0FC5E8F1F98AB27EDC45EF97CE45DF5E6E09AF267B6A5EA1D6ADEF1FFD71DC",
+      "size": 5371
+    },
+    {
+      "path": "Data/Player/Wing04.bmd",
+      "sha256": "3B82D97F3D666D568D5E0837962BAE055F145EA896C0659B810AE4B438EB5929",
+      "size": 4044
     },
     {
       "path": "Data/World103/103.ozt",
