@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "baseUrl": "https://noobzaibot.github.io/mu-monasterio-update/",
   "files": [
     {
       "path": "Data/Custom/Data/MSPro.zip",
-      "sha256": "6458C6FD1B313A5439DF601624B406E96FA5921D2F791378560FBB4376C8B171",
-      "size": 1623540
+      "sha256": "1ED40CB70BF99D20E06281D7B75C3CFA5AAC5F0A223E5995805E9B7DCADFDEC7",
+      "size": 1623604
     },
     {
       "path": "Data/Custom/Item/AMB01114306201313.ozj",
@@ -1331,6 +1331,31 @@
       "path": "Data/Custom/Monster/starp00_renew.OZJ",
       "sha256": "4EEB67503BAD7EEC869EC7BDD4C07FE4BCA8896D1D7749A6D7AE4223D93BBAF0",
       "size": 76126
+    },
+    {
+      "path": "Data/Item/SFbody.jpg",
+      "sha256": "CECE3DC6C84813FB5DCA0BEEFF0FAC7C3A7ADDCD6BE28CD9619CEADC80E49631",
+      "size": 105411
+    },
+    {
+      "path": "Data/Item/SPweapon.jpg",
+      "sha256": "8601F628A6AFD56924B7D25118875A168B5508550A2F3483DB44AF3E1158B23D",
+      "size": 94825
+    },
+    {
+      "path": "Data/Item/Sword33.bmd",
+      "sha256": "C5494F80B6CD03DC1365C2DC628946F9D7CDE090195B2939A8A7F4540617A519",
+      "size": 26152
+    },
+    {
+      "path": "Data/Item/SwordL33.bmd",
+      "sha256": "2108AD9A11239DD472403B3A583C057C1B752DB3A68798CBA9D1F716D33384B8",
+      "size": 28774
+    },
+    {
+      "path": "Data/Item/SwordR33.bmd",
+      "sha256": "3942B90E994A7BFDDFE0320FD8CA52C320EEFBF71CE52810AFEEF30D0184EE1D",
+      "size": 28774
     },
     {
       "path": "Data/Local/backupMix.bmd",
