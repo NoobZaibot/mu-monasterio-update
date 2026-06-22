@@ -1,11 +1,11 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "baseUrl": "https://noobzaibot.github.io/mu-monasterio-update/",
   "files": [
     {
       "path": "Data/Custom/Data/MSPro.zip",
-      "sha256": "009288DEB91D6C6F55F7E78A9011AE1E4C2AC23FF1A45F9269804C7FA737081F",
-      "size": 1623604
+      "sha256": "C6630E6CF72564C42EC494CE8145BDFA36808C2B5861710F68BEFA32CAD3644D",
+      "size": 1623636
     },
     {
       "path": "Data/Custom/Item/AMB01114306201313.ozj",
@@ -1434,7 +1434,7 @@
     },
     {
       "path": "Data/Local/Eng/itemtooltip_eng.bmd",
-      "sha256": "A76C55667C02899BE9EEC9471B2D4A62C26D04EA1B095DB6A6AE47B89F63B53C",
+      "sha256": "E6745B319CA8B0BC6437B98F5F9537E71FC6D646DA20B593881D52B3ED0F889D",
       "size": 1015812
     },
     {
@@ -1629,7 +1629,7 @@
     },
     {
       "path": "Data/Local/Por/itemtooltip_por.bmd",
-      "sha256": "A76C55667C02899BE9EEC9471B2D4A62C26D04EA1B095DB6A6AE47B89F63B53C",
+      "sha256": "E6745B319CA8B0BC6437B98F5F9537E71FC6D646DA20B593881D52B3ED0F889D",
       "size": 1015812
     },
     {
@@ -1774,7 +1774,7 @@
     },
     {
       "path": "Data/Local/Spn/itemtooltip_spn.bmd",
-      "sha256": "A76C55667C02899BE9EEC9471B2D4A62C26D04EA1B095DB6A6AE47B89F63B53C",
+      "sha256": "E6745B319CA8B0BC6437B98F5F9537E71FC6D646DA20B593881D52B3ED0F889D",
       "size": 1015812
     },
     {
