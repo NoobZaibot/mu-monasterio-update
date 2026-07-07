@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.16",
   "baseUrl": "https://noobzaibot.github.io/mu-monasterio-update/",
   "files": [
     {
@@ -1439,7 +1439,7 @@
     },
     {
       "path": "Data/Local/Eng/item_eng.bmd",
-      "sha256": "F9137201847F47640058A17A0DC945562227E493CFADD2F0043CF72925A36893",
+      "sha256": "0CC753B8FEC56E000D589B3F1B9F580212BFFBECC83A9F20BDBE7A2F5E18EE8D",
       "size": 688132
     },
     {
@@ -1634,7 +1634,7 @@
     },
     {
       "path": "Data/Local/Por/item_por.bmd",
-      "sha256": "F9137201847F47640058A17A0DC945562227E493CFADD2F0043CF72925A36893",
+      "sha256": "0CC753B8FEC56E000D589B3F1B9F580212BFFBECC83A9F20BDBE7A2F5E18EE8D",
       "size": 688132
     },
     {
@@ -1779,7 +1779,7 @@
     },
     {
       "path": "Data/Local/Spn/item_spn.bmd",
-      "sha256": "F9137201847F47640058A17A0DC945562227E493CFADD2F0043CF72925A36893",
+      "sha256": "0CC753B8FEC56E000D589B3F1B9F580212BFFBECC83A9F20BDBE7A2F5E18EE8D",
       "size": 688132
     },
     {
